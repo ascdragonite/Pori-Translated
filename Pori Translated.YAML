@@ -269,14 +269,13 @@ wellspringMillAfterMillLupoNoSaleTextMessageProvider:
  - If my mind has changed.
 
 wellspringMillAfterMillLupoSalesPitchTextMessageProvider:
-Care to purchase a map to celebrate your\nachievement for [AreaMapCost] #Spirit Light#[SpiritLight]?
-If you buy the #card#[SpiritLight]? You want to buy [AreaMapCost]?
+ - If you buy the #card#[SpiritLight]? You want to buy [AreaMapCost]?
 
 wellspringMillAfterMillLupoThanksTextMessageProvider:
  - Good things!
 
 wellspringMillAfterMillLupoWelcomeTextMessageProvider:
-Well, well, well! You've set the gears in motion\nand unmade the mess that was this #mill#! Bravo!
+ - Change! Mixed computer. #Brave friend!#
 
 wellspringGladesTextMessageProvider:
  - USE
@@ -291,427 +290,428 @@ willowsEndTextMessageProvider:
  - Pure
 
 willowsEndLupoFlavorATextMessageProvider:
-Is this what will happen to the rest of #Niwen#?
-The mountains and valleys, the rivers, the #Glades#…
-All distorted and erased in this destruction?
+ - #Don't work much?#
+ - Funny and valve, way, #long wall# ...
+ - How? Cut?
 
 willowsEndLupoFlavorBTextMessageProvider:
-#Kwolok# is gone, #Baur# is busy with his dreams.
-#Mora# sits in the depths below, weakened.
-Who will protect us from this, Ori?
+ - FULL #Available#
+ - 21 and #weaknesses#
+ - What is Golden Boy?	
 
 willowsEndLupoInsufficientFundsTextMessageProvider:
-I'm sorry, but you'll need more #Spirit Light# for that.
+ - Sorry #saters# .ms
 
 willowsEndLupoNoSaleTextMessageProvider:
-Let me know if you change your mind.\nThere may not be much left to map, soon.
+ - If you change your thoughts,\nyou can say it quickly.
 
 willowsEndLupoSalesPitchTextMessageProvider:
-And look, I usually do charge for my services,\nbut given the circumstances...this one's on me.
+ - We see services but in the case.
 
 willowsEndLupoThanksTextMessageProvider:
-Much obliged.
+ - Brand.
 
 willowsEndLupoWelcomeTextMessageProvider:
-Here we are, under the roots of the great\n#Willow# that once gave life to this land.
-I just didn’t know, Ori. I didn’t realize\nthe #Decay# had cut to the very heart of #Niwen#.
-Seeing this…#Tokk# was right to be worried.
+ - Willlow #peshel#
+ - I don't think gold #nx nwe nx#
+ - See - #People# try to think.
 
 willowsEndFirstEncounterTextMessageProvider:
-Greetings, traveler. I am #Lupo# the...\nwell, I called myself the Mapmaker.
-I just didn’t know, Ori. I didn’t realize\nthe #Decay# had cut to the very heart of #Niwen#.
-But seeing this...#Tokk# was right to be worried.
+ - I #tourism-m#.
+ - I don't think gold #nx nwe nx#
+ - But the truth... #l-#
 
 windsweptWastesTextMessageProvider:
-WINDSWEPT WASTES
+ - MARK
 
 windsweptWastesTextMessageProvider:
-Windswept Wastes
+ - Mark
 
 windsweptWastesLupoFlavorATextMessageProvider:
-The #Windswept Wastes#...an evocative name, am I right?
-Okay, I’ll confess, it was I who named them that!
-They weren’t always so windswept, or waste-like,\nyou see. Not when the #Gorlek# lived here.
-Now the #Gorlek# have gone to ground,\nand the ground has gone to sand.
+ - #... interesting name#
+ - I have to read and mention it.
+ - I don't need any damage. #You are here#
+ - #in the frame and on the ground below.#
 
 windsweptWastesLupoFlavorBTextMessageProvider:
-Have you seen #Tokk# around at all?
-If you do run into him, watch out! He’ll squawk your\near off about the "#Gorlek# wonders of the past."
-Me, I’m more concerned about the wonders to come!
+ - #Cx# What is your goal?
+ - If you think so! "Talk #dash# ban"
+ - See!
 
 windsweptWastesLupoInsufficientFundsTextMessageProvider:
  - Forgive your #feelings#?
 
 windsweptWastesLupoNoSaleTextMessageProvider:
-Let me know if you change your mind.\nI’ll be out here, charting these shifting sands!
+ - If you change your thoughts, you can tell me.\nI have a beach flight!
 
 windsweptWastesLupoSalesPitchTextMessageProvider:
-Speaking of maps, care to purchase one of these\n#Windswept Wastes# for [AreaMapCost] #Spirit Light#[SpiritLight]?
+ - Do you want to buy [AreaMapCost] #breeding pictures#[SpiritLight]?
 
 windsweptWastesLupoThanksTextMessageProvider:
  - Good things!
 
 windsweptWastesLupoWelcomeTextMessageProvider:
-Hello there, weary wanderer!
-I’m not sure whether spirits need water, but if you do,\nI’m sorry to say you’ll have to look elsewhere.
-Some may think there’s not much to chart in such\na barren place, but sands shift all the time!\nI could make map after map after map…
+ - Oh no - C!
+ - I don't know what you need it. But I went to the ground
+ - Some say that the disease is very small.\nBut what happened? I have a ticket ...
 
 windsweptWastesFirstEncounterTextMessageProvider:
-Greetings, traveler! I am #Lupo#,\nMapmaker Extraordinaire!
-I’m not sure whether spirits need water, but if you do,\nI’m sorry to say you’ll have to look elsewhere.
-Some may think there’s not much to chart in such\na barren place, but sands shift all the time!\nI could make map after map after map...
+ - That is a trip! #It's not too late!#
+ - I don't know what you need it. But I went to the ground
+ - Some say that the disease is very small.\nBut what happened? I have a ticket ...
 
 windtornRuinsTextMessageProvider:
-WINDTORN RUINS
+ - Archeology
 
 windtornRuinsTextMessageProvider:
-Windtorn Ruins
+ - Archeology
 
 windtornRuinsLupoFlavorATextMessageProvider:
-Some say that this is where everything\nis heading, in the end. Ruination.
-But I see it as just another step along the road of life.
-Things have to fall apart before you make something new.
-And when you make something new...I get to map it!
+ - Some people say everything.\nFinally, transportation.
+ - But I don't see my life anymore.
+ - Share: Before you do new things, you need to do it.
+ - If you are new ... do you want to change it?
 
 windtornRuinsLupoFlavorBTextMessageProvider:
-These wilds really are changing.
-Something tells me you've had a hand in that!
-Which means I owe you my thanks!\nChanging wilds means changing maps!
-And changing maps means more work for yours truly!
+ - The behavior has changed.
+ - How? What do you think about your hands?
+ - What do you want! Change your ticket package!
+ - Newspaper replacement?
 
 windtornRuinsLupoInsufficientFundsTextMessageProvider:
  - Forgive your #feelings#?
 
 windtornRuinsLupoNoSaleTextMessageProvider:
-Let me know if you change your mind. These ruins\nare no place for an adventurer to lose their way.
+ - If you change your thoughts,\nyou can tell the plane.
 
 windtornRuinsLupoSalesPitchTextMessageProvider:
-Care to purchase a map of these ramshackle ruins\nfor [AreaMapCost] #Spirit Light#[SpiritLight]?
+ - Do you find [AreaMapCost] #moral flames#[SpiritLight]?
 
 windtornRuinsLupoThanksTextMessageProvider:
  - Good things!
 
 windtornRuinsLupoWelcomeTextMessageProvider:
-Salutations, fellow wayfarer!
-These ruins really are something special. Every time\nI return, they've been transformed by the whistling wind!
-Did you know wind could shape rock? Well, now you do.
+ - Hello expert!
+ - Archaeologists are special.\nIf you come back, do you know?
+ - Do you know what you think? You do something now.
 
 windtornRuinsFirstEncounterTextMessageProvider:
-Greetings, traveler! I am #Lupo#,\nMapmaker Extraordinaire!
-These ruins really are something special. Every time\nI return, they've been transformed by the whistling wind!
-Did you know wind could shape rock? Well, now you do.
+ - That is a trip! Is that a good or #unique translation?#
+ - Archaeologists are special.\nIf you come back, do you know?
+ - Do you know what you think? You do something now.
 
 baursReachTextMessageProvider:
-BAUR'S REACH
+ - CONNECTION
 
 baursReachTextMessageProvider:
-Baur's Reach
+ - Connection
 
 baursReachLupoFlavorATextMessageProvider:
-I came here looking for some interesting landmarks\nto record, but since the #Decay#, everything's covered in snow.
-It’s like winter came, and the land\nlost all memory of spring.
-And #Baur#’s so fast asleep, he\nlooks just as frozen as his #Reach#!
-I’m sure he’ll wake up one of these\ndays, though. Bears always do.
+ - Eat an attractive monument but snow ### #snow#
+ - All real memories found the winter with real memories
+ - #RANBO RIM# language.
+ - He seems always we
 
 baursReachLupoFlavorBTextMessageProvider:
-You know it's c-c-cold when even I can look at\na bundle of new maps and think "hey, kindling!"
+ - New Card: "Hello, you know!"
 
 baursReachLupoInsufficientFundsTextMessageProvider:
-S-Sorry, but you'll need more #Sp-Sp-Spirit Light# for that!
+ - Type or #B-Vaga# I need it!
 
 baursReachLupoNoSaleTextMessageProvider:
-Let me know if you ch-ch-change your mind.
+ - If you change your thoughts, you can tell me.
 
 baursReachLupoSalesPitchTextMessageProvider:
-Care to purchase a map of these c-c-cold-bound\nclimes for [AreaMapCost] #Spirit Light#[SpiritLight]?
+ - Buy #Jench Jort General#[SpiritLight] and send the temple to [AreaMapCost].
 
 baursReachLupoThanksTextMessageProvider:
-M- - Good things!
+ - 1000 young people!
 
 baursReachLupoWelcomeTextMessageProvider:
-Well met, w-w-wintry wanderer!
-The frost here in #Baur's Reach# makes everything so\nb-brittle. Have you ever seen a map shatter?
-Well, I hadn’t either, before I d-d-dropped one\njust yesterday. The splinters were sharp as glass!
+ - See words!
+ - Book Card #B#?
+ - I can't do this last night?\nHow to become a glasses?
 
 baursReachFirstEncounterTextMessageProvider:
-Greetings, traveler! I am #Lupo#,\nMapmaker Extraordinaire!
-The frost here in #Baur's Reach# makes everything so\nb-brittle. Have you ever seen a map shatter?
-Well, I hadn’t either, before I d-d-dropped one just\nyesterday. The splinters were sharp as glass!
+ - That is a trip! Is that a good or #unique translation?#
+ - Book Card #B#?
+ - I can't do this last night?\nHow to become a glasses?
 
 baursReachAfterThawLupoFlavorATextMessageProvider:
-Spring has sprung at last!
-Spring means melting snow, and melting\nsnow means more water than usual...
-And that water will wear away rock...\nwhich means it’s time to update my maps!
+ - Complete the order?
+ - The amount of liquid and other pellets ...
+ - Water ... Time to recover.
 
 baursReachAfterThawLupoFlavorBTextMessageProvider:
-What a day we're having!
-It's so bright out here now, I hardly even\nneed #Spirit Light# to read my maps!
-I still have to charge for them, though.
-Don't get any ideas.
+ - I don't have a group!
+ - When I read my copy, it was #beautiful# and #very shy#.
+ - But it is released
+ - Apple
 
 baursReachAfterThawLupoInsufficientFundsTextMessageProvider:
  - Forgive your #feelings#?
 
 baursReachAfterThawLupoNoSaleTextMessageProvider:
-Let me know if you change your mind.\nI’ll be here rolling through the flowers!
+ - If you change your thoughts, you can tell me!
 
 baursReachAfterThawLupoSalesPitchTextMessageProvider:
-Care to purchase a map of these springtime slopes\nfor [AreaMapCost] #Spirit Light#[SpiritLight]?
+ - Buy [AreaMapCost] #spring#[SpiritLight] and think a little
 
 baursReachAfterThawLupoThanksTextMessageProvider:
  - Good things!
 
 baursReachAfterThawLupoWelcomeTextMessageProvider:
-Greetings! Lovely weather we’re having!
+ - Because we are happy!
 
 howlsOriginTextMessageProvider:
-MIDNIGHT BURROWS
+ - IN THE
 
 midnightBurrowsTextMessageProvider:
-Midnight Burrows
+ - In the
 
 howlsOriginLupoFlavorATextMessageProvider:
-It's been some time since these #Midnight Burrows# were open\nto exploration. The one the #Moki# call #Howl# made sure of that.
-But what a fascinating place! Have you seen those\nstrange rock outcroppings? Ancient totems, I believe,\nleft by a lost civilization!
-I shall have to add them to my observations. And you\nthought all I did was make maps! Not true, my friend.
-Just...don't let on to #Tokk# that I was interested\nin anything old. He'll see it as competition.
+ - I ### and n #chel# t.
+ - But that's a good place! How? Do you have good stones?\nI think I have lost my old tattoo culture!
+ - I want to see you, I think you send me a message,\nwhat are you doing? Good neighbor
+ - #Olikation ...#
 
 howlsOriginLupoFlavorBTextMessageProvider:
-Speaking of #Howl#, the nights around\nhere have been all but silent lately.
-Well, #Shriek# can still be heard, to be\nsure. But no howls, no growls.
-Now that’s news that would make even #Tokk# smile! I think.
+ - #Nini# is a relatively good relationship.
+ - You can cry but don't cry
+ - This message #Smile smile!# I have question.
 
 howlsOriginLupoInsufficientFundsTextMessageProvider:
  - Forgive your #feelings#?
 
 howlsOriginLupoNoSaleTextMessageProvider:
-Let me know if you change your mind.\nAnd don’t worry, I won’t think less of you.\nThese burrows can be particularly #nasty# to navigate.
+- If you change your thoughts, you can tell me.\nDon't worry, #I don't remember you.#\nThis is a delicious #soft drink#.
 
 howlsOriginLupoSalesPitchTextMessageProvider:
-Care to purchase a map of these twisting tunnels\nfor [AreaMapCost] #Spirit Light#[SpiritLight]?
+ - Do you want to use the [AreaMapCost] tunnel in #light#[SpiritLight]?
 
 howlsOriginLupoThanksTextMessageProvider:
  - Good things!
 
 howlsOriginLupoWelcomeTextMessageProvider:
-Hello there, trusty traveler!
-Is it just me, or is this part of the world particularly tricky to navigate?\nThese tunnels lead in the most perplexing directions!
-I wonder what could be the cause? Some curious root structure?\nThe #Decay#? Ah, well, a fun mapmaking challenge, at least!
+ - Congratulations Hill!
+ - How? It's hard to work in this world? Both work!
+ - What is the reason? How? Is the system large? #Knigen?# Yes, comics!
 
 howlsOriginFirstEncounterTextMessageProvider:
-Greetings, traveler! I am #Lupo#,\nMapmaker Extraordinaire!
-Is it just me, or is this part of the world particularly tricky to navigate?\nThese tunnels lead in the most perplexing directions!
-I wonder what could be the cause? Some curious root structure?\nThe #Decay#? Ah, well, a fun mapmaking challenge, at least!
+ - That is a trip! Is that a good or #unique translation?#
+ - How? It's hard to work in this world? Both work!
+ - What is the reason? How? Is the system large? #Knigen?# Yes, comics!
 
 noOtherTeleportersActivatedTextMessageProvider:
-No other #Spirit Wells# have been activated yet!
+#This;#
 
 noMasterSpiritPortalActiveTextMessageProvider:
-Enable the master Spirit Well in the #Wellspring Glades#.
+ - #Teachers# often start.
 
 howToSaveGameSpiritPortalTextMessageProvider:
-Press [DialogueOption1] to activate this #Spirit Well# and #restore Life and Energy#.
+ - Source to #pop P# BRG gives [DialogueOption1].
 
 howToSaveGameSpiritPortalWithWarpTextMessageProvider:
-Press [DialogueOption1] to #restore Life and Energy# or [DialogueOption2] to #warp#.
+ - #And so# and destroy [DialogueOption1] you know the [DialogueOption2] #proposal#
 
 nameSmallExperienceVesselTextMessageProvider:
-Small Spirit Light Container
+ - Card
 
 findSmallExperienceVesselTextMessageProvider:
-#Spirit Light# can be #traded# to friendly creatures\nfor various #items# and #upgrades#!
+ - #Products# feop with important tasks?
 
 restartMillNameTextMessageProvider:
-The Silent Teeth
+ - My name
 
 restartMillObjectiveTextMessageProvider:
-Restart the Mill
+ - Rebel
 
 restartMillDescriptionTextMessageProvider:
-Kwolok thinks restarting the watermill to the west will clear the murky swamp enough to cross.
+ - Some Western groups occupy lands in the world.
 
 kwolokCleanseWellspringQuestRewardTextMessageProvider:
-Damage Shard
+ - Refer
 
 restartMillSourceUpdateObjectiveTextMessageProvider:
-Search the Mill
+ - Get cargo
 
 restartMillSourceUpdateDescriptionTextMessageProvider:
-Find what is blocking the mill's mechanism to get the water flowing again.
+ - Closing the door can prevent water.
 
 restartMillReturnToKwolokUpdateObjectiveTextMessageProvider:
-Return to Kwolok
+ - Make your home clothes		
 
 restartMillReturnToKwolokUpdateDescriptionTextMessageProvider:
-The water flows through the mill once more. Bring Kwolok the good news.
+ - I went to the factory. Good news about treatment
 
 B12_CompleteAllSideQuests_Description_TextMessageProvider:
-Complete every Side Quest
+ - Have all results
 
 C03_Juggle3OrMoreProjectilesFor5Sec_Name_TextMessageProvider:
-Juggling Act
+ - Offer, offer
 
 newQuestFooterTextMessageProvider:
-Press [Map] to see quest details.
+ - Click file [Map] to see search information.
 
 vibrationHelpAltTextMessageProvider:
-Adjust the strength of the Controller Vibration
+ - Tending an
 
 GrabTokenTextMessageProvider:
-[Grab]
+ - [Grab]
 
 inventoryWispDesertRuinsTextMessageProvider:
-Heart of the Forest
+ - As usual
 
 PauseTokenTextMessageProvider:
-[Pause]
+ - [Pause]
 
 B05_UpgradeAllShards_Name_TextMessageProvider:
-Shard Specialist
+ - Used for administration
 
 forlornRuinsTextMessageProvider:
-OLD_- F^ORLORN^ R^UINS^ -
+ - OLD_- F^ORLORN^ R^UINS^ -
 
 filterFriendsTextMessageProvider:
-My Friends
+ - Together
 
 BurrowTokenTextMessageProvider:
-[Burrow]
+ - [Burrow]
 
 speakerSetupSpeakersTextMessageProvider:
-Speakers
+ - Open the conversation
 
 mapLeftTextMessageProvider:
-Map Scroll Left
+ - Book List
 
 C10_PierceXEnemiesWithSpear_Name_TextMessageProvider:
-Damage Spike
+ - Advertisement
 
 C10_PierceXEnemiesWithSpear_Description_TextMessageProvider:
-Defeat 3 Enemies with a Single Spike
+ - Three enemies: polo
 
 C10_PierceXEnemiesWithSpear_PostDescription_TextMessageProvider:
-Defeated 3 Enemies with a Single Spike
+ - Three enemies and destruction
 
 C14_BeatGameWithoutSpendingSpiritLight_Description_TextMessageProvider:
-Beat the Game Without Spending any Spirit Light
+ - Sleep
 
 gameModeHardcoreTextMessageProvider:
-One Life
+ - People
 
 A13_DefeatShriek_Description_TextMessageProvider:
-Defeat Shriek
+ - What are you doing
 
 HiddenAchievement_Name_TextMessageProvider:
-Secret Achievement
+ - Right
 
 toggleWeaponWheelTextMessageProvider:
-Show Ability Wheel
+ - Card
 
 menuControlsHeaderTextMessageProvider:
-MENU CONTROLS
+ - FRIEND
 
 filterOverallTextMessageProvider:
-Everyone
+ - Arena
 
 C01_DefeatBossWithoutTakingDamage_Name_TextMessageProvider:
-Untouchable
+ - I can do everything
 
 C01_DefeatBossWithoutTakingDamage_Description_TextMessageProvider:
-Defeat Mora Without Taking any Damage
+ - To fill this problem: no damage
 
 C01_DefeatBossWithoutTakingDamage_PostDescription_TextMessageProvider:
-Defeated Mora Without Taking any Damage
+ - To fill this problem: no damage
 
 A04_DefeatLaserShooter_Name_TextMessageProvider:
-Laser Brain
+ - Useful, Professional, Performance, Income
 
 completedQuestTextMessageProvider:
-#Quest Completed!#
+ - #What are you doing#
 
 inventoryWispLagoonTextMessageProvider:
-Strength of the Forest
+- R rnohk k
 
 damageTextTextMessageProvider:
-Damage Values
+ - Injury and injury
 
 B04_UnlockAllShards_PostDescription_TextMessageProvider:
-Unlocked all Shards
+ - All idols are open
 
 languageRussianTextMessageProvider:
-Russian
+ - This step is
 
 findWispHealthEnergyTextMessageProvider:
-YOUR MAXIMUM LIFE AND ENERGY HAVE INCREASED!
+ - LIFE DEVELOPS!
 
 B08_BuyAllMaps_Name_TextMessageProvider:
-Cartographer's Protégé
+ - Enable
 
 B08_BuyAllMaps_Description_TextMessageProvider:
-Buy all Maps from Lupo
+ - I bought a potion
 
 B08_BuyAllMaps_PostDescription_TextMessageProvider:
-Bought all Maps from Lupo
+ - I bought a potion
 
 MapFocusOriTokenTextMessageProvider:
-[MapFocusOri]
+ - [MapFocusOri]
 
 moveUpTextMessageProvider:
-Move Up
+ - People
 
 MoveUpTokenTextMessageProvider:
-[Up]
+ - [Up]
 
 moveDownTextMessageProvider:
-Move Down
+ - Warm
 
 MoveDownTokenTextMessageProvider:
-[Down]
+ - [Down]
 
 moveLeftTextMessageProvider:
-Move Left
+ - Ball
 
 MoveLeftTokenTextMessageProvider:
-[Left]
+ - [Left]
 
 moveRightTextMessageProvider:
-Move Right
+ - Light
 
 MoveRightTokenTextMessageProvider:
-[Right]
+ - [Right]
 
 Ability1TextMessageProvider:
-ABILITY 1
-
+ - THAT 1
 Ability1TokenTextMessageProvider:
-[Ability1]
+ - [Ability1]
 
 ability2TextMessageProvider:
-ABILITY 2
+ - OTHER 2
 
 Ability2TokenTextMessageProvider:
-[Ability2]
+ - [Ability2]
 
 Ability3TextMessageProvider:
-ABILITY 3
+ - 3 HATS 3
 
 Ability3TokenTextMessageProvider:
-[Ability3]
+ - [Ability3]
 
 DashTextMessageProvider:
-DASH
+ - IN THE
 
 DashTokenTextMessageProvider:
-[Dash]
+ - [Dash]
 
 BurrowTextMessageProvider:
-BURROW
+ - EAST
 
 BashTextMessageProvider:
 BASH
 
+// left off
+
 BashTokenTextMessageProvider:
-[Bash]
+ - [Bash]
 
 justgrabTextMessageProvider:
 GRAB
@@ -720,190 +720,190 @@ GrappleTextMessageProvider:
 GRAPPLE
 
 GrappleTokenTextMessageProvider:
-[Grapple]
+ - [Grapple]
 
 GlideTextMessageProvider:
 GLIDE
 
 GlideTokenTextMessageProvider:
-[Glide]
+ - [Glide]
 
 interactTextMessageProvider:
 Interact
 
 InteractTokenTextMessageProvider:
-[Interact]
+ - [Interact]
 
 JumpTextMessageProvider:
 JUMP
 
 JumpTokenTextMessageProvider:
-[Jump]
+ - [Jump]
 
 AdvanceDialogueTextMessageProvider:
 Advance Dialogue
 
 AdvanceDialogueTokenTextMessageProvider:
-[Advance]
+ - [Advance]
 
 DialogueOption1TextMessageProvider:
 Option 1
 
 DialogueOption1TokenTextMessageProvider:
-[DialogueOption1]
+ - [DialogueOption1]
 
 DialogueOption2TextMessageProvider:
 Option 2
 
 DialogueOption2TokenTextMessageProvider:
-[DialogueOption2]
+ - [DialogueOption2]
 
 DialogueOption3TextMessageProvider:
 Option 3
 
 DialogueOption3TokenTextMessageProvider:
-[DialogueOption3]
+ - [DialogueOption3]
 
 ExitDialogueTextMessageProvider:
 Exit Dialogue
 
 ExitDialogueTokenTextMessageProvider:
-[ExitDialogue]
+ - [ExitDialogue]
 
 openMapShardsTextMessageProvider:
 Open Map / Shards / Inventory
 
 OpenMapShardTokenTextMessageProvider:
-[Map]
+ - [Map]
 
 openAreaMapTextMessageProvider:
 Open Area Map
 
 OpenAreaMapTokenTextMessageProvider:
-[OpenAreaMap]
+ - [OpenAreaMap]
 
 openWorldMapTextMessageProvider:
 Open World Map
 
 OpenWorldMapTokenTextMessageProvider:
-[OpenWorldMap]
+ - [OpenWorldMap]
 
 openInventoryTextMessageProvider:
 Open Inventory
 
 OpenInventoryTokenTextMessageProvider:
-[OpenInventory]
+ - [OpenInventory]
 
 openShardsTextMessageProvider:
 Open Shards
 
 OpenShardsTokenTextMessageProvider:
-[OpenShards]
+ - [OpenShards]
 
 pauseTextMessageProvider:
 Pause
 
 ToggleWeaponWheelTokenTextMessageProvider:
-[WeaponWheel]
+ - [WeaponWheel]
 
 menuUpTextMessageProvider:
 Menu Up
 
 menuUpTokenTextMessageProvider:
-[menuUp]
+ - [menuUp]
 
 menuDownTextMessageProvider:
 Menu Down
 
 MenuDownTokenTextMessageProvider:
-[MenuDown]
+ - [MenuDown]
 
 menuLeftTextMessageProvider:
 Menu Left
 
 MenuLeftTokenTextMessageProvider:
-[MenuLeft]
+ - [MenuLeft]
 
 menuRightTextMessageProvider:
 Menu Right
 
 MenuRightTokenTextMessageProvider:
-[MenuRight]
+ - [MenuRight]
 
 menuNextPageTextMessageProvider:
 Next Page
 
 MenuNextPageTokenTextMessageProvider:
-[MenuNextPage]
+ - [MenuNextPage]
 
 menuPreviousPageTextMessageProvider:
 Previous Page
 
 MenuPreviousPageTokenTextMessageProvider:
-[MenuPreviousPage]
+ - [MenuPreviousPage]
 
 menuCloseTextMessageProvider:
 Close
 
 MenuCloseTokenTextMessageProvider:
-[MenuClose]
+ - [MenuClose]
 
 menuBackTextMessageProvider:
 Back
 
 MenuBackTokenTextMessageProvider:
-[MenuBack]
+ - [MenuBack]
 
 menuSelectTextMessageProvider:
 Select
 
 MenuSelectTokenTextMessageProvider:
-[MenuSelect]
+ - [MenuSelect]
 
 mapUpTextMessageProvider:
 Map Scroll Up
 
 MapUpTokenTextMessageProvider:
-[MapUp]
+ - [MapUp]
 
 mapDownTextMessageProvider:
 Map Scroll Down
 
 MapDownTokenTextMessageProvider:
-[MapDown]
+ - [MapDown]
 
 MapLeftTokenTextMessageProvider:
-[MapLeft]
+ - [MapLeft]
 
 mapRightTextMessageProvider:
 Map Scroll Right
 
 MapRightTokenTextMessageProvider:
-[MapRight]
+ - [MapRight]
 
 mapZoomInTextMessageProvider:
 Zoom In
 
 MapZoomInTokenTextMessageProvider:
-[ZoomIn]
+ - [ZoomIn]
 
 mapZoomOutTextMessageProvider:
 Zoom Out
 
 MapZoomOutTokenTextMessageProvider:
-[ZoomOut]
+ - [ZoomOut]
 
 mapDetailsTextMessageProvider:
 Details
 
 MapDetailsTokenTextMessageProvider:
-[MapDetails]
+ - [MapDetails]
 
 mapFilterTextMessageProvider:
 MAP FILTER
 
 MapFilterTokenTextMessageProvider:
-[MapFilter]
+ - [MapFilter]
 
 mapFocusOriTextMessageProvider:
 Focus Ori
@@ -912,37 +912,37 @@ mapFocusObjectiveTextMessageProvider:
 Focus Objective
 
 MapFocusObjectiveTokenTextMessageProvider:
-[MapFocusObjective]
+ - [MapFocusObjective]
 
 LeaderboardCycleLeftTextMessageProvider:
 Leaderboard Cycle Left
 
 LeadPreviousPageTokenTextMessageProvider:
-[LeadPreviousPage]
+ - [LeadPreviousPage]
 
 LeaderboardCycleRightTextMessageProvider:
 Leaderboard Cycle Right
 
 LeadNextPageTokenTextMessageProvider:
-[LeadNextPage]
+ - [LeadNextPage]
 
 LeaderboardCycleFilterTextMessageProvider:
 Leaderboard Cycle Filter
 
 LeadCycleFilterTokenTextMessageProvider:
-[LeadCycleFilter]
+ - [LeadCycleFilter]
 
 LiveSignInTextMessageProvider:
 Live Sign In
 
 SignInTokenTextMessageProvider:
-[SignIn]
+ - [SignIn]
 
 menuCycleFilterTextMessageProvider:
 Cycle Filter
 
 menuCycleFilterTokenTextMessageProvider:
-[menuCycleFilter]
+ - [menuCycleFilter]
 
 B14_BeatEveryGhostInEveryRace_Name_TextMessageProvider:
 Speed Demon
@@ -963,7 +963,7 @@ grappleAndBashTextMessageProvider:
 Grapple / Bash
 
 selectTextMessageProvider:
-[Accept] Select
+ - [Accept] Select
 
 controlStyleKeyboardMouseTextMessageProvider:
 Keyboard & Mouse
@@ -1035,7 +1035,7 @@ A04_DefeatLaserShooter_PostDescription_TextMessageProvider:
 Defeated the Willow Stone
 
 changeLeaderboardTextMessageProvider:
-[OptionsCycleLeaderboard] Cycle Leaderboard
+ - [OptionsCycleLeaderboard] Cycle Leaderboard
 
 contrastHelpTextMessageProvider:
 Increase contrast if the image looks too grey or reduce contrast if the image looks overexposed
