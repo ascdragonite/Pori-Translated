@@ -706,168 +706,166 @@ BurrowTextMessageProvider:
  - EAST
 
 BashTextMessageProvider:
-BASH
-
-// left off
+ - YES
 
 BashTokenTextMessageProvider:
  - [Bash]
 
 justgrabTextMessageProvider:
-GRAB
+ - LOST
 
 GrappleTextMessageProvider:
-GRAPPLE
+ - CLOSING; CLOSING; COURTEOUS
 
 GrappleTokenTextMessageProvider:
  - [Grapple]
 
 GlideTextMessageProvider:
-GLIDE
+ - COME
 
 GlideTokenTextMessageProvider:
  - [Glide]
 
 interactTextMessageProvider:
-Interact
+ - Intelligence
 
 InteractTokenTextMessageProvider:
  - [Interact]
 
 JumpTextMessageProvider:
-JUMP
+ - DANCE
 
 JumpTokenTextMessageProvider:
  - [Jump]
 
 AdvanceDialogueTextMessageProvider:
-Advance Dialogue
+ - Occupation
 
 AdvanceDialogueTokenTextMessageProvider:
  - [Advance]
 
 DialogueOption1TextMessageProvider:
-Option 1
+ - That 1
 
 DialogueOption1TokenTextMessageProvider:
  - [DialogueOption1]
 
 DialogueOption2TextMessageProvider:
-Option 2
+ - Other 2
 
 DialogueOption2TokenTextMessageProvider:
  - [DialogueOption2]
 
 DialogueOption3TextMessageProvider:
-Option 3
+ - Select 3
 
 DialogueOption3TokenTextMessageProvider:
  - [DialogueOption3]
 
 ExitDialogueTextMessageProvider:
-Exit Dialogue
+ - Greedy
 
 ExitDialogueTokenTextMessageProvider:
  - [ExitDialogue]
 
 openMapShardsTextMessageProvider:
-Open Map / Shards / Inventory
+ - Evil / Not True / Patience
 
 OpenMapShardTokenTextMessageProvider:
  - [Map]
 
 openAreaMapTextMessageProvider:
-Open Area Map
+ - Finger
 
 OpenAreaMapTokenTextMessageProvider:
  - [OpenAreaMap]
 
 openWorldMapTextMessageProvider:
-Open World Map
+ - -Co -dordinate
 
 OpenWorldMapTokenTextMessageProvider:
  - [OpenWorldMap]
 
 openInventoryTextMessageProvider:
-Open Inventory
+ - Await
 
 OpenInventoryTokenTextMessageProvider:
  - [OpenInventory]
 
 openShardsTextMessageProvider:
-Open Shards
+ - The third day
 
 OpenShardsTokenTextMessageProvider:
  - [OpenShards]
 
 pauseTextMessageProvider:
-Pause
+ - The prizes now
 
 ToggleWeaponWheelTokenTextMessageProvider:
  - [WeaponWheel]
 
 menuUpTextMessageProvider:
-Menu Up
+ - Remedy
 
 menuUpTokenTextMessageProvider:
  - [menuUp]
 
 menuDownTextMessageProvider:
-Menu Down
+ - Skinning
 
 MenuDownTokenTextMessageProvider:
  - [MenuDown]
 
 menuLeftTextMessageProvider:
-Menu Left
+ - Work has been sent
 
 MenuLeftTokenTextMessageProvider:
  - [MenuLeft]
 
 menuRightTextMessageProvider:
-Menu Right
+ - Flush
 
 MenuRightTokenTextMessageProvider:
  - [MenuRight]
 
 menuNextPageTextMessageProvider:
-Next Page
+ - Canvas
 
 MenuNextPageTokenTextMessageProvider:
  - [MenuNextPage]
 
 menuPreviousPageTextMessageProvider:
-Previous Page
+ - Plus load
 
 MenuPreviousPageTokenTextMessageProvider:
  - [MenuPreviousPage]
 
 menuCloseTextMessageProvider:
-Close
+ - Use
 
 MenuCloseTokenTextMessageProvider:
  - [MenuClose]
 
 menuBackTextMessageProvider:
-Back
+ - December
 
 MenuBackTokenTextMessageProvider:
  - [MenuBack]
 
 menuSelectTextMessageProvider:
-Select
+ - Natural
 
 MenuSelectTokenTextMessageProvider:
  - [MenuSelect]
 
 mapUpTextMessageProvider:
-Map Scroll Up
+ - Check your card
 
 MapUpTokenTextMessageProvider:
  - [MapUp]
 
 mapDownTextMessageProvider:
-Map Scroll Down
+ - Patience
 
 MapDownTokenTextMessageProvider:
  - [MapDown]
@@ -876,601 +874,601 @@ MapLeftTokenTextMessageProvider:
  - [MapLeft]
 
 mapRightTextMessageProvider:
-Map Scroll Right
+ - Most Coupons
 
 MapRightTokenTextMessageProvider:
  - [MapRight]
 
 mapZoomInTextMessageProvider:
-Zoom In
+ - Enable
 
 MapZoomInTokenTextMessageProvider:
  - [ZoomIn]
 
 mapZoomOutTextMessageProvider:
-Zoom Out
+ - Enable
 
 MapZoomOutTokenTextMessageProvider:
  - [ZoomOut]
 
 mapDetailsTextMessageProvider:
-Details
+ - Form
 
 MapDetailsTokenTextMessageProvider:
  - [MapDetails]
 
 mapFilterTextMessageProvider:
-MAP FILTER
+ - DAY
 
 MapFilterTokenTextMessageProvider:
  - [MapFilter]
 
 mapFocusOriTextMessageProvider:
-Focus Ori
+ - Remedy
 
 mapFocusObjectiveTextMessageProvider:
-Focus Objective
+ - KV
 
 MapFocusObjectiveTokenTextMessageProvider:
  - [MapFocusObjective]
 
 LeaderboardCycleLeftTextMessageProvider:
-Leaderboard Cycle Left
+ - Going now
 
 LeadPreviousPageTokenTextMessageProvider:
  - [LeadPreviousPage]
 
 LeaderboardCycleRightTextMessageProvider:
-Leaderboard Cycle Right
+ - Friendship
 
 LeadNextPageTokenTextMessageProvider:
  - [LeadNextPage]
 
 LeaderboardCycleFilterTextMessageProvider:
-Leaderboard Cycle Filter
+ - Shit
 
 LeadCycleFilterTokenTextMessageProvider:
  - [LeadCycleFilter]
 
 LiveSignInTextMessageProvider:
-Live Sign In
+ - Democracy
 
 SignInTokenTextMessageProvider:
  - [SignIn]
 
 menuCycleFilterTextMessageProvider:
-Cycle Filter
+ - Evil
 
 menuCycleFilterTokenTextMessageProvider:
  - [menuCycleFilter]
 
 B14_BeatEveryGhostInEveryRace_Name_TextMessageProvider:
-Speed Demon
+ - This method is called
 
 leaderboardEntriesTextMessageProvider:
-Entries: [Count]
+ - Registration: [Count]
 
 speakerSetupTextMessageProvider:
-Speaker Type
+ - Open the conversation
 
 HDRUIbrightnessTextMessageProvider:
-UI Brightness
+ - Something of sin
 
 inventoryWispHeaderTextMessageProvider:
-NEW WISP FOUND!
+ - I HAVE A NEW JOB!
 
 grappleAndBashTextMessageProvider:
-Grapple / Bash
+ - Closing; Closing; Courteous / Yes
 
 selectTextMessageProvider:
- - [Accept] Select
+ - [Accept] Natural
 
 controlStyleKeyboardMouseTextMessageProvider:
-Keyboard & Mouse
+ - Keyboard with me
 
 A10_DefeatMora_Description_TextMessageProvider:
 Fend off Mora
 
-audioAPIDefault
+audioAPIDefault:
 Default
 
 C15_CompleteGameUnderXHours_Name_TextMessageProvider:
-Look at the Time
+ - People will see
 
 graphicsHeaderTextMessageProvider:
-GRAPHICS
+- TITLE
 
 A14_CompleteTheGame_Name_TextMessageProvider:
-Destiny
+ - Smell
 
 C16_CompleteGameWithoutDying_Name_TextMessageProvider:
-Immortal
+ - Be expelled
 
 C16_CompleteGameWithoutDying_Description_TextMessageProvider:
-Complete the Game Without Dying
+ - If you don't know the game
 
 C16_CompleteGameWithoutDying_PostDescription_TextMessageProvider:
-Completed the Game Without Dying
+ - If you don't know the game
 
 languageHungarianTextMessageProvider:
-Hungarian
+ - Not fresh
 
 displayHeaderTextMessageProvider:
-DISPLAY
+ - POPULAR
 
 B14_BeatEveryGhostInEveryRace_PostDescription_TextMessageProvider:
-Completed all Spirit Trials
+ - Finally, every test thinks about it.
 
 raceFinishTextMessageProvider:
-FINISH!
+ - SEE!
 
 inventoryWispMarshTextMessageProvider:
-Voice of the Forest
+ - The third day
 
 B12_CompleteAllSideQuests_Name_TextMessageProvider:
-Completionist
+ - Appreciation
 
 B03_UpgradeShardSlots_Description_TextMessageProvider:
-Upgrade all Shard Slots
+ - To explain
 
 B01_UnlockAllSkills_Name_TextMessageProvider:
-Tools of the Trade
+ - Greedy
 
 A01_FendHowl_Description_TextMessageProvider:
-Fend off Howl
+ - Title
 
 inventoryWispGoldenTextMessageProvider:
-Seir
+ - Popular
 
 brightnessHelpTextMessageProvider:
-Adjust picture brightness if you find the game to be too dark or too bright
+ - While the game is very easy and lightweight
 
 soundVolumeHelpTextMessageProvider:
-Change volume for all Sound Effects
+ - Change bicycles and explain words - warts
 
 B01_UnlockAllSkills_Description_TextMessageProvider:
-Unlock all Abilities
+ - What are you doing;
 
 A04_DefeatLaserShooter_PostDescription_TextMessageProvider:
-Defeated the Willow Stone
+ - Near the window
 
 changeLeaderboardTextMessageProvider:
- - [OptionsCycleLeaderboard] Cycle Leaderboard
+ - [OptionsCycleLeaderboard] Dye
 
 contrastHelpTextMessageProvider:
-Increase contrast if the image looks too grey or reduce contrast if the image looks overexposed
+ - When the picture is ready for use, it grows slowly.
 
 C02_DefeatBossUnderXMinutes_PostDescription_TextMessageProvider:
-Defeated Kwolok in Under 2 Minutes
+ - After 2 minutes, throw the tower.
 
 B09_CompleteAllShrines_PostDescription_TextMessageProvider:
-Completed all Spirit Shrines
+ - Rejection
 
 B13_CompleteAllWellspringProjects_PostDescription_TextMessageProvider:
-Completed all Wellspring Glades Projects
+ - All projects are complete.
 
 A03_DefeatHornbug_Name_TextMessageProvider:
-Take the Bug by the Horn
+ - Ten o'clock		
 
 languageTextMessageProvider:
-Language
+ - Offer, offer
 
 resetToDefaultTextMessageProvider:
-Reset Key Bindings to Default
+ - A lot of information about the place
 
 B03_UpgradeShardSlots_Name_TextMessageProvider:
-Fully Slotted
+ - Rebel
 
 B03_UpgradeShardSlots_PostDescription_TextMessageProvider:
-Upgraded all Shard Slots
+ - Build the entire library.
 
 audioDeviceTextMessageProvider:
-Audio Device
+ - Public transport
 
 staticOptionTextMessageProvider:
-Static
+ - Wants to
 
 C03_Juggle3OrMoreProjectilesFor5Sec_PostDescription_TextMessageProvider:
-Juggled 3 or More Projectiles in the Air for Over 5 Seconds
+ - More than five seconds
 
 moveOriTextMessageProvider:
-MOVE ORI
+ - OR SEE
 
 DRSMaxXHelpTextMessageProvider:
-Set the maximum amount of horizontal resolution reduction Dynamic Resolution Scaling will utilize
+ - Add the highest substance
 
 playerTextMessageProvider:
-Player
+ - Appreciation
 
 resumeTextMessageProvider:
-Press [Advance] to resume.
+ - Through [Advance] the Internet
 
 C03_Juggle3OrMoreProjectilesFor5Sec_Description_TextMessageProvider:
-Juggle 3 or more Projectiles in the Air for Over 5 Seconds
+ - More than five seconds
 
 speakerSetupHeadphonesTextMessageProvider:
-Headphones
+ - This
 
 A01_FendHowl_PostDescription_TextMessageProvider:
-Fended off Howl
+ - Get up
 
 adjustSliderLegendTextMessageProvider:
-[WASD] Adjust
+[WASD] Refer
 
 C02_DefeatBossUnderXMinutes_Name_TextMessageProvider:
-Timely Demise
+ - Sleep
 
 C02_DefeatBossUnderXMinutes_Description_TextMessageProvider:
-Defeat Kwolok in Under 2 Minutes
+ - Obviously 2 minutes
 
 B06_MaxOutHealth_Name_TextMessageProvider:
-Healthy
+ - Again
 
 B06_MaxOutHealth_Description_TextMessageProvider:
-Max out Life
+ - Energy
 
 B06_MaxOutHealth_PostDescription_TextMessageProvider:
-Maxed out Life
+ - Energy
 
 A03_DefeatHornbug_Description_TextMessageProvider:
-Defeat the Horn Beetle
+ - Discomfort in 1100 1200
 
 languageSpanishTextMessageProvider:
-Spanish
+ - Much known
 
 C07_NeverTouchedCorruptedWater_Description_TextMessageProvider:
-Avoid Touching any Corrupted Water
+ - Distance from wet water
 
 C07_NeverTouchedCorruptedWater_Name_TextMessageProvider:
-High and Dry
+ - Great
 
 C07_NeverTouchedCorruptedWater_PostDescription_TextMessageProvider:
-Avoided Touching any Corrupted Water
+ - Distance from wet water
 
 A04_DefeatLaserShooter_Description_TextMessageProvider:
-Defeat the Willow Stone
+ - Action
 
 A08_CompleteWatermillEscape_Description_TextMessageProvider:
-Clear the Watermill
+ - For example
 
 languageTurkishTextMessageProvider:
-Turkish
+ - It's not something
 
 A11_DefeatKwolok_Name_TextMessageProvider:
-Guardian's Rest
+ - Minority
 
 completedSideQuestTextMessageProvider:
-#Side Quest Completed!#
+#The difference between news?#
 
 DRSMaxYTextMessageProvider:
-Maximum Y Scaling
+ - We too
 
 languagePolishTextMessageProvider:
-Polish
+ - Come
 
 graphicsModeHelpTextMessageProvider:
-Enable to allow automatic adjustment of rendering resolution to achieve a desired framerate
+ - Automatic system training analysis.
 
 bindingPopupTitleTextMessageProvider:
-BINDING IN PROGRESS
+ - HIDE
 
 A03_DefeatHornbug_PostDescription_TextMessageProvider:
-Defeated the Horn Beetle
+ - Discomfort in 1100 1200
 
 B05_UpgradeAllShards_Description_TextMessageProvider:
-Upgrade all Shards
+ - To the mountain
 
 B05_UpgradeAllShards_PostDescription_TextMessageProvider:
-Upgraded all Shards
+ - To the mountain
 
 B13_CompleteAllWellspringProjects_Name_TextMessageProvider:
-Fixer Upper
+ - Embellish
 
 B13_CompleteAllWellspringProjects_Description_TextMessageProvider:
-Complete all Wellspring Glades Projects
+ - In any original picture
 
 newShardTextMessageProvider:
-New Spirit Shard!
+ - Smart new weeds!
 
 filterMyScoreTextMessageProvider:
-My Score
+ - This is my answer
 
 languageSpanishSpainTextMessageProvider:
-Spanish (Spain)
+ - Much known)
 
 C15_CompleteGameUnderXHours_Description_TextMessageProvider:
-Complete the Game in Under 4 Hours
+ - Cycling 4-
 
 B07_MaxOutEnergy_Name_TextMessageProvider:
-Powerful
+ - Day
 
 musicVolumeTextMessageProvider:
-Music Volume
+ - Birds
 
 boardSpeedRunnerTextMessageProvider:
-Speed Runner
+ - Suddenly
 
 keyboardQwertyTextMessageProvider:
-QWERTY
+ - NOT TRUE
 
 gainedAchievementTextMessageProvider:
-#ACHIEVEMENT UNLOCKED#
+ - #WILL BE USEFUL#
 
 B10_FoundAllPickups_Name_TextMessageProvider:
-Lost and Found
+ - I have the opportunity to lose.
 
 targetFPSHelpTextMessageProvider:
-Set a target framerate for Dynamic Resolution Scaling to attempt to achieve
+ - Explain the program and salty treatment.
 
 HDRShadowDetailHelpTextMessageProvider:
-Increase or reduce the amount of visible detail in the shadows based on TV types and viewing conditions
+ - To see or appreciate the color and how to act healthy
 
 audioDeviceHelpTextMessageProvider:
-Select an audio device for game sound
+ - Four votes
 
 navigateTextMessageProvider:
-[Stick] Navigate
+[Stick] Good provisions
 
-audioAPIWasapi
+audioAPIWasapi:
 Wasapi
 
 speakerSetupHelpTextMessageProvider:
-Changes the way that audio is panned depending on your speaker setup
+ - Change the roller side
 
 completionTextMessageProvider:
-Completion
+ - Producer
 
 timeTextMessageProvider:
-Time
+ - That year
 
 howToGoThroughPlatformTextMessageProvider:
-Hold [Down] and press [Jump] to #fall# through platforms.
+ - Connect [Down] diapers and [Jump] diapers outside.
 
 C15_CompleteGameUnderXHours_PostDescription_TextMessageProvider:
-Completed the Game in Under 4 Hours
+ - 4 hours before going to school
 
 C05_DefeatXEnemiesWithoutTouchingGround_Name_TextMessageProvider:
-Bring it On
+ - Rejection
 
 C11_DefeatXEnemiesUsingHazards_Description_TextMessageProvider:
-Defeat 10 Enemies using Environmental Hazards
+ - 10 enemies cause environmental threats.
 
 A10_DefeatMora_Name_TextMessageProvider:
-Dark Triumph
+ - Advocation
 
 A10_DefeatMora_PostDescription_TextMessageProvider:
-Fended off Mora
+ - People
 
 languageChineseTextMessageProvider:
-Chinese
+ - Energy
 
 vSyncHelpTextMessageProvider:
-Toggles synchronization of the framerate to the display's refresh rate
+ - See internal update
 
 backTextMessageProvider:
-[Cancel] Back
+ - [Cancel] December
 
 changeFilterTextMessageProvider:
-[OptionsCycleLeaderboardFilter] Cycle Filter
+ - [OptionsCycleLeaderboardFilter] Evil
 
 gameplayControlsHeaderTextMessageProvider:
-GAME CONTROLS
+ - MURDER
 
 toggleHDRTextMessageProvider:
-HDR
+ - ILL
 
 A13_DefeatShriek_Name_TextMessageProvider:
-Stone Cold
+ - Externally
 
 A13_DefeatShriek_PostDescription_TextMessageProvider:
-Defeated Shriek
+ - Popular
 
 A12_CompleteDesertEscape_Description_TextMessageProvider:
-Escape the Ruins
+ - Avoid archaeological environments
 
 fullScreenTextMessageProvider:
-Fullscreen
+ - Cheating
 
 A11_DefeatKwolok_Description_TextMessageProvider:
-Fend off Kwolok
+ - Recommend
 
 raceChallengeRewardTextMessageProvider:
-Spirit Trial Reward
+ - This is meaningless
 
 A01_FendHowl_Name_TextMessageProvider:
-Close Call
+ - High speed
 
 vibrationTextMessageProvider:
-Controller Vibration
+ - Producer
 
 soundVolumeTextMessageProvider:
-Sound Effects Volume
+ - Position
 
 onOptionForDamageValuesTextMessageProvider:
-ON
+ - PERSONAL
 
 C13_BeatGameWithoutEquippingShard_Name_TextMessageProvider:
-Shardless
+ - Terbial
 
 showHudTextMessageProvider:
-HUD
+ - BY DEFAULT
 
 A07_ReachWellspringGlades_PostDescription_TextMessageProvider:
-Reached the Wellspring Glades
+ - I'll be gasoline
 
 graphicsModeTextMessageProvider:
-Dynamic Resolution Scaling
+ - I'll be gasoline
 
 brightnessTextMessageProvider:
-Brightness
+ - Remedy
 
 A12_CompleteDesertEscape_Name_TextMessageProvider:
-Quick Sand
+ - Wool
 
 A12_CompleteDesertEscape_PostDescription_TextMessageProvider:
-Escaped from the Ruins
+ - They understand!
 
 newSideQuestTextMessageProvider:
-#New Side Quest!#
+ - #They understand!#
 
 B12_CompleteAllSideQuests_PostDescription_TextMessageProvider:
-Completed every Side Quest
+ - Wherever they are made
 
 bindingPopupLegendTextMessageProvider:
-Press a key to bind, [MenuCancel] to cancel, and [MenuBack] to reset to default.
+ - Click the soft [MenuCancel] button, do not use [MenuBack] and change the tag.
 
 rankTextMessageProvider:
-Rank
+ - "" "" "" "" "";
 
 FPSLimitTextMessageProvider:
-Framerate Limit
+ - Little
 
 B09_CompleteAllShrines_Name_TextMessageProvider:
-Shrine Bright
+ - Attendant
 
 windowsSpatialTextMessageProvider:
-Windows Spatial Audio
+ - Remedy
 
 A09_CompleteAvalancheEscape_PostDescription_TextMessageProvider:
-Escaped the Avalanche
+ - I left the law
 
 C11_DefeatXEnemiesUsingHazards_PostDescription_TextMessageProvider:
-Defeated 10 Enemies using Environmental Hazards
+ - In collaboration with enemies that are safe for a dangerous environment
 
 paperwhiteHelpTextMessageProvider:
-Adjust the base brightness of the game. Use the lowest values while still being able to make out the details for the best HDR contrast
+ - The essential process of the game has been proven. You can use at least HDR data.
 
 navigateTextMessageProvider:
-[WASD][MousePan] Navigate
+[WASD][MousePan] Good provisions
 
 contrastTextMessageProvider:
-Contrast
+ - For example
 
 targetFPSTextMessageProvider:
-Target FPS
+ - Frame / Secure -
 
 languageTraditionalChineseTextMessageProvider:
-Traditional Chinese
+ - Energy
 
 languageNorwegianTextMessageProvider:
-Norwegian
+ - To do that
 
 motionBlurHelpTextMessageProvider:
-Adjusts Screen Motion Blur Effect. Try disabling if you’re sensitive to motion sickness
+ - Exercise during heavy tires in the field
 
 borderlessWindowedTextMessageProvider:
-Borderless Windowed
+ - Unlimited Windows
 
 dynamicOptionTextMessageProvider:
-Dynamic
+ - Not fresh
 
 Ability2TextMessageProvider:
-ABILITY 2
+ - OTHER 2
 
 windowedTextMessageProvider:
-Windowed
+ - Window
 
 B02_UpgradeAllSkills_Description_TextMessageProvider:
-Upgrade all Abilities
+ - Shoot
 
 languageCzechTextMessageProvider:
-Czech
+ - Chemistry
 
 C14_BeatGameWithoutSpendingSpiritLight_Name_TextMessageProvider:
-Lightless
+ - Producer
 
 B09_CompleteAllShrines_Description_TextMessageProvider:
-Complete all Spirit Shrines
+ - Last - Body, Carrie Ch
 
 A14_CompleteTheGame_Description_TextMessageProvider:
-Complete the game
+ - Culture
 
 HDRUIbrightnessHelpTextMessageProvider:
-Separately adjust the HDR brightness of the in-game UI for most comfortable viewing
+ - Depending on the right HDR.
 
 B11_CompleteTradeSequenceQuest_Description_TextMessageProvider:
-Complete the Trade Sequence Quest
+ - Adequate action
 
 A15_CompleteNGPlus_PostDescription_TextMessageProvider:
-Completed Hard Mode
+ - Other
 
 HUDOffOptionTextMessageProvider:
-Hidden
+ - Other
 
 languageEnglishTextMessageProvider:
-English
+ - Energy
 
 offlineTextMessageProvider:
-Offline
+- Remedy
 
 B04_UnlockAllShards_Name_TextMessageProvider:
-Shard Hunter
+ - Section
 
 saturationHelpTextMessageProvider:
-Adjust color saturation
+ - Color training time
 
 HDRRichnessTextMessageProvider:
-Richness
+ - Line
 
 controlsHeaderTextMessageProvider:
-CONTROLS
+ - AGREEMENT
 
 languageSwedishTextMessageProvider:
-Swedish
+ - Motherhood
 
 A07_ReachWellspringGlades_Description_TextMessageProvider:
-Reach the Wellspring Glades
+ - That's just a nest
 
 B02_UpgradeAllSkills_Name_TextMessageProvider:
-Mad Skills
+ - Crazy Technology
 
 B02_UpgradeAllSkills_PostDescription_TextMessageProvider:
-Upgraded all Abilities
+ - We work in all aspects
 
 FPSLimitHelpTextMessageProvider:
-Limit the amount of frames per second to achieve consistent framerates
+ - This helps to reduce normal tires.
 
 newRumorTextMessageProvider:
-#New Rumor!#
+#New World!#
 
 controlStyleTextMessageProvider:
-Control Style
+ - Nurse
 
 openInventoryTextMessageProvider:
-MAIN MENU
+ - GENERAL DESCRIPTION
 
 newQuestItemTextMessageProvider:
-You found a new quest item!
+- Can I read?
 
 resolutionHelpTextMessageProvider:
-Change Screen Resolution
+ - Change the answer to the screen
 
 gamerTagTextMessageProvider:
-Gamertag
+ - Producer
 
 gameModePlusTextMessageProvider:
-Hard
+ - To produce
 
 C05_DefeatXEnemiesWithoutTouchingGround_Description_TextMessageProvider:
-Defeat 5 Enemies Without Touching the Ground
+ - Do not go to the ground, do not destroy five enemies.
 
-audioAPIXAudio2
+audioAPIXAudio2:
 XAudio2
 
 bindingInProgressTextMessageProvider:
--- Press Key --
+ - -- Sunday --
 
 saturationTextMessageProvider:
-Saturation
+ - Release
 
 mapControlsHeaderTextMessageProvider:
-MAP CONTROLS
+ - MIDWIFERER
 
 DRSMaxYHelpTextMessageProvider:
-Set the maximum amount of vertical resolution reduction Dynamic Resolution Scaling will utilize
+ - The most distribution speed is similar to the BHI command.
 
 inventoryWispWinterTextMessageProvider:
-Memory of the Forest
+ - The third day
 
 newPickupTextMessageProvider:
 Upgrade discovered!
