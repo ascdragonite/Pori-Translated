@@ -484,7 +484,7 @@ howlsOriginLupoInsufficientFundsTextMessageProvider:
  - Forgive your #feelings#?
 
 howlsOriginLupoNoSaleTextMessageProvider:
-- If you change your thoughts, you can tell me.\nDon't worry, #I don't remember you.#\nThis is a delicious #soft drink#.
+ - If you change your thoughts, you can tell me.\nDon't worry, #I don't remember you.#\nThis is a delicious #soft drink#.
 
 howlsOriginLupoSalesPitchTextMessageProvider:
  - Do you want to use the [AreaMapCost] tunnel in #light#[SpiritLight]?
@@ -503,7 +503,7 @@ howlsOriginFirstEncounterTextMessageProvider:
  - What is the reason? How? Is the system large? #Knigen?# Yes, comics!
 
 noOtherTeleportersActivatedTextMessageProvider:
-#This;#
+ - #This;#
 
 noMasterSpiritPortalActiveTextMessageProvider:
  - #Teachers# often start.
@@ -629,7 +629,7 @@ completedQuestTextMessageProvider:
  - #What are you doing#
 
 inventoryWispLagoonTextMessageProvider:
-- R rnohk k
+ - R rnohk k
 
 damageTextTextMessageProvider:
  - Injury and injury
@@ -967,16 +967,16 @@ controlStyleKeyboardMouseTextMessageProvider:
  - Keyboard with me
 
 A10_DefeatMora_Description_TextMessageProvider:
-Fend off Mora
+ - Respected
 
 audioAPIDefault:
-Default
+ - Default
 
 C15_CompleteGameUnderXHours_Name_TextMessageProvider:
  - People will see
 
 graphicsHeaderTextMessageProvider:
-- TITLE
+ - TITLE
 
 A14_CompleteTheGame_Name_TextMessageProvider:
  - Smell
@@ -1093,7 +1093,7 @@ A01_FendHowl_PostDescription_TextMessageProvider:
  - Get up
 
 adjustSliderLegendTextMessageProvider:
-[WASD] Refer
+ - [WASD] Refer
 
 C02_DefeatBossUnderXMinutes_Name_TextMessageProvider:
  - Sleep
@@ -1138,7 +1138,7 @@ A11_DefeatKwolok_Name_TextMessageProvider:
  - Minority
 
 completedSideQuestTextMessageProvider:
-#The difference between news?#
+ - #The difference between news?#
 
 DRSMaxYTextMessageProvider:
  - We too
@@ -1207,10 +1207,10 @@ audioDeviceHelpTextMessageProvider:
  - Four votes
 
 navigateTextMessageProvider:
-[Stick] Good provisions
+ - [Stick] Good provisions
 
 audioAPIWasapi:
-Wasapi
+ - Wasapi
 
 speakerSetupHelpTextMessageProvider:
  - Change the roller side
@@ -1339,7 +1339,7 @@ paperwhiteHelpTextMessageProvider:
  - The essential process of the game has been proven. You can use at least HDR data.
 
 navigateTextMessageProvider:
-[WASD][MousePan] Good provisions
+ - [WASD][MousePan] Good provisions
 
 contrastTextMessageProvider:
  - For example
@@ -1429,7 +1429,7 @@ FPSLimitHelpTextMessageProvider:
  - This helps to reduce normal tires.
 
 newRumorTextMessageProvider:
-#New World!#
+ - #New World!#
 
 controlStyleTextMessageProvider:
  - Nurse
@@ -1453,7 +1453,7 @@ C05_DefeatXEnemiesWithoutTouchingGround_Description_TextMessageProvider:
  - Do not go to the ground, do not destroy five enemies.
 
 audioAPIXAudio2:
-XAudio2
+ - XAudio2
 
 bindingInProgressTextMessageProvider:
  - -- Sunday --
@@ -1471,19 +1471,19 @@ inventoryWispWinterTextMessageProvider:
  - The third day
 
 newPickupTextMessageProvider:
-Upgrade discovered!
+ - Update yourself!
 
 A11_DefeatKwolok_PostDescription_TextMessageProvider:
-Fended off Kwolok
+ - Update yourself!
 
-audioAPIDirectSound
-DirectSound
+audioAPIDirectSound:
+ - DirectSound
 
 scaleTextMessageProvider:
-Resolution Scale
+ - Registration
 
 fullScreenHelpTextMessageProvider:
-Toggle between Windowed, Borderless Windowed, and Exclusive Fullscreen modes
+ - Windows, windows and screen very special
 
 A08_CompleteWatermillEscape_Name_TextMessageProvider:
 Let the Waters Flow
