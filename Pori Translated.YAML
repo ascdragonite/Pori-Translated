@@ -153,7 +153,7 @@ lumaPoolsLupoNoSaleTextMessageProvider:
  - If you change your thoughts, you can tell me.\nCheck plants to avoid animals.
 
 lumaPoolsLupoSalesPitchTextMessageProvider:
-Care to purchase a map of this lush locale\nfor [AreaMapCost] #Spirit Light#[SpiritLight]?
+ - You have to work [AreaMapCost] in this #situation#[SpiritLight].
 
 lumaPoolsLupoThanksTextMessageProvider:
  - Good things!
@@ -1486,1108 +1486,1105 @@ fullScreenHelpTextMessageProvider:
  - Windows, windows and screen very special
 
 A08_CompleteWatermillEscape_Name_TextMessageProvider:
-Let the Waters Flow
+ - Externally
 
 A08_CompleteWatermillEscape_PostDescription_TextMessageProvider:
-Cleared the Watermill
+ - For example
 
 achievementsTextMessageProvider:
-ACHIEVEMENTS
+ - PATIENCE
 
 C05_DefeatXEnemiesWithoutTouchingGround_PostDescription_TextMessageProvider:
-Defeated 5 Enemies Without Touching the Ground
+ - Do not go to the ground, do not destroy five enemies.
 
 B07_MaxOutEnergy_Description_TextMessageProvider:
-Max out Energy
+ - Size
 
 B07_MaxOutEnergy_PostDescription_TextMessageProvider:
-Maxed out Energy
+ - Size
 
 offOptionTextMessageProvider:
-OFF
+ - Personal
 
 completedRumorTextMessageProvider:
-#Rumor Investigated!#
+ - #Still again!#
 
 B10_FoundAllPickups_Description_TextMessageProvider:
-Find all Collectibles
+ - Find each group
 
 loadingTextMessageProvider:
-Loading...
+ - Time...
 
 B11_CompleteTradeSequenceQuest_Name_TextMessageProvider:
-Mark of the Trader
+ - Host
 
 B11_CompleteTradeSequenceQuest_PostDescription_TextMessageProvider:
-Completed the Trade Sequence Quest
+ - This is a great development
 
 C13_BeatGameWithoutEquippingShard_Description_TextMessageProvider:
-Beat the Game Without Equipping a Shard
+ - There will be nothing on the ground floor
 
 C13_BeatGameWithoutEquippingShard_PostDescription_TextMessageProvider:
-Beat the Game Without Equipping a Shard
+ - There will be nothing on the ground floor
 
 newQuestTextMessageProvider:
-#New Quest!#
+ - #I watched!#
 
 languageKoreanTextMessageProvider:
-Korean
+ - Bath
 
 B04_UnlockAllShards_Description_TextMessageProvider:
-Unlock all Shards
+ - Evil
 
 paperwhiteTextMessageProvider:
-Base Brightness
+ - Great
 
 HDRcontrastHelpTextMessageProvider:
-Adjust HDR contrast
+ - HDR -CERSIA
 
 B01_UnlockAllSkills_PostDescription_TextMessageProvider:
-Unlocked all Abilities
+ - What are you doing;
 
 settingsHeaderTextMessageProvider:
-SETTINGS
+ - BUDGE
 
 boardGlobalTextMessageProvider:
-Global
+ - Show
 
 C14_BeatGameWithoutSpendingSpiritLight_PostDescription_TextMessageProvider:
-Beat the Game Without Spending any Spirit Light
+ - Sleep
 
 audioAPIPromptTextMessageProvider:
-Restart game to apply Audio API changes
+ - Control the game, follow the audio changes
 
 musicVolumeHelpTextMessageProvider:
-Change Music Volume
+ - Cow
 
 DRSMaxXTextMessageProvider:
-Maximum X Scaling
-
-commandListLabelTextMessageProvider:
-Command Type:
+ - More than 10
 
 changeDifficultyTextMessageProvider:
-[OptionsCycleLeaderboardDifficulty] Cycle Difficulty
+ - [OptionsCycleLeaderboardDifficulty] Problem
 
 languageItalianTextMessageProvider:
-Italian
+ - Eat
 
 audioHeaderTextMessageProvider:
-AUDIO
+ - MY COURSE
 
 showHudHelpTextMessageProvider:
-Show, hide, or dynamically display the game HUD
+ - The consequences of cooking or cooking
 
 controlStyleControllerTextMessageProvider:
-Controller
+ - Agreement
 
 jumpTextMessageProvider:
-JUMP
+ - DANCE
 
 deadZoneHelpTextMessageProvider:
-Adjust the deadzone for the analog stick
+ - Exploit
 
 backTextMessageProvider:
-[MenuBack] Back
+ - [MenuBack] December
 
 viewCardTextMessageProvider:
-[Accept] View Gamercard
+ - [Accept] Shadow
 
 raceCompleteTextMessageProvider:
-Spirit Trial Complete
+ - Mark
 
 B10_FoundAllPickups_PostDescription_TextMessageProvider:
-Found all Collectibles
+ - I have every group
 
 toggleHDRHelpTextMessageProvider:
-Enable/Disable High Dynamic Range output
+ - Vias / TPO
 
 inventoryHeaderGoldenWispTextMessageProvider:
-THE LIGHT IS RESTORED!
+ - FULL LIGHT!
 
 C11_DefeatXEnemiesUsingHazards_Name_TextMessageProvider:
-Did I Do That?
+ - In the
 
 openMapTextMessageProvider:
-MAP
+ - WARM
 
 B14_BeatEveryGhostInEveryRace_Description_TextMessageProvider:
-Complete all Spirit Trials
+ - Continue your life career
 
 leaderboardHeaderTextMessageProvider:
-Leaderboard
+ - Seat
 
 Unlocked_TextMessageProvider:
-Unlocked
+ - Await
 
 equippedAbilityTextMessageProvider:
-EQUIPPED ABILITY
+ - BITE
 
 deadZoneTextMessageProvider:
-Analog Stick Deadzone
+ - Number of deaths
 
 gameModeEasyTextMessageProvider:
-Easy
+ - Friend
 
 exclusiveFullScreenTextMessageProvider:
-Exclusive Fullscreen
+ - Get up
 
 HDRcontrastTextMessageProvider:
-Contrast
+ - For example
 
 A09_CompleteAvalancheEscape_Description_TextMessageProvider:
-Escape the Avalanche
+ - Spine
 
 languageFinnishTextMessageProvider:
-Finnish
+ - Temporary
 
 languageHelpTextMessageProvider:
-Change display language
+ - Original Language
 
 SwitchControllerLabelTextMessageProvider:
-Switch Controller
+ - Light
 
 controlStyleHelpTextMessageProvider:
-Change the Control Style
+ - Stairs
 
 A15_CompleteNGPlus_Name_TextMessageProvider:
-Hardcore Fan
+ - Style
 
 A15_CompleteNGPlus_Description_TextMessageProvider:
-Complete Hard Mode
+ - Person
 
 leaderbordTextMessageProvider:
-LEADERBOARDS
+ - ENERGY
 
 A07_ReachWellspringGlades_Name_TextMessageProvider:
-Home Sweet Home
+ - Jokes: the best
 
-statisticianYesMessageProvider
-[X]Yes
+statisticianYesMessageProvider:
+ - [X]Personal
 
 notActiveTextMessageProvider:
-N/A
+ - N/A
 
 boardExplorerTextMessageProvider:
-Explorer
+ - Brand
 
 A14_CompleteTheGame_PostDescription_TextMessageProvider:
-Completed the Game
+ - Dye
 
 keyboardAzertyTextMessageProvider:
-AZERTY
+ - SPOILED
 
 changeControllerStyleTextMessageProvider:
-[MenuPreviousPage][MenuNextPage] Change Controller
+ - [MenuPreviousPage][MenuNextPage] Trade
 
 audioAPITextMessageProvider:
-Audio API
+Aud - io API
 
 gameModeDifficultyTextMessageProvider:
-Difficulty
+ - It's gone
 
 onOptionTextMessageProvider:
-ON
+ - PERSONAL
 
 languageGermanTextMessageProvider:
-German
+ - KV
 
 motionBlurTextMessageProvider:
-Motion Blur
+ - Patience
 
 HDRShadowDetailTextMessageProvider:
-Shadow Detail
+ - See
 
 A09_CompleteAvalancheEscape_Name_TextMessageProvider:
-Icy Escape
+ - Unemployment
 
 audioAPIHelpTextMessageProvider:
-Select an Audio API for game sound
+ - Choose a game
 
 windowsSpatialHelpTextMessageProvider:
-Enables surround sound for devices that support it. Disable if you are experiencing no audio
+ - If you do not find the word, leave a service group, stop.
 
 languagePortugueseTextMessageProvider:
-Portuguese
+ - Monastery
 
 vSyncTextMessageProvider:
-VSync
+ - Core
 
 HUDOnOptionTextMessageProvider:
-Always Visible
+ - Omit
 
 updatedQuestTextMessageProvider:
-#Quest Updated!#
+ - Question #date suggestions?
 
 resolutionScaleHintTextMessageProvider:
-Reduce to increase performance or increase above 100% for sharper image quality
+ - Increase productivity to improve quality
 
 languageJapaneseTextMessageProvider:
-Japanese
+ - Japan
 
 damageTextHelpTextMessageProvider:
-Toggles Damage Value display for damage dealt to Ori and enemies
+ - Friends and birds
 
 filterHeaderTextMessageProvider:
-Filter
+ - Chest
 
 languageDanishTextMessageProvider:
-Danish
+ - Omit
 
 inventoryWispMouldwoodTextMessageProvider:
-Eyes of the Forest
+ - A couple of impossible
 
 gameModeNormalTextMessageProvider:
-Normal
+ - City
 
 resolutionTextMessageProvider:
-Resolution
+ - Used for
 
 headerTextMessageProvider:
-GAME PAUSED
+ - I play
 
 internetConnectionDisconnectedTextMessageProvider:
-Internet connection disconnected; please check your connection.
+ - All the time to take an invisible bus or stadium
 
 HDRRichnessHelpTextMessageProvider:
-Adjust the richness of colors in HDR mode
+ - Give good Authorization in HDR mode.
 
 mapTrailHelpTextMessageProvider:
-Display Ori's trail on the map screen
+ - Print
 
 newRumorFooterTextMessageProvider:
-Press [Map] to see details.
+ - Click [Map] to determine information.
 
 mapTrailTextMessageProvider:
-Show Map Trail
+ - Horizon
 
 languageDutchTextMessageProvider:
-Dutch
+ - Ireland
 
 controlStyleKeyboardTextMessageProvider:
-Keyboard
+ - Brand
 
 languageFrenchTextMessageProvider:
-French
+ - To explain
 
 dashAndBurrowTextMessageProvider:
-DASH/BURROW
+ - Still work
 
 deathsTextMessageProvider:
-Deaths
+ - Take (oath)
 
 cycleCommandListTextMessageProvider:
-[CycleCommands] Cycle Controls
+ - [CycleCommands] Poll
 
 showHelpTextMessageProvider:
-[DialogueOption2] Show Help
+ - [DialogueOption2] Trade
 
 lockedTextMessageProvider:
-Locked
+ - Ten years
 
 MenuPageLeftIconTextMessageProvider:
-[MenuPageLeft]
+ - [MenuPageLeft]
 
 MenuPageRightIconTextMessageProvider:
-[MenuPageRight]
+ - [MenuPageRight]
 
 areaMapScreenPageNameTextMessageProvider:
-MAP & QUESTS
+ - INCLUDED
 
 equipmentUIEquipScreenBackTextMessageProvider:
-[MenuBack] Back
+ - [MenuBack] December
 
 equipmentUIEquipScreenEquipTextMessageProvider:
-[MenuSelect] Select
+ - [MenuSelect] Natural
 
 equipmentUIEquipScreenNavigateTextMessageProvider:
-[Stick] Navigate
+ - [Stick] Good provisions
 
 inventoryScreenPageNameTextMessageProvider:
-INVENTORY
+ - PATIENCE
 
 spiritShardScreenPageNameTextMessageProvider:
-SPIRIT SHARDS
+ - AND FRIENDS
 
 avalancheEscapeReplayNameTextMessageProvider:
-#Avalanche Escape#
+ - #Spine#
 
 desertRuinsEscapeReplayNameTextMessageProvider:
-#Windtorn Ruins Escape#
+ - #Liang#
 
 epilogueReplayNameTextMessageProvider:
-#Epilogue#
+ - #Monastery#
 
 feedingGroundsEscapeReplayNameTextMessageProvider:
-#The Feeding Grounds#
+ - #Connection#
 
 hornbugBossReplayNameTextMessageProvider:
-#Horn Beetle Battle#
+ - #Writer#
 
 kwolokBossReplayNameTextMessageProvider:
-#Kwolok Battle#
+ - #Egg.#
 
 laserShooterBossReplayNameTextMessageProvider:
-#Willow Stone Battle#
+ - #Flootil#
 
 lockedReplayNameTextMessageProvider:
-#Locked#
+ - #Ten years#
 
 lostFriendReplayNameTextMessageProvider:
-#Lost Friend#
+ - #Next#
 
 nightcrawlerEscapeReplayNameTextMessageProvider:
-#Howl the Night Crawler#
+ - #Dusk#
 
 petrifiedOwlBossReplayNameTextMessageProvider:
-#Shriek Battle#
+ - #Below#
 
 petrifiedOwlMemoryReplayNameTextMessageProvider:
-#Shriek's Awakening#
+ - #Distant#
 
 prologueReplayNameTextMessageProvider:
-#Prologue#
+ - #Warehouse#
 
 spiderBossReplayNameTextMessageProvider:
-#Mora Battle#
+ - #I have fat#
 
 wellspringEscapeReplayNameTextMessageProvider:
-#Wellspring Escape#
+ - #Take (oath)#
 
 willowCeremonyReplayNameTextMessageProvider:
-#The Willow's End#
+ - #Remedy#
 
 backToMainMenuTextMessageProvider:
-Back to Main Menu
+ - Main title
 
 tryAgainTextMessageProvider:
-Try again
+ - Try again
 
 youDiedTextMessageProvider:
-YOU DIED
+ - REJECTION
 
 BarrageTextMessageProvider:
-Barrage
+ - That
 
 BlazeTextMessageProvider:
-Blaze
+ - Housing area
 
 FlashTextMessageProvider:
-Flash
+ - Possible
 
 GoldenSeinTextMessageProvider:
-Seir
+ - Housing area
 
 LightBurstTextMessageProvider:
-Light Burst
+ - Burst
 
 SentryTextMessageProvider:
-Sentry
+ - See
 
 SpikeTextMessageProvider:
-Spike
+ - Housing area
 
 SpiritArcTextMessageProvider:
-Spirit Arc
+ - Copible
 
 SpiritEdgeTextMessageProvider:
-Spirit Edge
+ - Lost
 
 SpiritSmashTextMessageProvider:
-Spirit Smash
+ - Two types
 
 SpiritStarTextMessageProvider:
-Spirit Star
+ - A number of?
 
 chargeJumpTextMessageProvider:
-Launch
+ - Core
 
 spiritShardsUILegendUpgradeTextMessageProvider:
-[Y] Hold to Upgrade
+ - [Y] New organization
 
 statBashesTextMessageProvider:
-Bashes
+ - See
 
 statCompletionPercentageTextMessageProvider:
-% Completed
+ - % Omit
 
 statDashesTextMessageProvider:
-Dashes
+ - Warm
 
 statDeathEnemiesTextMessageProvider:
-Deaths by Enemy
+ - Be expelled
 
 statDeathEnvironmentalTextMessageProvider:
-Deaths by Hazard
+ - Dad
 
 statDeathsTextMessageProvider:
-Total Deaths
+ - Be expelled
 
 statDistanceBurrowedTextMessageProvider:
-Distance Burrowed
+ - Remedy
 
 statDistanceGlidedTextMessageProvider:
-Distance Glided
+ - Come
 
 statDistanceSwamTextMessageProvider:
-Distance Swam
+ - Little
 
 statDistanceTravelledTextMessageProvider:
-Distance Travelled
+ - Good provisions
 
 statDrowningTextMessageProvider:
-Times Drowned
+ - Culture
 
 statEnemiesKilledTextMessageProvider:
-Enemies Slain
+ - It's not good
 
 statEnergyCellsCollectedTextMessageProvider:
-Energy Cells Collected
+ - I will provide
 
 statEnergySpentTextMessageProvider:
-Energy Spent
+ - Soldier
 
 statHealthRegeneratedTextMessageProvider:
-Life Regenerated
+ - Show
 
 statHighestStrikeTextMessageProvider:
-Biggest Single Attack
+ - Used for
 
 statJumpsTextMessageProvider:
-Jumps
+ - Dance
 
 statLeashesTextMessageProvider:
-Grapples
+ - The third day
 
 statLifeCellsCollectedTextMessageProvider:
-Life Cells Collected
+ - Crystal
 
 statShardSlotsCollectedTextMessageProvider:
-Shard Slot Upgrades Collected
+ - Green update
 
 statShardUpgradeProgressTextMessageProvider:
-% Shard Upgrades Complete
+ - Every migrant worker
 
 statShardsCollectedTextMessageProvider:
-Shards Collected
+ - Stare
 
 statSkillsDiscoveredTextMessageProvider:
-Abilities Discovered
+ - Hurt
 
 statSkillsUpgradedTextMessageProvider:
-Abilities Upgraded
+ - Friendship
 
 statTeleportCountTextMessageProvider:
-Times Warped
+ - Dad
 
 statTimeSpentAirborneWithoutGroundTextMessageProvider:
-Longest Air Time
+ - Reject
 
 statTimeSpentGlowingTextMessageProvider:
-Glow Time
+ - Something of sin
 
 statTimeSpentInAirTextMessageProvider:
-Airborne Time
+ -  That
 
 statTotalDamageTextMessageProvider:
-Damage Taken
+ - Advertisement
 
 statTotalSpiritLightCollectedTextMessageProvider:
-Total Spirit Light Collected
+ - Choose a full lamp
 
 statTotalSpiritLightSpentTextMessageProvider:
-Total Spirit Light Spent
+ - Mark
 
 statWallJumpsTextMessageProvider:
-Wall Jumps
+ - Switch the world on the wall
 
 timeAliveTextMessageProvider:
-Time Alive
+ - People
 
 controllerDisconnectedTextMessageProvider:
-Controller disconnected.
+ - Special
 
 noMapTextMessageProvider:
-The map is not available here.
+ - You can use this copy here.
 
 findEnergyCellTextMessageProvider:
-You can now collect more #Energy#.\nRemember that some abilities require #Energy# to use!
+ - #Add a woman.# Remember you are safe.
 
 findEnergyShardTextMessageProvider:
-You found an #Energy Orb#!\nCollect these to restore Ori's #Energy#.
+ - #Atu# Reis! #You understand
 
 findEyestoneTextMessageProvider:
-This curious, eye-shaped gem would fit nicely into a stone eye socket.
+ - Wounded black eyes.
 
 findGiantExperienceVesselTextMessageProvider:
-#Spirit Light# can be #traded# to friendly creatures\nfor various #items# and #upgrades#!
+ - #Body.#
 
 findHalfEnergyCellTextMessageProvider:
-You found an #Energy Cell Fragment#. Collect #one more# to increase your maximum #Energy#.
+ - #First.# Or #GI# more than large acne
 
 findHalfLifeCellTextMessageProvider:
-You found a #Life Cell Fragment#. Collect #one more# to increase your maximum #Life#.
+ - Section #Live Life# Port
 
 findKeystoneTextMessageProvider:
-#Keystones# are used to open #Spirit Gates#. Different #Spirit Gates# may require a different number of #Keystones#.
+ - Stone #apopin and say# sis #ttt
 
 findLifeCellTextMessageProvider:
-You can now collect more #Life#.\nFind more #Life Cells# to increase your survivability!
+ - #Shaland# Welma NOW #Kid -# Ineah songs!
 
 findLifeShardTextMessageProvider:
-You found a #Life Orb#!\nCollect these to restore Ori's #Life#.
+ - #Rt# happy! Second -ste #and# listoed
 
 findOreTextMessageProvider:
-You found some #Ore#!\nA clever craftsman could use this to repair structures.
+ - Is it coming? Blue artists can restore construction.
 
 findSecondHalfEnergyCellTextMessageProvider:
-You completed an #Energy Cell#! Your #maximum Energy# has been #increased#.
+ - FOOSBS #LETRON FIRST!# Mgassium Energy #KAN#
 
 findSecondHalfLifeCellTextMessageProvider:
-You completed a #Life Cell#! Your #maximum Life# has been #increased#.
+ - Or the #chen cell life?# MKKU LIFE #SASSCOG#
 
 findShardSlotUpgradeTextMessageProvider:
-You can now equip more shards at once.\nFind more #Shard Slot Upgrades# to equip even more shards!
+ - You can now make some units together. Find more #colors# and make #more statues.#
 
 findXpOrbTextMessageProvider:
-#Spirit Light# can be #traded# to friendly creatures\nfor various #items# and #upgrades#!
+ - #Body#
 
 nameEnergyCellTextMessageProvider:
-Energy Cell
+ - Housing area
 
 nameEnergyShardTextMessageProvider:
-Energy Orb
+ - Energy
 
 nameEyestoneTextMessageProvider:
-Eyestone
+ - Sick
 
 nameGiantExperienceVesselTextMessageProvider:
-Giant Spirit Light Container
+ - Secure
 
 nameHalfEnergyCellTextMessageProvider:
-Energy Cell Fragment
+ - Pregnant
 
 nameHalfLifeCellTextMessageProvider:
-Life Cell Fragment
+ - Message
 
 nameKeystoneTextMessageProvider:
-Keystone
+ - Pregnant
 
 nameLifeCellTextMessageProvider:
-Life Cell
+ - Personal
 
 nameLifeShardTextMessageProvider:
-Life Orb
+ - Intact
 
 nameOreTextMessageProvider:
-Gorlek Ore
+ - Cable
 
 nameShardSlotUpgradeTextMessageProvider:
-Shard Slot Upgrade
+ - Use a black spot.
 
 nameXpOrbTextMessageProvider:
-Spirit Light Orb
+ - Breath
 
 howToGrabBashObjectsTextMessageProvider:
-Hold [Grab] to #grab and move# or [Bash] to #Bash# objects!
+ - [Grab] s [Bash] Bush
 
 howToGrabObjectsTextMessageProvider:
-Hold [Grab] to #grab and move# objects!
+ - [Grab] #sf# very simple!
 
 howToPushOrPullTextMessageProvider:
-Press [Left] or [Right] to #push or pull#!
+ - #Luma or newspaper# [Left] or [Right]
 
 howToSwimFasterTextMessageProvider:
-Hold [Jump] to swim faster!
+ - How fast? [Jump]
 
 gameSavedTextMessageProvider:
-Game Saved!
+ - This is really a game!
 
 howToEnterGateTextMessageProvider:
-Press [Up] to enter!
+ - [Up] Clinical results?
 
 howToPickupStickFromStackTextMessageProvider:
-Press [Interact] to grab a #torch#!
+ - Click by clicking [Interact] #Paul#!
 
 howToWallJumpSustainTextMessageProvider:
-Hold [Jump] for higher #wall jumps#!
+ - [Jump] #Vergl# best people!
 
 getSpyglassTextMessageProvider:
-You found a new #quest item#!\nMade of delicately engraved wood and highly polished crystals.
+ - #Group Collection?# True wood link and slow the results
 
 nameSpyglassTextMessageProvider:
-Spyglass
+ - Occupation
 
 collectiblesStatsHeaderTextMessageProvider:
-COLLECTIBLES
+ - Producer
 
 combatStatsHeaderTextMessageProvider:
-COMBAT
+ - Stem
 
 generalStatsHeaderTextMessageProvider:
-GENERAL
+ - This is normal
 
 platformingStatsHeaderTextMessageProvider:
-PLATFORMING
+ - Connect
 
 storyStatsHeaderTextMessageProvider:
-STORY
+ - History
 
 bashDescriptionTextMessageProvider:
-Hold [Bash] near targets for a #Bash Attack#!
+ - #Bust# ends!
 
 bashTextMessageProvider:
-Bash
+ - Person
 
 damageUpgradeDescriptionTextMessageProvider:
-All attacks now deal 25% more damage.
+ - 25% attack today
 
 damageUpgradeTextMessageProvider:
-Ancestral Light
+ - Monastery
 
 dashDescriptionTextMessageProvider:
-Press [Dash] to #Dash# ahead!
+ - #Do# dash!
 
 dashTextMessageProvider:
-Dash
+ - Advocation
 
 doubleJumpDescriptionTextMessageProvider:
-Press [Jump] in mid-air for a #Double Jump#!
+ - [Jump] Click here!
 
 doubleJumpTextMessageProvider:
-Double Jump
+ - [Glide] Twice
 
 glideDescriptionTextMessageProvider:
-Hold [Glide] in mid-air to glide using #Kuro's Feather#!
+ - Wind [Dash] and #cool# clean!
 
 glideTextMessageProvider:
-Kuro's Feather
+ - Intelligence
 
 waterDashDescriptionTextMessageProvider:
-Press [Dash] to #Swim Dash# underwater!
+ - And
 
 waterDashTextMessageProvider:
-Swim Dash
+ - Ring
 
 gorlekMinesTextMessageProvider:
-Gorlek Mines
+ - Title
 
 weepingRidgeTextMessageProvider:
-Weeping Ridge
+ - Great
 
 wellspringValleyTextMessageProvider:
-Wellspring Valley
+ - I'm looking for hot sources
 
 buttonBTextIcon
-[BAbility]
+ - [BAbility]
 
 buttonXTextIcon
-[XAbility]
+ - [XAbility]
 
 buttonYTextIcon
-[YAbility]
+ - [YAbility]
 
 equipmentUIEquipScreenAssignTextMessageProvider:
-Assign
+ - Seven
 
 minerBossReplayNameTextMessageProvider:
-#Grol the Mad#
+ - #Ield unting#
 
 completedTextMessageProvider:
-Completed
+ - Aproms about this 3. There is an application in the event.
 
 continueTextMessageProvider:
-CONTINUE
+ - Period
 
 abilityWheelBackTextMessageProvider:
-[AbilityWheel] Back
+ - [AbilityWheel] December
 
 bashTextMessageProvider:
-BASH
+ - Person
 
 chargeJumpTextMessageProvider:
-LAUNCH
+ - Core
 
 grabAndGlideTextMessageProvider:
-Grab / Glide
+ - Skills / crime
 
 navigateMenuTextMessageProvider:
-NAVIGATE MENU
+ - APPLY
 
 behindTheScenesHeaderTextMessageProvider:
-BEHIND THE SCENES
+ - ORIGIN
 
 cutscenesHeaderTextMessageProvider:
-CUTSCENES
+ - CULTURE
 
 cutscenesTextMessageProvider:
-THEATER
+ - COOPERATION
 
 downloadableContentTextMessageProvider:
-DOWNLOADABLE CONTENT
+ - STARE
 
 easyModeTextMessageProvider:
-EASY MODE
+ - COURTEOUS
 
 exitGameQuestionCancelTextMessageProvider:
-CANCEL
+ - SICK
 
 exitGameQuestionOkTextMessageProvider:
-OK
+ - BENEFIT
 
 exitGameQuestionTextMessageProvider:
-Do you want to quit?
+ - Connect?
 
 exitGameTextMessageProvider:
-EXIT GAME
+ - SICK
 
 hardModeNoTextMessageProvider:
-NO
+ - OCCUPATION
 
 hardModePromptTextMessageProvider:
-Are you sure?
+ - Cheese?
 
 hardModeTextMessageProvider:
-HARD MODE
+ - CAVE
 
 hardModeWarningTextMessageProvider:
-The most challenging way to experience the game.\nWe recommend playing first on normal mode for an optimal experience
+ - The hardest way to control the game shows a similar development method
 
 hardModeYesTextMessageProvider:
-YES
+ - PERSONAL
 
 helpOptionsTextMessageProvider:
-HELP & OPTIONS
+ - HELP AND CHOOSE
 
 newGameTextMessageProvider:
-START GAME
+ - SEE
 
 normalModeDescriptionTextMessageProvider:
-The way Ori and the Will of the Wisps was meant to be played
+ - Say
 
 normalModeTextMessageProvider:
-NORMAL MODE
+ - READ MORE
 
 pressAnyKeyTextMessageProvider:
-Press any key
+ - Press the button
 
 pressStartTextMessageProvider:
-Press [Accept] to start
+ - Starting from the file [Accept] (you can use yourself)
 
 backTextMessageProvider:
-[Cancel] Back
+ - [Cancel] December
 
 backupSavesTextMessageProvider:
-BACKUP SAVES
+ - REBEL
 
 copyFromTextMessageProvider:
-Copying From...
+ - Compare...
 
 copyOverwriteTextMessageProvider:
-[Accept] Overwrite Save?\nAll data will be lost!
+ - [Accept] Do you want to take your name\nand lose all the information?
 
 copyTextMessageProvider:
-[SaveSlotCopy] Copy
+ - [SaveSlotCopy] Tax
 
 deleteQuestionTextMessageProvider:
-[Accept] Delete file?\nAll data will be lost!
+ - [Accept] Delete files? All information has disappeared.
 
 deleteTextMessageProvider:
-[SaveSlotDelete] Delete
+ - [SaveSlotDelete] Still
 
 emptySlotTextMessageProvider:
-Empty Slot
+ - It's gone
 
 gameModeEasyDescriptionTextMessageProvider:
-For players who want to focus more on story and less on challenging gameplay
+ - Reduce players in history and good action.
 
 gameModeHardcoreDescriptionTextMessageProvider:
-You only get one chance to save #Niwen#. The ultimate challenge
+ - #Vine wine# is a personal service method.
 
 gameModeNormalDescriptionTextMessageProvider:
-For players seeking a good challenge, average difficulty
+ - The same player
 
 gameModePlusDescriptionTextMessageProvider:
-Ori is weak against the Decay. For advanced players
+ - I feel like it's broken.
 
 pasteTextMessageProvider:
-[SaveSlotCopy] Paste
+ - [SaveSlotCopy] Monastery
 
 quickAccessTextMessageProvider:
-QUICK ACCESS
+ - ADVICE
 
 selectTextMessageProvider:
-[Accept] Select
+ - [Accept] Natural
 
 unlockFullGameTextMessageProvider:
-[UnlockFullGame] Unlock #Full Game#
+ - [UnlockFullGame] #finish#
 
 optionsTextMessageProvider:
-OPTIONS
+ - STARE
 
 findKuDescriptionTextMessageProvider:
-Ku has fallen in the Silent Woods to the east, a dangerous place for a little owl. Find her quickly.
+ - Once it is a dangerous place in a calm forest.
 
 findKuEscapeUpdateDescriptionTextMessageProvider:
-You’ve found Ku! Now find your way out of the Silent Woods.
+ - This is real; Woods
 
 findKuEscapeUpdateObjectiveTextMessageProvider:
-Leave the Silent Woods
+ - Tax
 
 findTheKeystoneDescriptionTextMessageProvider:
-Retrieve the missing keystone from the cave beyond Tokk and he'll give you his.
+ - Show beer quickly.
 
 findTheKeystoneGotStoneUpdateDescriptionTextMessageProvider:
-You found the missing keystone! Bring it back to Tokk.
+ - In the end I will take the mountain! I just returned to Tokyo.
 
 findTheKeystoneGotStoneUpdateObjectiveTextMessageProvider:
-Show the keystone to Tokk.
+ - Balein appeared in Tokyo.
 
 findTheKeystoneNameTextMessageProvider:
-The Missing Key
+ - Sick
 
 findTheKeystoneObjectiveTextMessageProvider:
-Find the Keystone
+ - Trade
 
 willOfTheWispsUpdateDescriptionTextMessageProvider:
-The wisps have come together as Seir, the Golden Light. Now Seir must return to the Spirit Willow.
+ - Perfect service with gold thumbs up
 
 willOfTheWispsUpdateObjectiveTextMessageProvider:
-Return Seir to the Spirit Willow
+ - Yangtha every year
 
 eyesOfTheForestDescriptionTextMessageProvider:
-A wisp lies trapped in the darkness of Mouldwood Depths. Free it so the land might see clearly once more.
+ - The car is limited to the depth of the part to see the world.
 
 eyesOfTheForestNameTextMessageProvider:
-Breaking the Mould
+ - Friendship
 
 eyesOfTheForestObjectiveTextMessageProvider:
-Find the Eyes of the Forest
+ - As usual. As usual
 
 eyesOfTheForestUpdateDescriptionTextMessageProvider:
-The wisp is within reach, but Mora the Spider is reluctant to let her catch go...
+ - Air is called spider. I don't want to win
 
 eyesOfTheForestUpdateObjectiveTextMessageProvider:
-Defeat Mora
+ - Lost
 
 heartOfTheForestDescriptionTextMessageProvider:
-A wisp has been lost beneath the swirling sandstorms of the Windswept Wastes. Find it so that the heartbeat of life might return to the land.
+ - After that, they disappeared into the air. You know your life.
 
 heartOfTheForestNameTextMessageProvider:
-Beneath Shifting Sands
+ - Though
 
 heartOfTheForestObjectiveTextMessageProvider:
-Find the Heart of the Forest
+ - Mark
 
 heartOfTheForestUpdateDescriptionTextMessageProvider:
-Four wisps are needed to enter the ruins below the Windswept Wastes. Return once you have them all.
+ - If so, four sides must be destroyed in the air.
 
 heartOfTheForestUpdateObjectiveTextMessageProvider:
-Gather the Four
+ - In the
 
 memoryOfTheForestDescriptionTextMessageProvider:
-A wisp shivers atop a wintery peak in Baur's Reach. Free it so the land might remember the warmth of spring.
+ - At the top of the outdoor industry this winter. Don't forget the world in the world
 
 memoryOfTheForestNameTextMessageProvider:
-The Highest Reach
+ - Great
 
 memoryOfTheForestObjectiveTextMessageProvider:
-Find the Memory of the Forest
+ - Forest Report
 
 strengthOfTheForestDescriptionTextMessageProvider:
-A wisp sank somewhere in the lush wilderness of the Luma Pools. Find it and return strength to the land.
+ - Onion sales are sold. Review and accept the power of your country
 
 strengthOfTheForestNameTextMessageProvider:
-Lost in Paradise
+ - I'm in the sky
 
 strengthOfTheForestObjectiveTextMessageProvider:
-Find the Strength of the Forest
+ - Information about the title
 
 strengthOfTheForestUpdateDescriptionTextMessageProvider:
-Something horrible has befallen Kwolok, and he's swallowed the wisp! Defeat Kwolok to free it.
+ - Clean the baby: this could be used brilliantly! Let the watch
 
 strengthOfTheForestUpdateObjectiveTextMessageProvider:
-Defeat Kwolok
+ - Line
 
 willOfTheWispsDescriptionTextMessageProvider:
-When the Willow died, wisps of its light were scattered across the land. Find the wisps in #Baur's Reach#, the #Mouldwood Depths#, and #Luma Pools#, and heal the land of #Niwen#.
+When the #arrow# turns, the #lights# increase the #spinal cord.#
 
 willOfTheWispsNameTextMessageProvider:
-The Will of the Wisps
+ - Light
 
 willOfTheWispsUpdateObjectiveFourTextMessageProvider:
-Enter the ruins beneath the Windswept Wastes.
+ - When needed
 
 willOfTheWispsUpdateObjectiveOneTextMessageProvider:
-Three Wisps Remain Unfound
+ - This message is not mentioned in three.
 
 willOfTheWispsUpdateObjectiveThreeTextMessageProvider:
-One Wisp Remains Unfound
+ - I don't need it
 
 willOfTheWispsUpdateObjectiveTwoTextMessageProvider:
-Two Wisps Remain Unfound
+ - To produce
 
 questRewardUnknownTextMessageProvider:
- - ???
+ - advice
 
 braveMokiDescriptionATextMessageProvider:
- - A Moki wants to show his friends how brave he is. Find a #Howl fang# for him.
+ - I'm my friend # mitts# okss
 
 braveMokiDescriptionBTextMessageProvider:
-You found a #Howl fang#. Bring it to Mokk the Brave.
+ - #Filter# athyndli this century
 
 braveMokiNameTextMessageProvider:
-A Little Braver
+ - Monastery
 
 braveMokiObjectiveATextMessageProvider:
-Find a Howl fang near where you fought Howl.
+ - He saw the war after the war.
 
 braveMokiObjectiveBTextMessageProvider:
-Give the Howl fang to Mokk the Brave.
+ - Tomorrow is my strength
 
 caveMokiDescriptionATextMessageProvider:
-A Moki has lost a precious keepsake in a gloomy cave below #Wellspring Glades#.
+ - #Minden Period:# Main memory in the cave
 
 caveMokiDescriptionBTextMessageProvider:
-You found a heart-shaped #acorn# in a gloomy cave.
+ - You are in a black cave or
 
 caveMokiNameTextMessageProvider:
-Into the Darkness
+ - Get up
 
 caveMokiObjectiveATextMessageProvider:
-Find a way into the cave to retrieve the Moki's keepsake.
+ - Slowly see
 
 caveMokiObjectiveBTextMessageProvider:
-Return the acorn to the Moki.
+ - Then push.
 
 desertCogDescriptionATextMessageProvider:
-Tokk spotted a shovel in the #Windswept Wastes#. Where there's a shovel, there's usually something worth digging for.
+ - Ashwitch russian mga pirasa neo aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 
 desertCogDescriptionBTextMessageProvider:
-You found a #metal cog#. Find someone who knows what it does.
+ - #Fed# looking for metal equipment
 
 desertCogDescriptionCTextMessageProvider:
-You discovered the entrance to the #Gorlek Mines#. What treasures could lie within?
+ - The information spot project will be surprised?
 
 desertCogDescriptionDTextMessageProvider:
-You found an #eerie gem# in the #Windswept Wastes#. Perhaps a gemstone enthusiast could tell you more about it.
+ - Stare
 
 desertCogNameTextMessageProvider:
-A Diamond in the Rough
+ - Hero
 
 desertCogObjectiveATextMessageProvider:
-Explore the Windswept Wastes near the shovel.
+ - The wind stopped.
 
 desertCogObjectiveBTextMessageProvider:
-Find a use for the metal cog.
+ - Used for mineral juice
 
 desertCogObjectiveCTextMessageProvider:
-Go treasure hunting in the Gorlek Mines.
+ - I am looking for ice cream
 
 desertCogObjectiveDTextMessageProvider:
-Take the eerie gem to a specialist.
+ - After testing
 
 familyReunionDescriptionATextMessageProvider:
-A Moki needs a #house# for his family. Talk to #Grom# to see how you can help.
+ - # Family works for us to help
 
 familyReunionDescriptionBTextMessageProvider:
-A Moki is building a hut in the #Wellspring Glades#. Find his family so they can join him in their new home.
+ - Make your favorite at home. #Dadasprung# ere's I like at home.
 
 familyReunionDescriptionCTextMessageProvider:
-Tragedy befell the Moki family.
+ - This example helps the family.
 
 familyReunionNameTextMessageProvider:
-Family Reunion
+ - Ethnic group
 
 familyReunionObjectiveATextMessageProvider:
-Talk to Grom about building a home.
+ - I made a house
 
 familyReunionObjectiveBTextMessageProvider:
-Find the Moki family near the Silent Woods.
+ - Macau Macau family near the forest.
 
 familyReunionObjectiveCTextMessageProvider:
-Return to the Moki father with the sad news.
+ - The Pope is returned to the new S
 
 inkwaterWellDescriptionATextMessageProvider:
-Open the gate and find an #artifact# for #Tokk#.
+ - Open the #table door.#
 
 inkwaterWellDescriptionBTextMessageProvider:
-Return the #artifact# to #Tokk#.
+ - TEFC #days fan# fu
 
 inkwaterWellNameTextMessageProvider:
-Into the Burrows
+ - Tourist
 
 inkwaterWellObjectiveATextMessageProvider:
-Find the artifact in the Midnight Burrows.
+ - Accept you at night
 
 inkwaterWellObjectiveBTextMessageProvider:
-Return to Tokk.
+ - Come here
 
 kwoloksWisdomDescriptionATextMessageProvider:
-A Moki in #Luma Pools# is seeking #Kwolok#'s advice. Find #Kwolok#'s whereabouts and report back.
+ - #15# soze #ok Cak# volunteers
 
 kwoloksWisdomDescriptionBTextMessageProvider:
-The Moki gave you an #amulet# to bring to #Kwolok#.
+ - #Inita Thank you# Check to #d# These can not use it
 
 kwoloksWisdomDescriptionCTextMessageProvider:
-The Moki gave you an #amulet# to bring to #Kwolok's Altar#.
+ - #CALUCH#
 
 kwoloksWisdomNameTextMessageProvider:
-Kwolok's Wisdom
+ - Stare
 
 kwoloksWisdomObjectiveATextMessageProvider:
-Find Kwolok and report back.
+ - Find and starve
 
 kwoloksWisdomObjectiveBTextMessageProvider:
-Give the amulet to Kwolok.
+ - Clear
 
 kwoloksWisdomObjectiveCTextMessageProvider:
-Take the amulet to Kwolok's Altar.
+ - They will go home now
 
 lostCompassDescriptionATextMessageProvider:
-Tokk lost his #compass# somewhere in the #Wellspring#.
+ - You can use #efups# DLAPS #Todo# everywhere.
 
 lostCompassDescriptionBTextMessageProvider:
-You found an #iron needle#. Bring it to #Tokk#.
+ - Is this your job #what should I do?#
 
 lostCompassNameTextMessageProvider:
-The Lost Compass
+ - Even if I miss him
 
 lostCompassObjectiveATextMessageProvider:
-Find Tokk's compass.
+ - Get your taste
 
 lostCompassObjectiveBTextMessageProvider:
-Return the iron needle to Tokk.
+ - Conspiracy
 
 luposMapDescriptionATextMessageProvider:
-Lupo yearns to map the #Silent Woods#, but is a little timid. Explore the area and tell him about it.
+ - All rules and #Lrita# get a chat message.
 
 luposMapDescriptionBTextMessageProvider:
-Lupo yearns to map the #Silent Woods#, but is a little timid. Continue exploring the area.
+ - All rules and here #I see it.#
 
 luposMapNameTextMessageProvider:
-The Silent Map
+ - Little
 
 luposMapObjectiveATextMessageProvider:
-Explore the Silent Woods and bring anything of interest to Lupo.
+ - When you read in a calm forest, this is very important for everyone good.
 
 luposMapObjectiveBTextMessageProvider:
-Explore the Silent Woods more and bring anything of interest to Lupo.
+ - When you read in a calm forest, this is very important for everyone good.
 
 rebuildGladesDescriptionATextMessageProvider:
-Grom is bringing the #Wellspring Glades# to its former glory, one building at a time. Help him by gathering #Gorlek Ore#.
+ - Gray #Martha after 10 years.#
 
 rebuildGladesNameTextMessageProvider:
-Rebuilding the Glades
+ - Housing area
 
 rebuildGladesObjectiveATextMessageProvider:
-Help Grom rebuild the Wellspring Glades.
+ - Allow the source
 
 regrowGladesDescriptionATextMessageProvider:
-Tuley is growing all kinds of plants in the Wellspring Glades. Bring him any #unusual seeds# you find.
+ - Darly offers leather bikes to improve all plants. -------das---s-ssss-- ny
 
 regrowGladesNameTextMessageProvider:
-Regrowing the Glades
+ - Connection
 
 regrowGladesObjectiveATextMessageProvider:
 Help Tuley regrow the flora of the Wellspring Glades.
