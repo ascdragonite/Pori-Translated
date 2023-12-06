@@ -1,17 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Text.RegularExpressions;
-using System.Threading.Tasks;
-using System.Xml.Linq;
 using Il2Cpp;
-using Il2CppCore;
-using Il2CppMoon.Race;
 using MelonLoader;
-using UnityEngine;
-using UnityEngine.Profiling;
-using UniverseLib.Input;
 
 namespace DialogueMod
 {
@@ -63,8 +53,6 @@ namespace DialogueMod
 
         public void GenerateDict(string Database)
         {
-
-
             HeaderDict.Clear();
 
             string[] HeaderNames = GetHeaders(Database);
@@ -74,7 +62,9 @@ namespace DialogueMod
                 string[] elements = GetElements(Database, header);
 
                 if (!HeaderDict.ContainsKey(header))
+                {
                     HeaderDict.Add(header, elements);
+                }
             }
         }
 
