@@ -18,63 +18,66 @@ namespace DialogueMod
     public class DialogueModMain : MelonMod
     {
 
+        string Database;
+
         public override void OnApplicationStart()
         {
             MelonHandler.LoadFromFile("UserLibs/UniverseLib.IL2CPP.Interop.ML.dll");
+
+            Database = System.IO.File.ReadAllText("Mods/Translation.YAML");
+
+            GenerateDict(Database);
         }
 
 
         // idk what that even means
 
         Dictionary<string, string[]> HeaderDict = new Dictionary<string, string[]>();
-        public override void OnUpdate()
+
+        public override void OnSceneWasLoaded(int buildIndex, string sceneName)
         {
-            if (UniverseLib.Input.InputManager.GetKeyDown(KeyCode.U))
+
+
+            foreach (TranslatedMessageProvider provider in UniverseLib.RuntimeHelper.FindObjectsOfTypeAll<TranslatedMessageProvider>())
             {
-                string Database = System.IO.File.ReadAllText("Mods/test.YAML");
-
-                HeaderDict.Clear();
-
-                string[] HeaderNames = GetHeaders(Database);
-
-                foreach (string header in headers)
+                if (HeaderDict.ContainsKey(provider.name))
                 {
-                    string[] elements = GetElements(Database, header);
+                    int index = 0;
 
-
-                    HeaderDict.Add(header, elements);
-
-                    LoggerInstance.Msg($"loaded provider {header} with messages");
-
-                    foreach (string element in elements)
+                    foreach (var dialogue in provider.Messages)
                     {
-                        LoggerInstance.Msg(element);
-                    }
-                }
-
-                
-
-                foreach (TranslatedMessageProvider provider in UniverseLib.RuntimeHelper.FindObjectsOfTypeAll<TranslatedMessageProvider>())
-                {
-                    if(HeaderDict.ContainsKey(provider.name))
-                    {
-                        int index = 0;
-
-                        foreach (var dialogue in provider.Messages)
+                        if (index <= HeaderDict[provider.name].Length - 1)
                         {
-                            if (index <= HeaderDict[provider.name].Length-1)
-                            {
-                                dialogue.English = HeaderDict[provider.name][index];
-                            }
-
-                            index++;
+                            dialogue.English = HeaderDict[provider.name][index];
                         }
+
+                        index++;
                     }
                 }
-                    
             }
-        
+
+
+
         }
+
+
+        public void GenerateDict(string Database)
+        {
+
+
+            HeaderDict.Clear();
+
+            string[] HeaderNames = GetHeaders(Database);
+
+            foreach (string header in headers)
+            {
+                string[] elements = GetElements(Database, header);
+
+                if (!HeaderDict.ContainsKey(header))
+                    HeaderDict.Add(header, elements);
+            }
+        }
+
 
         //this part gets all the headers
         // the headers are the names of the message providers
