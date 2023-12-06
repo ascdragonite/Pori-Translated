@@ -3525,61 +3525,61 @@ gorlekMinesLupoWelcomeTextMessageProvider:
  - Hello friends!
 
 atopGinsoTreeTextMessageProvider:
-OLD TEXT, LET TECH KNOW
+ - OLD TEXT, LET TECH KNOW
 
 conceptArtCapsTextMessageProvider:
-OLD TEXT, LET TECH KNOW
+ - OLD TEXT, LET TECH KNOW
 
 creditsTextMessageProvider:
-OLD TEXT, LET TECH KNOW
+ - OLD TEXT, LET TECH KNOW
 
 eThreeTwentyfourteenTrailerTextMessageProvider:
-OLD TEXT, LET TECH KNOW
+ - OLD TEXT, LET TECH KNOW
 
 earlyBeginningsTextMessageProvider:
-OLD TEXT, LET TECH KNOW
+ - OLD TEXT, LET TECH KNOW
 
 enemyConceptsTextMessageProvider:
-OLD TEXT, LET TECH KNOW
+ - OLD TEXT, LET TECH KNOW
 
 interactionConceptsTextMessageProvider:
-OLD TEXT, LET TECH KNOW
+ - OLD TEXT, LET TECH KNOW
 
 kurosAttackTextMessageProvider:
-OLD TEXT, LET TECH KNOW
+ - OLD TEXT, LET TECH KNOW
 
 kurosNestTextMessageProvider:
-OLD TEXT, LET TECH KNOW
+ - OLD TEXT, LET TECH KNOW
 
 launchTrailerTextMessageProvider:
-OLD TEXT, LET TECH KNOW
+ - OLD TEXT, LET TECH KNOW
 
 lockedTextMessageProvider:
-OLD TEXT, LET TECH KNOW
+ - OLD TEXT, LET TECH KNOW
 
 losAngelesLaunchEventTextMessageProvider:
-OLD TEXT, LET TECH KNOW
+ - OLD TEXT, LET TECH KNOW
 
 makingOfSoundTextMessageProvider:
-OLD TEXT, LET TECH KNOW
+ - OLD TEXT, LET TECH KNOW
 
 prologueTextMessageProvider:
-OLD TEXT, LET TECH KNOW
+ - OLD TEXT, LET TECH KNOW
 
 promotionalVideosCapsTextMessageProvider:
-OLD TEXT, LET TECH KNOW
+ - OLD TEXT, LET TECH KNOW
 
 recordingTheSoundtrackTextMessageProvider:
-OLD TEXT, LET TECH KNOW
+ - OLD TEXT, LET TECH KNOW
 
 sacrificeTextMessageProvider:
-OLD TEXT, LET TECH KNOW
+ - OLD TEXT, LET TECH KNOW
 
 sequenceConceptsTextMessageProvider:
-OLD TEXT, LET TECH KNOW
+ - OLD TEXT, LET TECH KNOW
 
 storyAnimaticsTextMessageProvider:
-OLD TEXT, LET TECH KNOW
+ - OLD TEXT, LET TECH KNOW
 
 selectTextMessageProvider:
  - [Accept] Natural
@@ -3588,7 +3588,7 @@ narratorPrologueATextMessageProvider:
  - Right
 
 swallowsNestTextMessageProvider:
-- S^WALLOW'S^ N^EST^ -
+ - S^WALLOW'S^ N^EST^ -
 
 narratorPrologueJTextMessageProvider:
  - Metal
@@ -3654,7 +3654,7 @@ raceTimeoutTextMessageProvider:
  - Sleep!
 
 startRaceBottomTextMessageProvider:
-[DialogueOption2] Seat      [MenuPageLeft] I think they are back: <yellow>{0}</yellow>
+ - [DialogueOption2] Seat      [MenuPageLeft] I think they are back: <yellow>{0}</yellow>
 
 startRaceInactiveTextMessageProvider:
  - #Legal leave# is #wrong#.\nBefore you stop, I need to reach my goal.
@@ -3793,238 +3793,238 @@ zoomTextMessageProvider:
  - [MapZoom] Peer
 
 hintShardNotYetDiscoveredTextMessageProvider:
-Undiscovered
+ - AWESTRUCK
 
 lockedDescriptionTextMessageProvider:
-Ability still locked!
+ - The government is still important!
 
 shardTraderImprovementTextMessageProvider:
-Twillen needs a better shop first.
+ - First double chemistry
 
 undiscoveredTextMessageProvider:
-Hidden
+ - Lost
 
 waterBreathTextMessageProvider:
-Water Breath
+ - Check your hands
 
 mountHoruTextMessageProvider:
-Mount Horu
+ - Reasoning
 
 LockedProjectDescriptionTextMessageProvider:
-This project has not been revealed yet.
+ - The project was not opened.
 
 LockedProjectTextMessageProvider:
-Unrevealed
+ - Cursed
 
 hintProjectCompletedTextMessageProvider:
-Project already completed.
+ - The project is complete.
 
 labelTextMessageProvider:
-COMPLETED
+ - APROMS ABOUT THIS 3. THERE IS AN APPLICATION IN THE EVENT.
 
 equipmentUIEquipScreenHoldToPurchaseTextMessageProvider:
-[MenuSelect] Hold to Purchase
+ - [MenuSelect] Warehouse
 
 hintPlantingCompletedTextMessageProvider:
-Planting already completed.
+ - Open Plant
 
 holdToPlantTextMessageProvider:
-[MenuSelect] Hold to Plant
+ - [MenuSelect] A good
 
 exitTextMessageProvider:
-EXIT
+ - STICKY
 
 notEnoughSpiritLightTextMessageProvider:
-Not enough #Spirit Light#
+ - The #soul# is not enough
 
 inventoryBuilderBeautificationTextMessageProvider:
-Gorlek Touch Added
+ - Energy
 
 inventoryBuilderCaveReopenedTextMessageProvider:
-Cave Reopened
+ - Spark
 
 inventoryBuilderMokiHomesTextMessageProvider:
-Moki Homes Built
+ - Tea
 
 inventoryBuilderSpiritWellTextMessageProvider:
-Spirit Well Repaired
+ - The Holy Spirit has changed.
 
 inventoryBuilderThornsRemovedTextMessageProvider:
-Thorns Removed
+ - Still
 
 inventoryGardenerBashPlantsTextMessageProvider:
-Lightcatchers
+ - Contact your purchase load
 
 inventoryGardenerGrapplePlantsTextMessageProvider:
-Moonblooms
+ - Every investor
 
 inventoryGardenerGrassTextMessageProvider:
-Bluegrass
+ - Home - Temple
 
 inventoryGardenerLightflowerPlantsTextMessageProvider:
-Sela Flowers
+ - Tone
 
 inventoryGardenerSpringPlantsTextMessageProvider:
-Spring Plants
+ - First
 
 inventoryGardenerTheFirstTreeTextMessageProvider:
-The First Tree
+ - Me
 
 inventoryHeaderBuilderTextMessageProvider:
-Grom's Handiwork
+ - However
 
 inventoryHeaderEnergyCellTextMessageProvider:
-Energy Cells
+ - Size
 
 inventoryHeaderGardenerTextMessageProvider:
-Tuley's Garden
+ - Client
 
 inventoryHeaderLifeCellTextMessageProvider:
-Life Cells
+ - Personal
 
 inventoryHeaderNpcTextMessageProvider:
-A Good Deed
+ - First
 
 inventoryHeaderOreTextMessageProvider:
-Gorlek Ore
+ - Cable
 
 inventoryHeaderQuestTextMessageProvider:
-Quest Item
+ - Stairs
 
 inventoryHeaderShardSlotTextMessageProvider:
-Shard Slots
+ - Computer play
 
 inventoryHeaderSpiritLightTextMessageProvider:
-Spirit Light
+ - As an increase
 
 inventoryHeaderWispTextMessageProvider:
-Wisp Found
+ - I have a cube
 
 inventoryNpc10MokiOrphanageTextMessageProvider:
-A Moki returned to his family
+ - Back to family tax
 
 inventoryNpc11GotStringMokiTextMessageProvider:
-A Moki made a silken net
+ - I don't care
 
 inventoryNpc12GotSpyglassMokiTextMessageProvider:
-Motay got a spyglass
+ - You are a teacher
 
 inventoryNpc13MinerTextMessageProvider:
-A Gorlek quenched his thirst
+ - I need ...
 
 inventoryNpc14GardenerArrivesTextMessageProvider:
-Tuley made a new garden
+ - Check a new deposit
 
 inventoryNpc15GotCoalMokiTextMessageProvider:
-A Moki was warmed by soup
+ - - request
 
 inventoryNpc16GotHatMokiTextMessageProvider:
-A Moki got a fashionable hat
+ - Complex pain
 
 inventoryNpc17KwolokMokiTextMessageProvider:
-A Moki paid her respects to Kwolok
+ - Mikki is displayed in the package.
 
 inventoryNpc18MokkTheBraveTextMessageProvider:
-Mokk the Brave got a shiny fang
+ - Embellish
 
 inventoryNpc19GotBookTextMessageProvider:
-Grom rebuilt the Wellspring Glades
+ - Nature: Two
 
 inventoryNpc1TwillenTextMessageProvider:
-Twillen crafted his best shard
+ - My good work
 
 inventoryNpc2DarknessMokiTextMessageProvider:
-A Moki got his acorn back
+ - Check the Moscow
 
 inventoryNpc3TreekeeperTextMessageProvider:
-The Tree Keeper gave Ori a petrified branch
+ - According to gas signal
 
 inventoryNpc4ArtistMokiTextMessageProvider:
-A Moki gave Ori a map
+ - Messf Gold card
 
 inventoryNpc5AdventurerBackpackTextMessageProvider:
-A Moki got an adventurer's pack
+ - Tease has any other choice.
 
 inventoryNpc6TokkTextMessageProvider:
-Tokk got a treasure map
+ - TKKE: Post size
 
 inventoryNpc7OpherTextMessageProvider:
-Opher found knowledge
+ - KV
 
 inventoryNpc8LupoTextMessageProvider:
-Lupo got a map of the Silent Wood
+ - This is a very little trading.
 
 inventoryNpc9SpiderLanternTextMessageProvider:
-A Moki got fireflies for her lantern
+ - Great
 
 inventoryQuestAcornTextMessageProvider:
-Heart-Shaped Acorn
+ - Housing area
 
 inventoryQuestAmuletTextMessageProvider:
-Moki Amulet
+ - There are no mistakes
 
 inventoryQuestAncientTabletTextMessageProvider:
-Ancient Tablet
+ - Older
 
 inventoryQuestCanteenTextMessageProvider:
-Filled Canteen
+ - Skinning
 
 inventoryQuestDrawingTextMessageProvider:
-Old Map
+ - Benign
 
 inventoryQuestEmptyLanternTextMessageProvider:
-Empty Lantern
+ - Where?
 
 inventoryQuestFoodTextMessageProvider:
-Spicy Marshclam Soup
+ - Eager to
 
 inventoryQuestHatTextMessageProvider:
-Fashionable Hat
+ - Distant
 
 inventoryQuestHerbsTextMessageProvider:
-Herb Pouch
+ - Where?
 
 inventoryQuestHowlNailTextMessageProvider:
-Howl Fang
+ - To the time
 
 inventoryQuestIronNeedleTextMessageProvider:
-Iron Needle
+ - Half
 
 inventoryQuestMapStoneTextMessageProvider:
-Map Stone
+ - Again
 
 inventoryQuestMokiHutKeyTextMessageProvider:
-Silent Woodlands Hut Key
+ - Brand
 
 inventoryQuestMysteriousGemTextMessageProvider:
-Mysterious Gem
+ - Used for administration
 
 inventoryQuestPetrifiedBranchTextMessageProvider:
-Petrified Branch
+ - Size
 
 inventoryQuestPetrifiedDollTextMessageProvider:
-Petrified Doll
+ - Me
 
 inventoryQuestPouchTextMessageProvider:
-Wanderer's Pouch
+ - Close eyes
 
 inventoryQuestSeedOfTheLastTreeTextMessageProvider:
-Seed of the Last Tree
+ - Other
 
 inventoryQuestSpiderSilkTextMessageProvider:
-Threads of Spider Silk
+ - And
 
 inventoryQuestSpyglassTextMessageProvider:
-Spyglass
+ - Occupation
 
 inventoryQuestTheFirstKeystoneTextMessageProvider:
-Your First Keystone
+ - Used for administration
 
 inventoryResourceEnergyCellTextMessageProvider:
-Increases Ori's maximum #Energy#
+ - Along with good #gold#
 
 inventoryResourceLifeCellTextMessageProvider:
-Increases Ori's maximum #Life#
+ - Gold life is #developing#
 
 inventoryResourceOreTextMessageProvider:
 Used to build and improve structures
