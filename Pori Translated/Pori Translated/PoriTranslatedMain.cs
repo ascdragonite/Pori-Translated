@@ -7,6 +7,7 @@ using UniverseLib;
 using Il2CppInterop.Runtime;
 using Harmony;
 using Il2CppCore;
+using System.Net;
 
 namespace Pori_Translated
 {
@@ -39,8 +40,14 @@ namespace Pori_Translated
                         }
                     }
                 }
-
             }
+
+        }
+
+
+        public override void OnApplicationQuit()
+        {
+            System.IO.File.WriteAllLines("Mods/DialogList.txt", DialogList);
         }
 
     }
