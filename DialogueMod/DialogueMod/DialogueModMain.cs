@@ -2,6 +2,7 @@
 using System.Linq;
 using Il2Cpp;
 using MelonLoader;
+using UniverseLib.Runtime.Il2Cpp;
 
 namespace DialogueMod
 {
@@ -14,11 +15,12 @@ namespace DialogueMod
         {
             MelonHandler.LoadFromFile("UserLibs/UniverseLib.IL2CPP.Interop.ML.dll");
 
+            LoggerInstance.Msg("mod loaded");
+
             Database = System.IO.File.ReadAllText("Mods/Translation.YAML");
 
             GenerateDict(Database);
         }
-
 
         // idk what that even means
 
@@ -26,7 +28,15 @@ namespace DialogueMod
 
         public override void OnSceneWasLoaded(int buildIndex, string sceneName)
         {
-
+            try 
+            {
+                AchievementsUI[] tasdasd = UniverseLib.RuntimeHelper.FindObjectsOfTypeAll<AchievementsUI>();
+                
+            }
+            catch
+            {
+                LoggerInstance.Msg("its over");
+            }
 
             foreach (TranslatedMessageProvider provider in UniverseLib.RuntimeHelper.FindObjectsOfTypeAll<TranslatedMessageProvider>())
             {
@@ -66,6 +76,7 @@ namespace DialogueMod
                     HeaderDict.Add(header, elements);
                 }
             }
+            LoggerInstance.Msg("generated Dict");
         }
 
 
@@ -92,7 +103,7 @@ namespace DialogueMod
                     headers.Add(header);
                 }
             }
-
+            LoggerInstance.Msg("headers");
             return headers.ToArray();
         }
 
@@ -132,7 +143,7 @@ namespace DialogueMod
                 elements[i] = elements[i].Replace('-','\0');
                 elements[i] = elements[i].Trim();
             }
-
+            
             return elements.ToArray();
         }
 
