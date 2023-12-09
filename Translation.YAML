@@ -569,7 +569,7 @@ B05_UpgradeAllShards_Name_TextMessageProvider:
  - Used for administration
 
 forlornRuinsTextMessageProvider:
- - OLD_- F^ORLORN^ R^UINS^ -
+ - AN_- O^LD^ B^LOGGER^ -
 
 filterFriendsTextMessageProvider:
  - Together
@@ -3587,14 +3587,44 @@ selectTextMessageProvider:
 narratorPrologueATextMessageProvider:
  - Right
 
+narratorPrologueBTextMessageProvider:
+ - Can you buy without problems?
+
+narratorPrologueCbTextMessageProvider:
+ - This is ours
+
+narratorPrologueDTextMessageProvider:
+ - Bathe
+
+narratorPrologueETextMessageProvider:
+- As I fear
+
+narratorPrologueFTextMessageProvider:
+ - Employ
+
 swallowsNestTextMessageProvider:
- - S^WALLOW'S^ N^EST^ -
+ - L^OST^ -
+
+narratorPrologueHTextMessageProvider:
+- Close to the cooperation of my father
 
 narratorPrologueJTextMessageProvider:
  - Metal
 
 narratorPrologueKTextMessageProvider:
  - Satisfactory
+
+narratorPrologueLaTextMessageProvider:
+- Speak
+
+narratorPrologueLbTextMessageProvider:
+- I will begin your story
+
+narratorWillowsEndATextMessageProvider:
+- Education in relationships at the end of communication.
+
+narratorWillowsEndBTextMessageProvider:
+- Turn upside down
 
 navigateTextMessageProvider:
  - [WASD] Benign
@@ -4402,7 +4432,7 @@ kwoloksLamentNTextMessageProvider:
  - #Brand#
 
 wellspringGladesTextMessageProvider:
- - - W^ELLSPRING^ G^LADES^ -
+ - E^MPLOY^ -
 
 baursReachTokkSeesShriekRetalkATextMessageProvider:
  - This is a goal but I think #it is uneven#
@@ -5361,3 +5391,917 @@ tuleyProjectPurchasedTextMessageProvider:
 
 tuleySaleFarewellTextMessageProvider:
  - Each new flower is #soft.#
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//// possible duplicate headers, still finding ways to detect duplicated headers rather than checking them individually
+
+
+
+
+
+
+
+
+getGlideHappyTextMessageProvider:
+- Do you have new #power?# Do you have #air# [Glide], #hard or air?#
+
+howToSwingJumpTextMessageProvider:
+- [Up] #Disappear!# [Jump]
+
+opherSpringIntroductionB_postShriekTextMessageProvider:
+- What is the #front?#
+- What do you want to spend?
+- I don't know what you think is dangerous\n...\nWe need it.
+- Fortunately, this is just a teacher!
+
+opherSpringIntroductionB_preShriekTextMessageProvider:
+- And tell the #truth?# Not! Last time!
+- #Old tires# and spices as recognized #coming.#
+- Tell you play an interesting #library.#
+
+firstRacePedestalHintTextMessageProvider:
+- We have a spiritual #personality!# Looking for the main #reason?#
+
+howToDropPickupsToWalljumpTextMessageProvider:
+- Click here [Grab] to find what #you can give?#
+
+howToOpenSpiritGateTextMessageProvider:
+- Click [Interact] the middle of the #rock#
+
+allAreasLupoFirstEncounterTextMessageProvider: 2
+- Greetings, traveler! I am Lupo, Cartographer Extraordinaire!
+- Rumor has it you're looking for a friend, and what's better for finding things than a map?
+
+hubHomeAfterBreakingStuffTextMessageProvider: 0
+- Ah! Thanks for helping to clear the clutter around my humble abode!
+- Less stuff means more room for maps!
+
+lupoIntroRetalkTextMessageProvider:
+- ... I will always talk about this letter. I don't like this
+
+lupoIntroTextMessageProvider:
+
+lupoBuyMapButtonTextMessageProvider: 0
+- [DialogueOption1] Purchase
+
+lupoDeclineMapButtonTextMessageProvider: 0
+- [Exit] No Thanks
+
+lupoInteractionHintTextMessageProvider: 1
+- Press [Interact] to talk to Lupo!
+
+lupoShopBoughtEverythingTextMessageProvider: 0
+- That's all my notes! You're more than prepared to explore the world! Good luck!
+
+lupoShopBoughtPinFarewellTextMessageProvider: 0
+- Much obliged!
+
+lupoShopDeclinedTextMessageProvider: 0
+- Maybe some other time, then.
+
+lupoShopSalesPitchTextMessageProvider: 0
+- I've been marking down some of my observations on these maps. Care to see?
+
+lupoQuestCompletedRetalkTextMessageProvider: 1
+- Thank you for your assistance mapping the Silent Woods!
+- It might not be my most accurate map, but it's definitely one of the most exciting!
+- As a matter of fact, all maps are exciting. Still, few require the mapmaker to weather such peril!
+
+lupoQuestCompletedTextMessageProvider: 1 3
+- Ah ha! If it isn't my favorite student of the Silent Woods!
+- That's the last bit we needed! This map looks fantastic! We know all the nooks and crannies now!
+- Now I won't get lost, not that I'll ever go! Now, as Apprentice Mapmaker, you get a discount on any map!
+
+lupoQuestExploredATextMessageProvider: 1
+- Back from the Silent Woods so soon? What have you found?
+- Skeletal structures? Crumbling bones!? Sounds...perfectly normal! Ahem.
+- Hmm. Some parts have not been fully explored. Mapping demands thoroughness, you know.
+
+lupoQuestExploredBTextMessageProvider: 1
+- Ah, the stalker of the Silent Woods returns! So? What's out there?
+- Sucking tar pits? Exploding fauna!? My! How lovely!
+- The map's taking shape, but some paths are still blank. Come back when you've seen it all!
+
+lupoQuestStartRetalkTextMessageProvider: 0
+- Mark every landmark! Gauge every distance! Chart every direction!
+- Then, using all your keen observations, I'll make a map!
+- I mean we! We'll make a map!
+
+lupoQuestStartTextMessageProvider: 3 5
+- Hello there! Welcome to my humble abode!
+- Say, I've seen you around! You must be an explorer!
+- Well there's place that needs exploring, and you're just the spirit to do it! The Silent Woods!
+- I would map it myself, but I'm afraid the weather there wouldn't agree with me. You know. Rain. Ash. Death from above.
+- So you go, and then come tell me all the details! And the dangers!
+- Help me complete this project, and I'll give you a fine discount on any map you need!
+
+lupoTradeGetItemTextMessageProvider: 1 2 3
+- That stone tablet you have there looks familiar...
+- Why, that might be part of the Map Stone! Legend says it reveals the locations of countless riches.
+- Might bear venturing into the Ancient Ruins to see if those rumors are true!
+
+howToClimbSurfacesTextMessageProvider: 1
+- Jump onto blue moss to cling to it!
+
+getHowlFangTextMessageProvider: 1
+- You found a new quest item! A fine trophy for a brave Moki.
+
+nameHowlFangTextMessageProvider: 0
+- Howl Fang
+
+howToStartShrineCombatTextMessageProvider: 1
+- Press [Interact] to initiate the Combat Shrine!
+
+howlsDenTextMessageProvider:
+- C^ITY^ -
+
+howToViewMapTextMessageProvider: 1
+- Press [Map] to view the Map!
+
+inkwaterMarshMokiToKwolokTextMessageProvider: 1 2 8 9
+- The light listens to you. You must be a spirit after all!
+- We Moki thought all the spirits had gone from Niwen.
+- Gone away!
+- So long, spirits!
+- You seek someone. We know a finder.
+- The great one!
+- Great and mossy!
+- Go to the Guardian of the Marsh.
+- Kwolok will help you find your way.
+
+freeGromQuestDescriptionTextMessageProvider:
+- Grom got trapped when he fled from the Nightcrawler. Find a way to free him and he may aid you on your journey.
+
+freeGromQuestNameTextMessageProvider:
+- Quid Pro Quo
+
+freeGromQuestShortDescriptionTextMessageProvider:
+- Find a way to free Grom
+
+equipSpiritEdgeTextMessageProvider: 1
+- To use the Spirit Edge, hold [AbilityWheel] and assign it to [Ability1], [Ability2], or [Ability3].
+
+narratorOriShelterATextMessageProvider:
+- As an ancient light awakened
+
+inkwaterMarshMeetTheMokiTextMessageProvider:
+- People more search
+- Intact
+- Because, how, the same? Because of this
+- #Older#
+- #Alarm tree.#
+- Intact
+- Take!
+- Share your memories
+- Use the fire #immediately,# check them!
+
+saveRoomMokiTextMessageProvider: 1
+- The light from the wells runs all through Niwen.
+- It joins! It heals!
+
+narratorBuildRaftATextMessageProvider:
+- Naru and Gumo sought through the night
+
+howToPowerOnStructuresTextMessageProvider: 1
+- Use the Spirit Arc to power on structures!
+
+howToOpenKwolokGateTextMessageProvider: 1
+- Press [Interact] to insert an Eyestone.
+
+cancelInteractTextMessageProvider: 0
+- [Exit] Going now
+
+kwoloksHollowMokiAfterCutawayTextMessageProvider: 1
+- Kwolok is kind. Kwolok can help.
+
+kwoloksHollowMokiWelcomeTextMessageProvider: 1
+- We Moki saw where the little owl fell.
+- Near the home we left behind.
+- Silent woods!
+- Scary woods!
+
+howToUnlockHutTextMessageProvider: 1
+- Press [StructureInteraction] to unlock the door.
+
+silentWoodsIntroTextMessageProvider: 1
+- Careful, Ori. These woods do not welcome us. They belong to her now.
+
+kwoloksHollowMokiCleanWaterTextMessageProvider: 1
+- The Wellspring has woken! The waters flow clean!
+- Squeaky mill!
+- Rushing water!
+- We can fish now. We can swim!
+
+kwoloksHollowMokiFoulWaterTextMessageProvider: 4
+- The waters here are dark. We cannot fish. We cannot swim.
+- Bad water!
+- Sad water!
+- The mill sits quiet. That is why the waters are so still.
+
+mokiFirstRaceRumorCompleteTextMessageProvider: 1
+- I heard you saw the ghosts.
+- There are other ghosts like that, here and there.
+- If I was fast, I would go race them all.
+
+mokiFirstRaceRumorIntroTextMessageProvider: 1 2 3
+- You are a spirit, yes? I have seen your ghost!
+- No, it is true. There is a place where the ghost spirits run and play.
+- I tried to race them once, but I am not so fast.
+
+mokiFirstRaceRumorRetalkTextMessageProvider: 1
+- Why are the ghost spirits in such a hurry? Where are they going?
+- They are all that is left of the old spirits now. I hope they do not leave, too.
+
+childMokiRetalkTextMessageProvider: 1
+- You are not a Moki, I can tell. Your ears are too floppy.
+
+childMokiTradeDoneTextMessageProvider: 1
+- Hello! The wanderer told me how you helped many Moki and found many secrets.
+- You have floppy ears, but you are good at making friends.
+
+childMokiTradeStartTextMessageProvider: 1
+- You are not a Moki, I can tell. Your ears are too floppy. I notice things. Like this map I found.
+- I would give it to Lupo the Mapmaker, but he has enough maps. It should go to the one who wanders.
+- I hear he used to love maps. Maybe he would love this one?
+- Could you give it him? I saw him up in the Wellspring Glades.
+
+howToDashTextMessageProvider: 1
+- Hold [Left] or [Right], then press [Dash] to Dash Roll!
+
+howToDoubleJumpAirDashTextMessageProvider: 1
+- Press [Dash] after a Double Jump for a longer jumping distance!
+
+howToBashLanternsTextMessageProvider: 1
+- Hold [Bash] near a lantern and choose a direction to Bash!
+
+howToBashProjectilesTextMessageProvider: 1
+- Hold [Bash] to Bash projectiles and reach greater heights!
+
+howToPlaceAmuletTextMessageProvider: 1
+- Press [StructureInteraction] to place the amulet!
+
+narratorEpilogueATextMessageProvider:
+- We think tonight.
+
+narratorEpilogueBTextMessageProvider:
+- Therefore
+
+narratorKuFuneralBTextMessageProvider:
+- I know I'm dying
+
+narratorKuFuneralCTextMessageProvider:
+- KV
+
+kwolokInteractionHintTextMessageProvider: 1
+- Press [Interact] to talk to Kwolok!
+
+kwoloksLamentATextMessageProvider: 5
+- I am saddened for your friend. The Voice of the Forest has done what it can, but its light is weak.
+- Too many have suffered in these dark times. The smallest among us the most.
+- To understand, you must learn the story of this land.
+- Once the great Spirit Willow gave life to all Niwen, the light held cradled in its heart.
+- We lived in balance. But seasons passed, and the Willow could no longer bear its burden.
+
+kwoloksLamentOTextMessageProvider: 1 2
+- And its Voice, who journeys with you. Alone, they are weak. But brought together...
+- If anything can undo the damage that has been done, it is the will of the wisps.
+- No longer can I remain hidden in my hollow.
+- I too will join the search. Farewell, little one. The Moki and I will help you where we can!
+
+kwoloksWarningRetalkTextMessageProvider:
+- I hope I buy a camera
+- When I see myself, the future of the past ...
+- Green day again
+
+kwoloksWarningTextMessageProvider:
+- Again
+- When you say you have put back water
+- The problem is the smell. Your mistake is your wine.
+- The east sea opened calmly but of course.
+- Hog
+- You see your friends ...
+
+meetingKwolokATextMessageProvider:
+- Yes, water is often a good relationship.
+
+meetingKwolokRetalkTextMessageProvider:
+- Korean units are always a good solution or space.
+- Take care of people in this country
+
+meetingKwolokTextMessageProvider:
+- I will win! How? your life must vanish
+- Yes, sog is very good, but I think it's time.
+- I know my stomach will come and very little.
+- The pain tells my friends about owls.
+- Good tree in the middle
+- This is a disaster.
+- High water and water can not.
+- However. West cave, but the prize is good.
+- Water returns when you start your cell phone.
+- I want this for you but I liked it, but I know.
+- The people make a game. But parents
+- The risk can be overcome.
+
+kwoloksLamentMokiTextMessageProvider:
+- You are gold to tell you.
+- Follow your partner
+
+mokiMourningKuRetalkTextMessageProvider:
+- I think you get it
+
+mokiMourningKuTalkAfterKwolokTextMessageProvider: 1 2
+- We Moki are sad Shriek hurt the little owl.
+- We are sad that Kwolok is gone, too.
+- We are not sad that you are trying to help. But we are worried.
+
+moraDefeatedDTextMessageProvider:
+- I'll die forever?
+
+wispFirstVoiceTextMessageProvider:
+- You see the forest when I see the last moment
+- I made this area high and wet. But I have everything, you have to see me.
+
+mouldwoodGateMokiAfterGateOpensTextMessageProvider: 1
+- We will wait for you! Keep out of the darkness.
+- It skitters.
+- It bites.
+- Good luck.
+
+mouldwoodGateMokiTextMessageProvider: 1 2 5
+- When darkness came, Moki came to check the Mouldwood Depths, but the gate was closed!
+- Now Kwolok has sent us to open it for you. Because a light was lost inside. A light like yours.
+- Little light.
+- Lonely light.
+- It is dark, but maybe you can find it, if you shine bright enough.
+
+spiderlingMouldwoodEntranceATextMessageProvider: 1
+- You! You are the spirit who cured our mother.
+- It saddened us, seeing her changed like that. It scared us.
+- But she is better now. Thank you, spirit!
+
+spiderlingMouldwoodEntranceBTextMessageProvider:
+- I don't miss the internet.
+- Not here, not dark, there is no big problem in my eyes.
+- Thank you to the Internet
+
+spiderlingMouldwoodEntranceShrineRumorTextMessageProvider: 2 3
+- Not all surface creatures glow, like you. We know. There is one other in the darkness.
+- It seems...troubled. We saw it wandering near the Ancient Shrine.
+- Mother tells us not to go there. She is wise. Wiser than that surface creature.
+
+baurShriekBackstoryATextMessageProvider:
+- Chaos Status
+
+iceFisherFirstEncounterRetalkTextMessageProvider: 2 3 4
+- A hearty soup is just the thing to take the mind off your worries.
+- A little Moki taught me that once, long ago. She taught me how to cook, and fish!
+- She helped me get by, after Shriek... well, after I was left on my own.
+- I think it would make her proud, seeing how popular my soup is amongst the Moki in these Glades!
+
+iceFisherFirstEncounterTextMessageProvider: 1 3
+- Ah! And you must be Ori. Welcome, welcome. What an honor...a spirit in my own kitchen!
+- Oh dear, I apologize for the chill. Please, help yourself to a warm spot by the fire!
+- Me? I’m used to the cold. The Decay froze over my old home in Baur’s Reach a long time ago.
+- Besides, these frozen waters are home to the tastiest fish... Once you can get beneath the ice, that is!
+- Every visitor can count on some warmth and a full belly. That’s the least I can do, in these dark times.
+
+iceFisherGetItemTextMessageProvider:
+- I burned it? They use you
+- Because of fear and fear?
+- This is the best solution for team soup. What Ith
+
+iceFisherRetalkTextMessageProvider: 3
+- Oh, I’m a little old to be clambering after rare ingredients myself these days.
+- I’m quite content with some ice fishing here and there. Gives me time to think.
+- It’s the Moki that help with gathering supplies. And in exchange, they get soup! Everyone’s happy.
+
+hubMokiDialogETextMessageProvider: 2
+- You’re lucky! Usually the soup line is very long.
+- Sometimes, it reaches all the way to Grom!
+- But the soup is worth it. So warm! So creamy!
+
+iceFisherInteractionHintTextMessageProvider: 1
+- Press [Interact] to talk to Veral!
+
+howToExitGateTextMessageProvider:
+- Click [Up] to press! Click [Up] to press!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+howToOpenKwolokGateTextMessageProvider:
+- Press [Interact] to insert an #Eyestone#.
+kwoloksHollowMokiAfterCutawayTextMessageProvider:
+- #Kwolok# is kind. #Kwolok# can help.
+kwoloksHollowMokiWelcomeTextMessageProvider:
+- We Moki saw where the #little owl# fell.
+- Near the home we left behind.
+- Silent woods!
+- Scary woods!
+howToExitGateTextMessageProvider:
+- Press [Up] to exit!
+childMokiRetalkTextMessageProvider:
+- You are not a #Moki#, I can tell.\nYour ears are too floppy.
+childMokiTradeDoneTextMessageProvider:
+- Hello! The #wanderer# told me how you\nhelped many Moki and found many secrets.
+- You have floppy ears, but you are good at making friends.
+childMokiTradeStartTextMessageProvider:
+- You are not a #Moki#, I can tell. Your ears are too floppy.\nI notice things. Like this #map# I found.
+- I would give it to #Lupo the Mapmaker#, but he has enough maps. It should go to the #one who wanders#.
+- I hear he used to love maps.\nMaybe he would love this one?
+- Could you give it him? I saw him\nup in the #Wellspring Glades#.
+iceFisherFirstEncounterRetalkTextMessageProvider:
+- A hearty soup is just the thing to\ntake the mind off your worries.
+- A little #Moki# taught me that once, long ago.\nShe taught me how to cook, and fish!
+- She helped me get by, after #Shriek#...\nwell, after I was left on my own.
+- I think it would make her proud, seeing how popular\nmy soup is amongst the #Moki# in these #Glades#!
+iceFisherFirstEncounterTextMessageProvider:
+- Ah! And you must be Ori. Welcome, welcome.\nWhat an honor...a #spirit# in my own kitchen!
+- Oh dear, I apologize for the chill. Please,\nhelp yourself to a warm spot by the fire!
+- Me? I’m used to the cold. The #Decay# froze\nover my old home in #Baur’s Reach# a long time ago.
+- Besides, these frozen waters are home to the tastiest\nfish... Once you can get beneath the ice, that is!
+- Every visitor can count on some warmth and a full belly.\nThat’s the least I can do, in these dark times.
+iceFisherGetItemTextMessageProvider:
+- You...brought me spicy herbs? Where did you find them?
+- They only grow on dangerous outcrops,\nand must be harvested 'neath the full moon!
+- And they’re just what I need to make\nthe perfect marshclam soup. What a rare treat!
+iceFisherRetalkTextMessageProvider:
+- Oh, I’m a little old to be clambering\nafter rare ingredients myself these days.
+- I’m quite content with some ice fishing\nhere and there. Gives me time to think.
+- It’s the #Moki# that help with gathering supplies.\nAnd in exchange, they get soup! Everyone’s happy.
+hubMokiDialogETextMessageProvider:
+- You’re lucky! Usually the soup line is very long.
+- Sometimes, it reaches all the way to #Grom#!
+- But the soup is worth it. So warm! So creamy!
+iceFisherInteractionHintTextMessageProvider:
+- Press [Interact] to talk to #Veral#!
+lagoonMokiFirstEncounterFoundKwolokTextMessageProvider:
+- These paths are twisty,\nbut I knew you would find #Kwolok#.
+- And he went to the #west#?
+- ...Too bad I cannot swim.
+- If you see him again, could you give him this?
+lagoonMokiFirstEncounterKwolokDeadTextMessageProvider:
+- You found him! He’s the wisest, isn’t he?\nSo wise and...
+- #Kwolok#...is gone? 
+- O Great Guardian, #Protector of the Moki#!\nWho will give us advice now?
+- I must pay my respects...but I am not\nstrong enough to travel back to the #Marsh#.
+- This #amulet#. Kwolok gave it to me long ago.\nCould you bring it to his pool in the #Hollow#?
+lagoonMokiFirstEncounterRetalkTextMessageProvider:
+- Have you found #Kwolok#?
+- I searched #east#, and all\nI found were #bubbles#.
+- They are good to bounce on,\nbut not good for advice.
+lagoonMokiFirstEncounterTextMessageProvider:
+- Have you seen #Kwolok#?\nI heard he came to the #Luma Pools#.
+- But I can't find him.\nIt is bigger here than I remember.
+- Kwolok is #wise#. I need his advice.\nIf you find him, could you let me know?
+lagoonMokiGiveItemRetalkTextMessageProvider:
+- I'm sorry I can't join you.\nI need some time to myself.
+lagoonMokiHubTextMessageProvider:
+- I have met many Moki here.\nWe carry #Kwolok's# wisdom with us.
+- Every night we tell his stories.\nOf the light, and the marsh, and the #Decay#.
+- And of a #spirit# who came to help.\nThat one is my favorite.
+lagoonMokiSecondEncounterFoundKwolokTextMessageProvider:
+- These pool paths are twisty,\nbut I knew you would find #Kwolok#.
+- And he went to the #west#?
+- ...Too bad I cannot swim.
+- If you see him again, could you give him this?
+lagoonMokiSecondEncounterKwolokDeadTextMessageProvider:
+- #Kwolok#...is gone? What will we Moki do!?
+- Great #Guardian#! Great teacher\nboth mossy and wise!
+- I must pay my respects...but I am not\nstrong enough to travel back to the #Marsh#.
+- This #amulet#. Kwolok gave it to me long ago.\nCould you bring it to his #pool# in the #Hollow#?
+lagoonMokiSecondEncounterRetalkTextMessageProvider:
+- That #amulet# is very special.
+- #Kwolok# gave it to me when I was little.
+- This will give you courage, he said.
+- But it was not the #amulet# that gave me courage. It was #Kwolok#.
+lagoonMokiThirdEncounterKwolokDeadTextMessageProvider:
+- #Kwolok#...is gone? What will we Moki do?
+- Great Guardian! Great teacher\nboth mossy and wise!
+- I must pay my respects...but I am not\nstrong enough to travel back to the #Marsh#.
+- This #amulet#. Kwolok gave it to me long ago.\nCould you bring it to his #pool# in the #Hollow#?
+baursReachWispIntroTextMessageProvider:
+- We're entering the domain of the great #Baur#.\nHe sleeps ahead, weary from the long winter of the #Decay#.
+- But the #Memory of the Forest# remembers the spring.\nMaybe we can remind #Baur#, too. If we can wake him.
+inkwaterMarshMokiMillRestartedRetalkTextMessageProvider:
+- (The moki should scamper off after the previous line, so if you're reading this, it means that hasn't been implemented yet)
+inkwaterMarshMokiMillRestartedTextMessageProvider:
+- The waters #flow# once more.
+- Swift and clear!
+- Bright and clean!
+- You are very brave.
+- So #brave#!
+- So #soggy#!
+- We must tell #Kwolok#. This is\na happy day for all the marsh!
+opherWatermillEntranceRetalkTextMessageProvider:
+- I've tried everything to get this door open, to no avail.
+- Tell you what. Why don't you look around for a #way\nto open it# while I continue poking, hmm?
+opherWatermillEntranceTextMessageProvider:
+- Hello again, spirit. Well, I've decided to find that #old library#!
+- And I hear you want to start the #Wellspring#\nwheels spinning again. A noble quest!
+- I'm afraid, however, that this door might well\nbe the end of both our journeys. It won't budge.
+wispMillIntroTextMessageProvider:
+- We remember this place. Water from the #Luma Pools#\nflows through here, feeding the marsh with life...
+- Or...it used to flow, before the #Decay#.\nBefore the mill stopped.
+firstRacePedestalHintTextMessageProvider:
+- You unlocked a #Spirit Trial#!\nFind the #Start Pedestal# to begin the challenge!
+reachMokiFeatherHintRetalkTextMessageProvider:
+- I have been standing here a long time,\nbut the #bear# does not wake.
+- Maybe I will try #tickling# him again if\nI can find something #bigger# than a tuft of grass.
+reachMokiFeatherHintTextMessageProvider:
+- Oh, hello. Are you going to the cold place?\nI am going there to pick some #reachberries#.
+- Or...I wanted to go. But there is a\n#large bear# in the way. He is sleeping.
+- I tried to wake him by #tickling his nose#\nwith a tuft of grass, but it did not work.
+- Maybe grass is #not big enough#?\nMaybe I am not big enough.
+baurAfterGoldenSeinTextMessageProvider:
+- I dreamt that the light returned\nto this land, by a spirit's hand.
+- Niwen has seen more than\nits share of darkness.
+- Now it begins to truly wake\nafter a long winter's sleep.
+- Travel far, little spirit, and spread\nthe warmth of spring as you go.
+baurAfterKwoloksDeathTextMessageProvider:
+- I dreamt of #Kwolok#, great\nguardian, as I slept.
+- He was more than just a\ncaretaker of #Moki# and marsh.
+- He was the life that flowed beneath its\nroots. The wisdom that guided its waters.
+- He was like a father to the Moki,\nand he will be remembered.
+baurAfterMouldwoodTextMessageProvider:
+- I dreamt of #Mora#, spinner\nof darkness, as I slept.
+- For too long she lived\nin an unbreaking night.
+- Now she greets the dawn.\nAnd her children...
+- They will know what it is to see\ntheir webs glimmer with morning dew.
+baurInteractionHintTextMessageProvider:
+- Press [Interact] to talk to #Baur#!
+baurPostShriekBackstoryTextMessageProvider:
+- She...is lost. A pitiful creature.\nHer heart is stone.
+- Gone too is the summer\nof the past, never to return.
+- But thanks to you, spirit, a new summer\nwill rise to take its place.
+- So have I dreamt.
+baurPostThawRetalkTextMessageProvider:
+- I dreamt of #Shriek#, the stone-wing, as I slept.
+- The winter of the #Decay# was long and cold.\nBut the memory of warmth sustained me.
+- Can a creature who has never known\nthe light truly escape the darkness?
+- Perhaps. Or perhaps she will try to\npull us all down into darkness with her.
+baurPostThawTextMessageProvider:
+- Open your eyes, little spirit. You are safe now.
+- You have awoken the forest's Memory,\nand me with it.
+- I almost didn't find you in all that snow.
+- Now spring will return to the Reach...\nthough some might not welcome it.
+- The creature Shriek is one. I saw her\nas I slept and dreamt dark dreams.
+baurReplayMemoryOfferAcceptedTextMessageProvider:
+- Good. It is good to dream.
+baurReplayMemoryOfferRefusedTextMessageProvider:
+- Another time then.\nThere is always time to dream.
+baurReplayMemoryOfferTextMessageProvider:
+- Will you share my dreams\nof what has been, spirit?
+wakingBaurRetalkTextMessageProvider:
+- Zzz.
+wakingBaurTextMessageProvider:
+- I dreamt of your arrival, spirit.
+- But you are too late.\nAnd this land is too hard, too cold.
+- The spring blossoms sleep under the ice,\nhigh upon the mountain peak.
+- There is nothing to do...but sleep.
+howToStartShrineCombatTextMessageProvider:
+- Press [Interact] to initiate the #Combat Shrine#!
+howToSaveGameShrineEntranceTextMessageProvider:
+- [DialogueOption1] Save
+howToSaveGameShrineEntranceWithWarpTextMessageProvider:
+- [DialogueOption1] Save   [DialogueOption2] Warp
+howToFlapFeatherOnBTextMessageProvider:
+- Press [Ability3] to #Flap# and generate a burst of wind!
+howToFlapFeatherOnXTextMessageProvider:
+- Press [Ability1] to #Flap# and generate a burst of wind!
+howToFlapFeatherOnYTextMessageProvider:
+- Press [Ability2] to #Flap# and generate a burst of wind!
+howToFlapFeatherTextMessageProvider:
+- To use #Flap#, hold [AbilityWheel] and assign it to [Ability1], [Ability2], or [Ability3].
+howToFlingTextMessageProvider:
+- Aim [WASD] and press [Jump] to #fling# Ori from spinning wheels!
+opherAfterEnemyChallengeTextMessageProvider:
+- What a maze this old mill is! No time\nto tarry, though. Still a ways to go.
+- I've knowledge to acquire,\nand you've a mill to unstick.
+- And a friend to find, I hear?\nGood luck! No time to waste!
+adventurerMokiAfterTradeTextMessageProvider:
+- I will begin exploring soon.\nAs soon as I can decide which way to go.
+- So many choices...
+adventurerMokiFirstEncounterTextMessageProvider:
+- Are you an #explorer#? I am.\nOr I will be, someday.
+- I came all the way to the #Wellspring#\nto start exploring, but it is not going well.
+- I need supplies, tools, food...\nand #something to carry it all in#.
+- Exploring is hard.
+adventurerMokiHubTextMessageProvider:
+- I cannot wait to go out and explore more.
+- Or maybe I will stay here, and tell\nother Moki about my exploring?
+- Yes, that is a much better idea.
+adventurerMokiTradeItemTextMessageProvider:
+- Yes, exploring is harder than I thought.\nEspecially without a #bag# to carry--
+- Oh. That is a very #big bag# you have.\nMay I have it? Oh thank you!
+- Here, you can have my old #herb pouch#.\nThe pouch is old but the #herbs# are fresh. So fresh.
+getCompassTextMessageProvider:
+- You found a new #quest item#!\nPlaced in water, it always points north. Excellent for finding one's way.
+nameCompassTextMessageProvider:
+- Iron Needle
+getSeedTextMessageProvider:
+- You found a new #quest item#!\nIt glows dimly. Perhaps someone knows what sort of seed it is?
+nameSeedTextMessageProvider:
+- Mysterious Seed
+wispStenchTeaseTextMessageProvider:
+- The #Wellspring# was once a home to a #great library#, Ori.\nKnowledge flowed like water through its walls.
+- Now, much of what once was is lost, and the water sits still.
+allAreasLupoFirstEncounterTextMessageProvider:
+- Greetings, traveler! I am Lupo,\nCartographer Extraordinaire!
+- Rumor has it you're looking for a friend, and\nwhat's better for finding things than a #map#?
+hubHomeAfterBreakingStuffTextMessageProvider:
+- Ah! Thanks for helping to clear\nthe clutter around my humble abode!
+- Less stuff means more room for maps!
+lupoIntroRetalkTextMessageProvider:
+- ... Still working on my latest map. You can't rush perfection, you know?
+lupoIntroTextMessageProvider:
+- Greetings, traveler! I am Lupo,\nCartographer Extraordinaire!
+- Rumor has it you're looking for a friend, and\nwhat's better for finding things than a #map#?
+lupoBuyMapButtonTextMessageProvider:
+- [DialogueOption1] Purchase
+lupoDeclineMapButtonTextMessageProvider:
+- [Exit] No Thanks
+lupoInteractionHintTextMessageProvider:
+- Press [Interact] to talk to #Lupo#!
+lupoShopBoughtEverythingTextMessageProvider:
+- That's all my notes! You're more than prepared\nto explore the world! Good luck!
+lupoShopBoughtPinFarewellTextMessageProvider:
+- Much obliged!
+lupoShopDeclinedTextMessageProvider:
+- Maybe some other time, then.
+lupoShopSalesPitchTextMessageProvider:
+- I've been marking down some of my\nobservations on these maps. Care to see?
+lupoQuestCompletedRetalkTextMessageProvider:
+- Thank you for your assistance mapping the #Silent Woods#!
+- It might not be my most accurate map,\nbut it's definitely one of the most exciting!
+- As a matter of fact, all maps are exciting.\nStill, few require the mapmaker to weather such peril!
+lupoQuestCompletedTextMessageProvider:
+- Ah ha! If it isn't my favorite student of the #Silent Woods#!
+- That's the last bit we needed! This map looks\nfantastic! We know all the nooks and crannies now!
+- Now I won't get lost, not that I'll ever go!\nNow, as #Apprentice Mapmaker#, you get a #discount# on any map!
+lupoQuestExploredATextMessageProvider:
+- Back from the #Silent Woods# so soon?\nWhat have you found?
+- Skeletal structures? Crumbling bones!?\nSounds...perfectly normal! Ahem.
+- Hmm. Some parts have not been fully explored.\nMapping demands thoroughness, you know.
+lupoQuestExploredBTextMessageProvider:
+- Ah, the stalker of the #Silent Woods# returns!\nSo? What's out there?
+- Sucking tar pits? Exploding fauna!?\nMy! How lovely!
+- The map's taking shape, but some paths are still blank.\nCome back when you've seen it #all#!
+lupoQuestStartRetalkTextMessageProvider:
+- Mark every landmark! Gauge every\ndistance! Chart every direction!
+- Then, using all your keen\nobservations, I'll make a map!
+- I mean we! We'll make a map!
+lupoQuestStartTextMessageProvider:
+- Hello there! Welcome to my humble abode!
+- Say, I've seen you around! You must be an explorer!
+- Well there's place that needs exploring,\nand you're just the spirit to do it! The #Silent Woods#!
+- I would map it myself, but I'm afraid the\nweather there wouldn't agree with me. You know.\nRain. Ash. Death from above.
+- So you go, and then come tell me\nall the #details#! And the dangers!
+- Help me complete this project, and I'll\ngive you a fine discount on any map you need!
+lupoTradeGetItemTextMessageProvider:
+- That #stone tablet# you have there looks familiar...
+- Why, that might be part of the #Map Stone#!\nLegend says it reveals the locations of countless riches.
+- Might bear venturing into the #Ancient Ruins# to see if those rumors are true!
+howToLeashTextMessageProvider:
+- Aim [WASD] towards a hook and press [Grapple] to #grapple# to it!
+narratorOriEntersWellspringATextMessageProvider:
+- Though the distance was vast
+narratorOriEntersWellspringBTextMessageProvider:
+- It could not keep the family apart
+opherRescuesOriFromStinkSpiritTextMessageProvider:
+- A foul presence, indeed!
+- On we go! Hurry!
+mokiFirstRaceRumorCompleteTextMessageProvider:
+- I heard you saw the #ghosts#.
+- There are other ghosts like that, here and there.
+- If I was fast, I would go race them all.
+mokiFirstRaceRumorIntroTextMessageProvider:
+- You are a #spirit#, yes?\nI have seen your ghost!
+- No, it is true. There is a place\nwhere the #ghost spirits# run and play.
+- I tried to #race# them once,\nbut I am not so fast.
+mokiFirstRaceRumorRetalkTextMessageProvider:
+- Why are the #ghost spirits# in such a hurry?\nWhere are they going?
+- They are all that is left of the old\nspirits now. I hope they do not leave, too.
+saveRoomMokiTextMessageProvider:
+- The light from the #wells# runs all through #Niwen#.
+- It joins! It heals!
+howToBashLanternsTextMessageProvider:
+- Hold [Bash] near a lantern and choose a direction to #Bash#!
+howToBashProjectilesTextMessageProvider:
+- Hold [Bash] to #Bash# projectiles and #reach greater heights#!
+howToPlaceAmuletTextMessageProvider:
+- Press [StructureInteraction] to #place the amulet#!
+narratorEpilogueATextMessageProvider:
+- We shall always remember the night
+narratorEpilogueBTextMessageProvider:
+- When hope faltered
+narratorKuFuneralBTextMessageProvider:
+- Only the Wisps knew the way forward
+narratorKuFuneralCTextMessageProvider:
+- To restore what had been lost
+kwolokInteractionHintTextMessageProvider:
+- Press [Interact] to talk to #Kwolok#!
+kwoloksLamentATextMessageProvider:
+- I am saddened for your friend. The Voice of the\nForest has done what it can, but its light is weak.
+- Too many have suffered in these dark times.\nThe smallest among us the most.
+- To understand, you must\nlearn the story of this land.
+- Once the great Spirit Willow gave life to all Niwen,\nthe light held cradled in its heart.
+- We lived in balance. But seasons passed, and\nthe Willow could no longer bear its #burden#.
+kwoloksLamentOTextMessageProvider:
+- And its #Voice#, who journeys with you.\nAlone, they are weak. But brought together...
+- If anything can undo the damage that\nhas been done, it is the #will of the wisps#.
+- No longer can I remain hidden in my hollow.
+- I too will join the search. Farewell, little one.\nThe Moki and I will help you where we can!
+kwoloksWarningRetalkTextMessageProvider:
+- You give me hope for this land, little one.
+- When I look at you, I think\nperhaps the past is the future...
+- A faded season, sprung green again.
+kwoloksWarningTextMessageProvider:
+- Welcome back, little one.
+- The Moki tell me you have taught\nthe clear waters to flow once more.
+- The stench that once hung over the\nWellspring is gone. Our marsh is in your debt.
+- The way east to the Silent Woods\nis now open, but beware.
+- The one the Moki call Shriek lives there.\nHer heart is stone, her cry is pain.
+- I pray you find your friend...\nbefore she does.
+meetingKwolokATextMessageProvider:
+- Yes. Go to the Wellspring, and\nteach its waters to flow again.
+meetingKwolokRetalkTextMessageProvider:
+- The Wellspring mill sits silent,\nits great gears unmoving.
+- Go fix what ails it, that the\nwaters might flow once more.
+meetingKwolokTextMessageProvider:
+- Harrunk!\nA spirit in my marsh?
+- So the Moki were right. I wanted\nto believe...but it has been so long.
+- I am Kwolok, and you are\nwelcome in my marsh, little one.
+- The Moki tell me you seek your\nfriend, an owlet. She fell far to the east.
+- The Silent Woods hold her now.
+- Where the owls are no more.
+- Once, the waterway behind me led there,\nbut the waters have grown foul and impassable.
+- There is one way, however. The Wellspring\nto the west, a great watermill, sits silent.
+- Were you to set its wheels in motion,\nthe waters would flow clear once more.
+- I would accompany you, but the Moki need me.\nI can give you something, however.
+- A fragment of the ancient light that\nonce brightened these wilds.
+- May its voice be your guide through this perilous land.
+kwoloksLamentMokiTextMessageProvider:
+- We found this, Ori.\nIt will help you go far.
+- We will stay and watch over your friend.
+mokiMourningKuRetalkTextMessageProvider:
+- You go. We will watch her.
+mokiMourningKuTalkAfterKwolokTextMessageProvider:
+- We Moki are sad #Shriek# hurt the little owl.
+- We are sad that #Kwolok# is gone, too.
+- We are not sad that you are trying to help.\nBut we are worried.
+moraDefeatedDTextMessageProvider:
+- If it remains fragmented,\nit will dwindle and die forever.
+wispFirstVoiceTextMessageProvider:
+- I am the Voice of the Forest. It has been\na long time since I last saw your kind.
+- And a long time since I last left the Marsh. But I will do my best. The Wellspring needs us.
+mouldwoodGateMokiAfterGateOpensTextMessageProvider:
+- We will wait for you! Keep out of the #darkness#.
+- It skitters.
+- It bites.
+- Good luck.
+mouldwoodGateMokiTextMessageProvider:
+- When #darkness# came, Moki came to check the\n#Mouldwood Depths#, but the gate was closed!
+- Now Kwolok has sent us to open it for you.\nBecause a #light# was lost inside. A light like yours.
+- Little light.
+- Lonely light.
+- It is dark, but maybe you can find it,\nif you #shine bright enough#.
+spiderlingMouldwoodEntranceATextMessageProvider:
+- You!  You are the #spirit# who cured our mother.
+- It saddened us, seeing her changed like that. It scared us.
+- But she is better now. Thank you, spirit!
+spiderlingMouldwoodEntranceBTextMessageProvider:
+- We have never been out of the web before.
+- It is different up here. Less dark. Less damp.
+- We miss our web.
+spiderlingMouldwoodEntranceShrineRumorTextMessageProvider:
+- Not all surface creatures glow, like you.\nWe know. There is one other in the darkness.  
+- It seems...troubled. We saw it\nwandering near the #Ancient Shrine#.
+- Mother tells us not to go there.\nShe is wise. Wiser than that #surface creature#.
+kwoloksHollowMokiCleanWaterTextMessageProvider:
+- The #Wellspring# has woken!\nThe waters flow clean!
+- Squeaky mill!
+- Rushing water!
+- We can fish now. We can swim!
+kwoloksHollowMokiFoulWaterTextMessageProvider:
+- The waters here are dark.\nWe cannot fish. We cannot swim.
+- Bad water!
+- Sad water!
+- The #mill sits quiet#. That is why\nthe waters are so still.
+howToUnlockHutTextMessageProvider:
+- Press [StructureInteraction] to #unlock the door#.
+silentWoodsIntroTextMessageProvider:
+- Careful, Ori. These woods do not welcome us.\nThey belong to #her# now.
+howToOpenSpiritGateTextMessageProvider:
+- Press [Interact] to insert a #Keystone#.
+narratorSilentWoodsATextMessageProvider:
+- The woods lay still, all ash and bone
+getFamilyReunionItemTextMessageProvider:
+- You found a new #quest item#!\nOnce an object of affection, it is now stiff and gray.
+nameFamilyReunionItemTextMessageProvider:
+- Petrified Doll
+silentWoodsPetrifiedFamilyTextMessageProvider:
+- Oh no... These #Moki# stayed too long in the #Decay#.\nThey are turned to stone, along with the rest of these woods.
+narratorSilentWoodsBTextMessageProvider:
+- It was time to find the way home
+howToGlideBTextMessageProvider:
+- Press and hold [Glide] while in the air to #Glide#!
+narratorSilentWoodsCTextMessageProvider:
+- She guarded the silence
+npcTreeKeeperInteractionHintTextMessageProvider:
+- Press [Interact] to talk to the #Kii#!
+narratorSilentWoodsDTextMessageProvider:
+- And silence was kept
+narratorSilentWoodsETextMessageProvider:
+- The way home, just out of reach
+feedingGroundsTextMessageProvider:
+- - T^HE^ F^EEDING^ G^ROUNDS^ -
+kwoloksLamentFTextMessageProvider:
+- With the Willow's end, the light shattered.
+kwoloksLamentGTextMessageProvider:
+- The spirits perished, and our land fell to Decay.
+kwoloksLamentHTextMessageProvider:
+- The fragments of light were scattered,\nweakened...barely wisps.
+kwoloksLamentITextMessageProvider:
+- Left as they are, their light will fade forever.\nIt is only a matter of time.
+kwoloksLamentJTextMessageProvider:
+- But with the Moki's help,\nI have located the places where they fell.
+howToGrenadeBashTextMessageProvider:
+- Use #Bash# [Bash] on #charged Light Bursts# to reach greater heights!
+howToPlaceCoalTextMessageProvider:
+- Press [StructureInteraction] to place #coal# into the campfire!
+howToGrenadeTextMessageProvider:
+- Hold [AbilityWheel] to assign #Light Burst# to [Ability1], [Ability2], or [Ability3] and use it to #light torches#!
