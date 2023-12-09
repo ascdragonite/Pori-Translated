@@ -8,19 +8,18 @@ namespace DialogueMod
     public class DialogueModMain : MelonMod
     {
 
-        string Database;
+        string Translation;
 
         public override void OnApplicationStart()
         {
             MelonHandler.LoadFromFile("UserLibs/UniverseLib.IL2CPP.Interop.ML.dll");
 
-            Database = System.IO.File.ReadAllText("Mods/Translation.YAML");
+            UniverseLib.Universe.Init();
 
-            GenerateDict(Database);
+            Translation = System.IO.File.ReadAllText("Mods/Translation.YAML");
+
+            GenerateDict(Translation);
         }
-
-
-        // idk what that even means
 
         Dictionary<string, string[]> HeaderDict = new Dictionary<string, string[]>();
 
@@ -68,9 +67,6 @@ namespace DialogueMod
             }
         }
 
-
-        //this part gets all the headers
-        // the headers are the names of the message providers
 
         List<string> headers = new List<string>();
         string[] GetHeaders(string yamlContent)
