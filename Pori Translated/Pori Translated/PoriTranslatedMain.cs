@@ -66,7 +66,10 @@ namespace Pori_Translated
                     {
                         HeaderDict.Add(kvp.Key, kvp.Value);
                         LoggerInstance.Msg(kvp.Key);
-                        LoggerInstance.Msg(kvp.Value.ToString());
+                        foreach (string text in kvp.Value)
+                        {
+                            LoggerInstance.Msg(text);
+                        }
                     }
                 }
 
@@ -182,8 +185,8 @@ namespace Pori_Translated
                     // If an empty line is encountered, stop processing the header
                     break;
                 }
-                elements.Add("");
             }
+            elements.Add("");
             return elements.ToArray();
         }
 
