@@ -8,6 +8,10 @@ using Il2CppInterop.Runtime;
 using Harmony;
 using Il2CppCore;
 using System.Net;
+using Il2CppSystem.Runtime.Remoting.Messaging;
+using UnityEngine;
+using static Il2Cpp.AsyncRaycast;
+using static Il2Cpp.CageMath;
 
 namespace Pori_Translated
 {
@@ -22,25 +26,25 @@ namespace Pori_Translated
 
             LoggerInstance.Msg("hiii :3");
 
-            
+
         }
         public override void OnSceneWasLoaded(int buildIndex, string sceneName)
         {
-            
+
             foreach (TranslatedMessageProvider translatedMessageProvider in RuntimeHelper.FindObjectsOfTypeAll<TranslatedMessageProvider>())
             {
                 if (!HeaderList.Contains(translatedMessageProvider.name + ":"))
                 {
                     HeaderList.Add(translatedMessageProvider.name + ":");
-                    base.LoggerInstance.Msg(translatedMessageProvider.name + ":");
+                    LoggerInstance.Warning(translatedMessageProvider.name + ":");
 
                     List<string> TextList = new List<string>();
                     foreach (TranslatedMessageProvider.MessageItem messageItem in translatedMessageProvider.Messages)
                     {
                         TextList.Add("- " + messageItem.English);
-                        base.LoggerInstance.Msg("- " + messageItem.English);
+                        LoggerInstance.Msg("- " + messageItem.English);
                     }
-
+                    TextList.Add("");
                     DialogList.Add(translatedMessageProvider.name + ":", TextList.ToArray());
                 }
             }
@@ -50,39 +54,67 @@ namespace Pori_Translated
 
         public override void OnApplicationQuit()
         {
+            int origCount = 0;
             Dictionary<string, string[]> result;
             try
             {
-                GenerateDict("Mods/DialogList.yaml");
-                result = DialogList.Union(HeaderDict.Where(k => !DialogList.ContainsKey(k.Key))).ToDictionary(k => k.Key, v => v.Value);
+                GenerateDict(File.ReadAllText("Mods/DialogList.yaml"));
+                origCount = HeaderDict.Count;
+                foreach (var kvp in DialogList)
+                {
+                    if (!HeaderDict.ContainsKey(kvp.Key))
+                    {
+                        HeaderDict.Add(kvp.Key, kvp.Value);
+                        LoggerInstance.Msg(kvp.Key);
+                        LoggerInstance.Msg(kvp.Value.ToString());
+                    }
+                }
+
+                result = HeaderDict;
             }
-            catch 
+            catch
             {
                 LoggerInstance.Msg("DialogList not created yet!!!");
                 result = DialogList;
             }
-
             using (StreamWriter writer = new StreamWriter("Mods/DialogList.yaml"))
             {
                 foreach (KeyValuePair<string, string[]> kvp in result)
                 {
                     writer.WriteLine(kvp.Key);
-                    foreach(string text in kvp.Value)
+                    foreach (string text in kvp.Value)
                     {
                         writer.WriteLine(text);
                     }
                 }
             }
+            LoggerInstance.Msg($"Saved +{result.Count - origCount} entries");
+            LoggerInstance.Msg($"Total entries: {result.Count}");
             LoggerInstance.Msg("DIALOG EXTRACTED SUCCESSFULLY");
         }
 
 
-        //[ascdragonite] from here on is shadowofcat's code
+        //[ascdragonite]: from here on is shadowofcat's code with some modifications
 
+        public void ListDict(Dictionary<string, string[]> dict)
+        {
+            LoggerInstance.BigError("[][][] START OF DICTIONARY [][][]");
+            foreach (var kvp in dict)
+            {
+                LoggerInstance.Warning(kvp.Key);
+                foreach (string text in kvp.Value)
+                {
+                    LoggerInstance.Msg(text);
+                }
+            }
+            LoggerInstance.BigError("[][][] END OF DICTIONARY [][][]");
+        }
 
         public void GenerateDict(string Database)
         {
+
             HeaderDict.Clear();
+
 
             string[] HeaderNames = GetHeaders(Database);
 
@@ -105,21 +137,15 @@ namespace Pori_Translated
         List<string> headers = new List<string>();
         string[] GetHeaders(string yamlContent)
         {
-
             string[] lines = yamlContent.Split('\n');
 
             headers.Clear();
-
             foreach (var line in lines)
             {
                 // Check if the line contains a header
                 if (line.Trim().EndsWith(":"))
                 {
-                    // Debug statement to print the header
-                    string header = line.Replace(":", "");
-                    header = header.Trim();
-
-                    headers.Add(header);
+                    headers.Add(line.Trim());
                 }
             }
             return headers.ToArray();
@@ -138,8 +164,9 @@ namespace Pori_Translated
 
             foreach (var line in lines)
             {
+
                 // Check if the line contains the header name
-                if (line.Trim() == headerName + ":")
+                if (line.Trim() == headerName)
                 {
                     insideHeader = true;
                 }
@@ -148,20 +175,15 @@ namespace Pori_Translated
                     // Check if the line is not empty or a comment
                     // Add the element to the list
                     elements.Add(line.Trim());
+
                 }
                 else if (insideHeader && string.IsNullOrWhiteSpace(line))
                 {
                     // If an empty line is encountered, stop processing the header
                     break;
                 }
+                elements.Add("");
             }
-
-            for (int i = 0; i < elements.ToList().Count; i++)
-            {
-                elements[i] = elements[i].Replace('-', '\0');
-                elements[i] = elements[i].Trim();
-            }
-
             return elements.ToArray();
         }
 
