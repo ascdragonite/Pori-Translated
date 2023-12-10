@@ -125,7 +125,7 @@ namespace DialogueMod
 
             for (int i = 0; i < elements.ToList().Count; i++)
             {
-                elements[i] = elements[i].Replace(":", "");
+                elements[i] = elements[i].Replace("-", "");
                 elements[i] = elements[i].Trim();
             }
 
