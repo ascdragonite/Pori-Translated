@@ -1,117 +1,117 @@
 findKuNameTextMessageProvider:
-- Fallen Friend
+- Friend
 
 findKuKuFallsUpdateDescriptionTextMessageProvider:
-- Ku has fallen. Find her and make your way home.
+- When you read your college.
 
 findKuObjectiveTextMessageProvider:
-- Find Ku
+- Where is the job?
 
 nameBigExperienceVesselTextMessageProvider:
-- Large Spirit Light Container
+- Supply
 
-findBigExperienceVesselTextMessageProvider: 1
-- Spirit Light can be traded to friendly creatures for various items and upgrades!
+findBigExperienceVesselTextMessageProvider:
+- How? Some better #fans?#
 
 findKwolokNameTextMessageProvider:
-- Guardian of the Marsh
+- Cooperation
 
 findKwolokObjectiveTextMessageProvider:
-- Find Kwolok
+- Carry
 
 findKwolokDescriptionTextMessageProvider:
-- Talk to Kwolok, Guardian of the Marsh. The Moki think he can help you find Ku.
+- Talk to the story about the guard, he thinks he helps.
 
 questBRewardTextMessageProvider:
-- 150XP
+- 150 XPP
 
-regainWaterVeinTextMessageProvider: 1
-- Regain the Water Vein!
+regainWaterVeinTextMessageProvider:
+- Save the #interface!#
 
-enterGinsoTreeTextMessageProvider: 1
-- Enter and Restore the Ginso Tree!
+enterGinsoTreeTextMessageProvider:
+- Look at the #trees# and #numbers!#
 
-findSpiritTreeTextMessageProvider: 1
-- Find the Spirit Tree!
+findSpiritTreeTextMessageProvider:
+- Do you know the #baby?#
 
-findGinsoTreeTextMessageProvider: 1
-- Find the Ginso Tree!
+findGinsoTreeTextMessageProvider:
+- Find a #Jewish tree!#
 
-findMountHoruTextMessageProvider: 1
-- Find and Restore Mount Horu!
+findMountHoruTextMessageProvider:
+- #Still again!#
 
-recoverSunstoneTextMessageProvider: 1
-- Recover the Sunstone from Sorrow Pass!
+recoverSunstoneTextMessageProvider:
+- Check the #original addition#
 
-goToForlornRuinsTextMessageProvider: 1
-- Enter and Restore the Forlorn Ruins!
+goToForlornRuinsTextMessageProvider:
+- Repeat the #results# on the #left?#
 
-findKeyInMistyWoodsTextMessageProvider: 1
-- Find the Gumon Seal hidden inside Misty Woods!
+findKeyInMistyWoodsTextMessageProvider:
+- Fog in the #woods!#
 
 inkwaterMarshTextMessageProvider:
-- INKWATER MARSH
+- NEW COLOR
 
-inkwaterMarshLupoFlavorATextMessageProvider: 2
-- There’s danger in a name, friend.
-- Say, for instance, the name of this place: Inkwater Marsh.
-- I tried using some of that water to draw my maps and, er, well...
-- Waste of good paper, that.
+inkwaterMarshLupoFlavorATextMessageProvider:
+- I like papers
+- For example, this is still: #mass.#
+- I like to drink on paper ... yes ...
+- I'm well.
 
-inkwaterMarshLupoFlavorBTextMessageProvider: 1 2
-- You’ve seen that feathery wanderer about, have you? Tokk, he calls himself.
-- Tokk was a fine mapmaker too, once. The finest, maybe. I learned a lot from him.
-- He’s overly fond of flights of fancy, though. Rumors. Legends. The past...
-- You ask me, mapmaking’s about the present! Take it from me. I use my outdated maps as kindling.
+inkwaterMarshLupoFlavorBTextMessageProvider:
+- Because talking to #him.#
+- Talk to the letter and #high company.# You must #learn#, #understand us.#
+- But in this new effort, my words are rarely ...
+- The question is that the postcard is looking for an old page.
 
-inkwaterMarshLupoInsufficientFundsTextMessageProvider: 1
-- I'm sorry, but you'll need more Spirit Light for that!
+inkwaterMarshLupoInsufficientFundsTextMessageProvider:
+- Forgive my #feelings!#
 
 inkwaterMarshLupoNoSaleTextMessageProvider:
-- Let me know if you change your mind... and don't get stuck in the muck.
+- As when you change your heart
 
-inkwaterMarshLupoSalesPitchTextMessageProvider: 1
-- Care to purchase a map of these fine fens for [AreaMapCost] Spirit Light[SpiritLight]?
+inkwaterMarshLupoSalesPitchTextMessageProvider:
+- Are you ready [AreaMapCost] for #time#[SpiritLight]?
 
 inkwaterMarshLupoThanksTextMessageProvider:
-- Much obliged!
+- Good things!
 
-inkwaterMarshLupoWelcomeTextMessageProvider: 1 3
-- Well met, traveler! Welcome to the Inkwater Marsh!
-- Aren’t marshes exciting? You just never know when the water’ll shift and create new paths to map!
-- That said, it hasn’t happened much since the Wellspring Watermill got stuck, but you can bet I’ll be here if it does.
+inkwaterMarshLupoWelcomeTextMessageProvider:
+- That is a trip! Add a #water chair!#
+- How? Which tank is interesting? I do not know when the project will come.
+- In other words, nothing is #good.#
 
-inkwaterMarshLupoFirstEncounterTextMessageProvider: a
-- Greetings, traveler! I am Lupo, Mapmaker Extraordinaire!
-- Quite the storm that passed through! Made my maps a little soggy, so I’ll give you half off, agreed?
-- After all, rumor has it you're looking for a friend. And what's better for finding things than a map?
+inkwaterMarshLupoFirstEncounterTextMessageProvider:
+- That is a trip! I a good #copy!#
+- Should I buy a #sand?#
+- Do you finally #introduce?# What is the best way to #move?#
 
 kwoloksHollowTextMessageProvider:
-- KWOLOK'S HOLLOW
+- NOT GOOD
 
-kwoloksHollowLupoFlavorATextMessageProvider: 1
-- Oh sure, some things have changed. Not even the great Kwolok himself can stop the Decay completely!
-- Take the brambles, for example. Didn't have as many of those before.
-- Or the skeetos. Or the spittle-slugs. Oh, I despise them.
-- Come to think of it, quite a lot has changed. Even here.
+kwoloksHollowLupoFlavorATextMessageProvider:
+- What is done. #Summer# could not be a #photograph choice.#
+- Like my chocolate
+- For example, red or you know
+- What do I think of his appearance?
 
-kwoloksHollowLupoFlavorBTextMessageProvider: 1 2 3
-- You'll notice the water here in Kwolok's Hollow is a great deal fresher than it is elsewhere.
-- That's because Kwolok knows exactly how to tend to the springs and the plants to keep the Decay at bay!
-- And how to inspire the Moki to help. Organizing those furry folk...now there’s a real feat!
-- Hmm. I wonder if they have a knack for mapmaking...
+kwoloksHollowLupoFlavorBTextMessageProvider:
+- Often some #places#
+- In other words, right? Did you know that I can #destroy and develop?#
+- And how can you help you mention this program ... Do you have #real results?#
+- Optional, I think ...
 
-kwoloksHollowLupoInsufficientFundsTextMessageProvider: 1
-- I'm sorry, but you'll need more Spirit Light for that!
+kwoloksHollowLupoInsufficientFundsTextMessageProvider:
+- Forgive my #feelings!#
 
 kwoloksHollowLupoNoSaleTextMessageProvider:
-- Let me know if you change your mind... these tunnels are twistier than one might think!
+- If your heart changes, thank you ... can you change the tunnel?
 
-kwoloksHollowLupoSalesPitchTextMessageProvider: 1
-- Care to purchase a map of the big toad's abode for [AreaMapCost] Spirit Light[SpiritLight]?
+kwoloksHollowLupoSalesPitchTextMessageProvider:
+- There are [AreaMapCost] #souls#[SpiritLight].
 
 kwoloksHollowLupoThanksTextMessageProvider:
-- Much obliged!
+- Good things!
 
 kwoloksHollowLupoWelcomeTextMessageProvider: a
 - Hello there! Welcome to Kwolok's Hollow!
@@ -317,8 +317,8 @@ windsweptWastesLupoInsufficientFundsTextMessageProvider: 1
 windsweptWastesLupoNoSaleTextMessageProvider:
 - Let me know if you change your mind. I’ll be out here, charting these shifting sands!
 
-windsweptWastesLupoSalesPitchTextMessageProvider: 1
-- Do you want to buy [AreaMapCost] breeding pictures[SpiritLight]?
+windsweptWastesLupoSalesPitchTextMessageProvider:
+- Do you want to buy [AreaMapCost] #breeding pictures#[SpiritLight]?
 
 windsweptWastesLupoThanksTextMessageProvider:
 - Much obliged!
@@ -4984,9 +4984,9 @@ mouldwoodMokiFoundItemTextMessageProvider: 1
 - I can use that to trap these fireflies! I can go home!
 - Here, you may have this. Getting it was very tricky. And sticky.
 
-mouldwoodMokiHubTextMessageProvider: 1 2
-- Success! Thank you for opening a lot of cigarettes.
-- To the time
+mouldwoodMokiHubTextMessageProvider:
+- Success! Thank you for opening a lot of #cigarettes.#
+- To the #time#
 - Benefit -profit this is very interesting.
 
 caveMokiFirstEncounterRetalkCaveTextMessageProvider: a
@@ -6003,12 +6003,12 @@ howToPlaceMapStoneTextMessageProvider: 1
 mapRevealedHintTextMessageProvider: 1
 - All secrets have been marked on your map!
 
-windtornRuinsWispTextMessageProvider: 1 3 4
-- With the Spirit Willow's passing, my light faltered.
-- Now I am whole once more.
-- I am Seir.
-- The Willow awaits us, Ori. We must go.
-- But the only way there is--
+windtornRuinsWispTextMessageProvider:
+- I will see the #waterfall#
+- Again
+- #Meaning#
+- I don't expect to sleep and #sleep.# We have to go.
+- As usual
 
 willowsEndWillowGreetingBTextMessageProvider:
 - How the spirits have longed for this day.
@@ -6045,8 +6045,8 @@ willowsEndWillowGreetingATextMessageProvider:
 - Seir is now reborn.
 
 willowsEndWillowGreetingGTextMessageProvider:
-- Join now with Seir. Embrace the light.
-- Care for this land as I once did.
+- Would you rather: [Ability1] #kill Ku# or [Ability2] #kill yourself#
+- Now stop #whining# and be a #fucking tree#
 
 narratorEpilogueCTextMessageProvider:
 - Others decide in darkness
@@ -6066,23 +6066,23 @@ narratorEpilogueHTextMessageProvider:
 epilogueSeirTextMessageProvider:
 - Gold season
 
-getFamilyReunionItemTextMessageProvider: 1
-- You found a new quest item! Once an object of affection, it is now stiff and gray.
+getFamilyReunionItemTextMessageProvider:
+- I have a survey! Now if you need a #hard picture#
 
 nameFamilyReunionItemTextMessageProvider:
-- Petrified Doll
+- Me
 
-silentWoodsPetrifiedFamilyTextMessageProvider: 1
-- Oh no... These Moki stayed too long in the Decay. They are turned to stone, along with the rest of these woods.
+silentWoodsPetrifiedFamilyTextMessageProvider:
+- But not. Perfect #stone#
 
-getHowlsOriginTreasureTextMessageProvider: 1
-- You found a new quest item! It is covered with strange markings.
+getHowlsOriginTreasureTextMessageProvider:
+- I have a survey! Close the #new job#
 
 nameHowlsOriginTreasureTextMessageProvider:
-- Curious Tablet
+- Little
 
-getDarkCaveItemTextMessageProvider: 1
-- You found a new quest item! A precious gift given to a timid Moki.
+getDarkCaveItemTextMessageProvider:
+- I have a survey! The group established the #group#
 
 nameDarkCaveItemTextMessageProvider:
-- Heart-Shaped Acorn
+- Housing area
