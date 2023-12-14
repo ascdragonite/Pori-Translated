@@ -113,139 +113,139 @@ kwoloksHollowLupoSalesPitchTextMessageProvider:
 kwoloksHollowLupoThanksTextMessageProvider:
 - Good things!
 
-kwoloksHollowLupoWelcomeTextMessageProvider: a
-- Hello there! Welcome to Kwolok's Hollow!
-- Here we are in the domain of the great Kwolok, Guardian of the Marsh!
-- Thanks to his care, why, things have hardly changed around here since the Decay came.
+kwoloksHollowLupoWelcomeTextMessageProvider:
+- #Success!#
+- Make a good #permit!#
+- Thank you for your #misuse#
 
-kwoloksHollowLupoFirstEncounterTextMessageProvider: a
-- Greetings, traveler! I am Lupo, Mapmaker Extraordinaire!
-- Here we are in the domain of the great Kwolok, Guardian of the Marsh!
-- Thanks to his care, why, things have hardly changed around here since the Decay came.
+kwoloksHollowLupoFirstEncounterTextMessageProvider:
+- That is a trip! I a good #copy!#
+- Make a good #permit!#
+- Thank you for your #misuse#
 
 lumaPoolsTextMessageProvider:
-- LUMA POOLS
+- TRADE
 
 lumaPoolsLupoFlavorATextMessageProvider:
-- This is the place, my friend! The last remaining source of vitality in these beleaguered wilds.
-- Without the water that flows from these pools, the land would wither, and that mill you restarted would sit silent once more.
-- Places like these, it’s important to protect. And to map!
+- Love this family!\nWild strength and other animals
+- Providing new water\nwithout water and mother.
+- You have to make a ticket!
 
-lumaPoolsLupoFlavorBTextMessageProvider: 2 4
-- You know what I heard?
-- When the Willow died and its light spread across the land, the brightest bit of light landed right here, in Luma Pools!
-- I wonder whether that’s why these pools seem to have avoided the worst.
-- Not that Tokk would admit things aren’t that bad here, mind you... But he does have a flair for the dramatic!
+lumaPoolsLupoFlavorBTextMessageProvider:
+- You know what you want
+- After he died in a #smaller swimming pool#
+- You are not in the pool?
+- Strength must be right. #Remember# ... But this is a #game!#
 
-lumaPoolsLupoInsufficientFundsTextMessageProvider: 1
-- I'm sorry, but you'll need more Spirit Light for that!
+lumaPoolsLupoInsufficientFundsTextMessageProvider:
+- Forgive your #feelings?#
 
 lumaPoolsLupoNoSaleTextMessageProvider:
-- Let me know if you change your mind. I’ll be here observing the flora and avoiding the fauna!
+- If you change your thoughts, you can tell me. Check plants to avoid animals.
 
-lumaPoolsLupoSalesPitchTextMessageProvider: 1
-- Care to purchase a map of this lush locale for [AreaMapCost] Spirit Light[SpiritLight]?
+lumaPoolsLupoSalesPitchTextMessageProvider:
+- You have to work [AreaMapCost] in this #situation.#[SpiritLight]
 
 lumaPoolsLupoThanksTextMessageProvider:
-- Much obliged!
+- Good things!
 
 lumaPoolsLupoWelcomeTextMessageProvider:
-- Hello there, intrepid explorer!
-- Have you ever seen this many colors in one place? Incredible, isn’t it!
-- I’ll let you in on a trade secret. This is where I come for all my ink! The corals make amazing reds, you know.
+- Hello, local vijay! Not!
+- Do you see other flowers? You don't want!
+- Reign. I like all colors! You know great coral.
 
-lumaPoolsFirstEncounterTextMessageProvider: 1
-- Greetings, traveler! I am Lupo, Mapmaker Extraordinaire!
-- Have you ever seen this many colors in one place? Incredible, isn’t it!
-- I’ll let you in on a trade secret. This is where I come for all my ink! The corals make amazing reds, you know.
+lumaPoolsFirstEncounterTextMessageProvider:
+- That is a trip! I a good #copy!#
+- Do you see other flowers? You don't want!
+- Reign. I like all colors! You know great coral.
 
 mouldwoodDepthsTextMessageProvider:
-- MOULDWOOD DEPTHS
+- TALK
 
 mouldwoodDepthsLupoFlavorATextMessageProvider:
-- I’m not ashamed to say it. You’re a welcome sight!
-- There’s only so much gloom and doom I can take. Even in the name of mapmaking!
+- I don't cause discomfort -if!
+- Let my name!
 
 mouldwoodDepthsLupoFlavorBTextMessageProvider:
-- You know what I like? Arms and legs. Two of each, to be precise.
-- Some sorts have four legs, and two arms, and you know, I’m fine with that.
-- Six limbs at most. That’s reasonable, right? More than that, we have a problem.
+- What do you like from your shoulders and feet?
+- I know that this is four meters and the right time for me.
+- At least 6. This is a problem.
 
-mouldwoodDepthsLupoInsufficientFundsTextMessageProvider: 1
-- I'm sorry, but you'll need more Spirit Light for that!
+mouldwoodDepthsLupoInsufficientFundsTextMessageProvider:
+- Forgive your #feelings?#
 
 mouldwoodDepthsLupoNoSaleTextMessageProvider:
-- Let me know if you change your mind. Though I can’t promise I’ll linger for long.
+- If you change your mind, you can say that it is different.
 
-mouldwoodDepthsLupoSalesPitchTextMessageProvider: 1
-- Care to purchase a map while you’re here for [AreaMapCost] Spirit Light[SpiritLight]?
+mouldwoodDepthsLupoSalesPitchTextMessageProvider:
+- Want to buy an [AreaMapCost] #emotional card#[SpiritLight]?
 
 mouldwoodDepthsLupoThanksTextMessageProvider:
-- Much obliged!
+- Good things!
 
-mouldwoodDepthsLupoWelcomeTextMessageProvider: 2
-- Psst. Hi! Does this place give you the creeps or is it just me?
-- On the one hand, the darkness that came with the Decay sure is eerie.
-- On the other, I think I prefer the dark to whatever it’s hiding!
+mouldwoodDepthsLupoWelcomeTextMessageProvider:
+- What is a good somedjwadi party?
+- On the other hand, the name is #good.#
+- But I can like the name!
 
-mouldwoodDepthsFirstEncounterTextMessageProvider: 1 2
-- Psst, traveler! I am Lupo, Mapmaker Extraordinaire, and I'm starting to regret trying to chart the Mouldwood Depths!
-- On the one hand, the darkness that came with the Decay sure is eerie.
-- On the other, I think I prefer the dark to whatever it’s hiding!
+mouldwoodDepthsFirstEncounterTextMessageProvider:
+- Psst tourists! Unfortunately,\ngood disclosures and more detailed jobs are #forgiven.#
+- On the other hand, the name is #good.#
+- But I can like the name!
 
 silentWoodlandsTextMessageProvider:
-- SILENT WOODS
+- THE THIRD DAY
 
 wellspringTextMessageProvider:
-- THE WELLSPRING
+- TRADE
 
-wellspringMillLupoFlavorATextMessageProvider: 2
-- Sometimes I look up at those gears and wonder who could have made all this?
-- Did they have maps to navigate such a network of winding passages and creaking cogs?
-- They must have, surely! What I wouldn’t give to sneak a peek at those ancient charts...
-- Then again, time changes every landscape. And every changed landscape needs new maps!
+wellspringMillLupoFlavorATextMessageProvider:
+- Sometimes I see this tool?
+- Want to print your dentistry and #SMS?#
+- Do you need security? I saw an old letter ...
+- All air programs require new cards.
 
-wellspringMillLupoFlavorBTextMessageProvider: 1 2 3
-- You might see a little patch of gloomy darkness around the Wellspring.
-- That’s not a thundercloud. Just good old Tokk, moody as always.
-- He wasn’t always so downtrodden. But now it’s all Decay this, Corruption that...
-- If you ask me, he worries too much. Less worrying, more mapping. That's what I always say!
+wellspringMillLupoFlavorBTextMessageProvider:
+- By his name in the #cave#
+- There is no #bad screw#,\nso this is an #old signal.#
+- Still good, but now I'm #old# ...
+- What do you think how many roles are played for me? Can I tell you something?
 
-wellspringMillLupoInsufficientFundsTextMessageProvider: 1
-- I'm sorry, but you'll need more Spirit Light for that!
+wellspringMillLupoInsufficientFundsTextMessageProvider:
+- Forgive your #feelings?#
 
 wellspringMillLupoNoSaleTextMessageProvider:
-- Let me know if you change your mind... and don't get caught in the works, eh?
+- If you change your plan to see the role
 
-wellspringMillLupoSalesPitchTextMessageProvider: 1
-- Care to purchase a map of this monumental maze for [AreaMapCost] Spirit Light[SpiritLight]?
+wellspringMillLupoSalesPitchTextMessageProvider:
+- Read this important [AreaMapCost] #group# for a #simple strategy?#[SpiritLight]
 
 wellspringMillLupoThanksTextMessageProvider:
-- Much obliged!
+- Good things!
 
-wellspringMillLupoWelcomeTextMessageProvider: 1
-- Welcome to the Wellspring Mill! Where all the wet comes from! Or came from, at least.
-- I used to be a little nervous about mapping these great gears...what if they suddenly decided to turn again?
-- But they’ve been still as a slumbering spittle-slug for so long now, it’s safe for now. Probably.
+wellspringMillLupoWelcomeTextMessageProvider:
+- The prince's true #position!# Where is your #neighbor?#
+- I'm afraid to fix this great gadget ... now?
+- But long black pepper is real. Tending an
 
-wellspringMillLupoFirstEncounterTextMessageProvider: 1
-- Greetings, traveler! I am Lupo, Mapmaker Extraordinaire! Welcome to the Wellspring Mill.
-- I used to be a little nervous about mapping these great gears...what if they suddenly decided to turn again?
-- But they’ve been still as a slumbering spittle-slug for so long, it’s safe for now. Probably.
+wellspringMillLupoFirstEncounterTextMessageProvider:
+- That is a trip! I a good copy! #Real credit#
+- I'm afraid to fix this great gadget ... now?
+- Free chairs are safe.
 
 wellspringMillAfterMillLupoFlavorATextMessageProvider:
-- This place sure cleaned up nicely!
-- Remarkable what removing a few tenacious tentacles can do for the scenery.
-- Speaking of scenery, all that water has shifted the banks...which means maps need updating!
-- Thankfully I know just the one for that job. Yours truly!
+- Favorite!
+- Fix! You can bring your nose to the burger.
+- When you talk about the situation you need to update all banks ...
+- I know the best place. It was accepted!
 
-wellspringMillAfterMillLupoFlavorBTextMessageProvider: 1
-- Now that the cogs are turning once again, the twisting tracks inside the Wellspring are always changing!
-- Should I make a new map for each new turn of the wheels?
-- Or just one map that must be rotated to be read? I’m dizzy just thinking about it!
+wellspringMillAfterMillLupoFlavorBTextMessageProvider:
+- As a result, you will continue to play under your #teeth#
+- Want to make a new book for each new site?
+- What books do you need to read when you ask questions what to do?
 
-wellspringMillAfterMillLupoInsufficientFundsTextMessageProvider: 1
-- I'm sorry, but you'll need more Spirit Light for that!
+wellspringMillAfterMillLupoInsufficientFundsTextMessageProvider:
+- Forgive your #feelings?#
 
 wellspringMillAfterMillLupoNoSaleTextMessageProvider:
 - I'll be around should you change your mind.
@@ -254,7 +254,7 @@ wellspringMillAfterMillLupoSalesPitchTextMessageProvider: 1
 - Care to purchase a map to celebrate your achievement for [AreaMapCost] Spirit Light[SpiritLight]?
 
 wellspringMillAfterMillLupoThanksTextMessageProvider:
-- Much obliged!
+- Good things!
 
 wellspringMillAfterMillLupoWelcomeTextMessageProvider: 1
 - Well, well, well! You've set the gears in motion and unmade the mess that was this mill! Bravo!
@@ -311,8 +311,8 @@ windsweptWastesLupoFlavorBTextMessageProvider: 1
 - If you do run into him, watch out! He’ll squawk your ear off about the "Gorlek wonders of the past."
 - Me, I’m more concerned about the wonders to come!
 
-windsweptWastesLupoInsufficientFundsTextMessageProvider: 1
-- I'm sorry, but you'll need more Spirit Light for that!
+windsweptWastesLupoInsufficientFundsTextMessageProvider:
+- Forgive your #feelings?#
 
 windsweptWastesLupoNoSaleTextMessageProvider:
 - Let me know if you change your mind. I’ll be out here, charting these shifting sands!
@@ -321,7 +321,7 @@ windsweptWastesLupoSalesPitchTextMessageProvider:
 - Do you want to buy [AreaMapCost] #breeding pictures#[SpiritLight]?
 
 windsweptWastesLupoThanksTextMessageProvider:
-- Much obliged!
+- Good things!
 
 windsweptWastesLupoWelcomeTextMessageProvider:
 - Hello there, weary wanderer!
@@ -348,8 +348,8 @@ windtornRuinsLupoFlavorBTextMessageProvider:
 - Which means I owe you my thanks! Changing wilds means changing maps!
 - And changing maps means more work for yours truly!
 
-windtornRuinsLupoInsufficientFundsTextMessageProvider: 1
-- I'm sorry, but you'll need more Spirit Light for that!
+windtornRuinsLupoInsufficientFundsTextMessageProvider:
+- Forgive your #feelings?#
 
 windtornRuinsLupoNoSaleTextMessageProvider:
 - Let me know if you change your mind. These ruins are no place for an adventurer to lose their way.
@@ -358,7 +358,7 @@ windtornRuinsLupoSalesPitchTextMessageProvider: 1
 - Care to purchase a map of these ramshackle ruins for [AreaMapCost] Spirit Light[SpiritLight]?
 
 windtornRuinsLupoThanksTextMessageProvider:
-- Much obliged!
+- Good things!
 
 windtornRuinsLupoWelcomeTextMessageProvider:
 - Salutations, fellow wayfarer!
@@ -392,7 +392,7 @@ baursReachLupoSalesPitchTextMessageProvider: 1
 - Care to purchase a map of these c-c-cold-bound climes for [AreaMapCost] Spirit Light[SpiritLight]?
 
 baursReachLupoThanksTextMessageProvider:
-- M-Much obliged!
+- M-Good things!
 
 baursReachLupoWelcomeTextMessageProvider: 2
 - Well met, w-w-wintry wanderer!
@@ -415,8 +415,8 @@ baursReachAfterThawLupoFlavorBTextMessageProvider: 2
 - I still have to charge for them, though.
 - Don't get any ideas.
 
-baursReachAfterThawLupoInsufficientFundsTextMessageProvider: 1
-- I'm sorry, but you'll need more Spirit Light for that!
+baursReachAfterThawLupoInsufficientFundsTextMessageProvider:
+- Forgive your #feelings?#
 
 baursReachAfterThawLupoNoSaleTextMessageProvider:
 - Let me know if you change your mind. I’ll be here rolling through the flowers!
@@ -425,7 +425,7 @@ baursReachAfterThawLupoSalesPitchTextMessageProvider: 1
 - Care to purchase a map of these springtime slopes for [AreaMapCost] Spirit Light[SpiritLight]?
 
 baursReachAfterThawLupoThanksTextMessageProvider:
-- Much obliged!
+- Good things!
 
 baursReachAfterThawLupoWelcomeTextMessageProvider:
 - Greetings! Lovely weather we’re having!
@@ -447,8 +447,8 @@ howlsOriginLupoFlavorBTextMessageProvider: a
 - Well, Shriek can still be heard, to be sure. But no howls, no growls.
 - Now that’s news that would make even Tokk smile! I think.
 
-howlsOriginLupoInsufficientFundsTextMessageProvider: 1
-- I'm sorry, but you'll need more Spirit Light for that!
+howlsOriginLupoInsufficientFundsTextMessageProvider:
+- Forgive your #feelings?#
 
 howlsOriginLupoNoSaleTextMessageProvider: 1
 - Let me know if you change your mind. And don’t worry, I won’t think less of you. These burrows can be particularly nasty to navigate.
@@ -457,7 +457,7 @@ howlsOriginLupoSalesPitchTextMessageProvider: 1
 - Care to purchase a map of these twisting tunnels for [AreaMapCost] Spirit Light[SpiritLight]?
 
 howlsOriginLupoThanksTextMessageProvider:
-- Much obliged!
+- Good things!
 
 howlsOriginLupoWelcomeTextMessageProvider: 2
 - Hello there, trusty traveler!
@@ -2467,8 +2467,8 @@ gorlekMinesLupoFlavorBTextMessageProvider: 1 4
 - It’s a sad tale, to be sure. Makes mapping a bit dicey, too, what with those unruly sorts swinging picks at me!
 - I heard the master miner, Grol, went out digging for a cure a while back. I’ll have to ask him about it next time I see him.
 
-gorlekMinesLupoInsufficientFundsTextMessageProvider: 1
-- I'm sorry, but you'll need more Spirit Light for that!
+gorlekMinesLupoInsufficientFundsTextMessageProvider:
+- Forgive your #feelings?#
 
 gorlekMinesLupoNoSaleTextMessageProvider:
 - Let me know if you change your mind. You never know what you’re going to find down here...or what might find you.
@@ -2477,7 +2477,7 @@ gorlekMinesLupoSalesPitchTextMessageProvider: 1
 - Care to purchase a map of these myriad mines for [AreaMapCost] Spirit Light[SpiritLight]?
 
 gorlekMinesLupoThanksTextMessageProvider:
-- Much obliged!
+- Good things!
 
 gorlekMinesLupoWelcomeTextMessageProvider:
 - Hello there, fellow delver in the deep!
@@ -4717,7 +4717,7 @@ hubHomeAfterBreakingStuffTextMessageProvider:
 lupoIntroRetalkTextMessageProvider:
 - ... Still working on my latest map. You can't rush perfection, you know?
 
-lupoIntroTextMessageProvider: 22
+lupoIntroTextMessageProvider: 2
 - Greetings, traveler! I am Lupo, Cartographer Extraordinaire!
 - Rumor has it you're looking for a friend, and what's better for finding things than a map?
 
@@ -4734,7 +4734,7 @@ lupoShopBoughtEverythingTextMessageProvider:
 - That's all my notes! You're more than prepared to explore the world! Good luck!
 
 lupoShopBoughtPinFarewellTextMessageProvider:
-- Much obliged!
+- Good things!
 
 lupoShopDeclinedTextMessageProvider:
 - Maybe some other time, then.
