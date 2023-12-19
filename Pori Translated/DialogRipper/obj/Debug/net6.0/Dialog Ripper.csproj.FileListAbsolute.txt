@@ -1,0 +1,5 @@
+D:\repos\Pori-Translated\Pori Translated\Pori Translated\obj\Debug\net6.0\Dialog Ripper.csproj.AssemblyReference.cache
+D:\repos\Pori-Translated\Pori Translated\Pori Translated\obj\Debug\net6.0\Dialog Ripper.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\Pori-Translated\Pori Translated\Pori Translated\obj\Debug\net6.0\Dialog Ripper.AssemblyInfoInputs.cache
+D:\repos\Pori-Translated\Pori Translated\Pori Translated\obj\Debug\net6.0\Dialog Ripper.AssemblyInfo.cs
+D:\repos\Pori-Translated\Pori Translated\Pori Translated\obj\Debug\net6.0\Dialog Ripper.csproj.CoreCompileInputs.cache
