@@ -5613,7 +5613,7 @@ howToFlapFeatherTextMessageProvider:
 - Use [AbilityWheel] #food and grow# [Ability1], [Ability2], [Ability3].
 
 howToFlingTextMessageProvider:
-- #Tired.# [WaASD] Tires [Jump] are used.
+- #Tired.# [WASD] Tires [Jump] are used.
 
 opherAfterEnemyChallengeTextMessageProvider:
 - What is the complexity of this old plant? Poor license
